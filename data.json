@@ -1,4 +1,56 @@
 {
-  "message": "Hello GitHub",
-  "timestamp": "2025-02-01T15:03:21.301Z"
+  "categories": [
+    {
+      "Category ID": "screens",
+      "Category Name": "Screen Printing",
+      "subcategories": []
+    },
+    {
+      "Category ID": "embroidery",
+      "Category Name": "Embroidery",
+      "subcategories": [
+        {
+          "Subcategory ID": "polo",
+          "Category ID": "embroidery",
+          "Subcategory Name": "Polo Shirts"
+        },
+        {
+          "Subcategory ID": "headwear",
+          "Category ID": "embroidery",
+          "Subcategory Name": "Hats/Caps"
+        },
+        {
+          "Subcategory ID": "beanie",
+          "Category ID": "embroidery",
+          "Subcategory Name": "Beanies"
+        },
+        {
+          "Subcategory ID": "hoodieemb",
+          "Category ID": "embroidery",
+          "Subcategory Name": "Hoodies & Sweatshirts"
+        }
+      ]
+    },
+    {
+      "Category ID": "dtg",
+      "Category Name": "DTG",
+      "subcategories": [
+        {
+          "Subcategory ID": "shirtdtg",
+          "Category ID": "dtg",
+          "Subcategory Name": "T-Shirts"
+        },
+        {
+          "Subcategory ID": "hoodiedtg",
+          "Category ID": "dtg",
+          "Subcategory Name": "Hoodies & Sweatshirts"
+        }
+      ]
+    },
+    {
+      "Category ID": "lasers",
+      "Category Name": "Laser Engraving",
+      "subcategories": []
+    }
+  ]
 }
