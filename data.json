@@ -380,9 +380,34 @@
       ]
     },
     {
-      "Category ID": "lasers",
+      "Category ID": "laser",
       "Category Name": "Laser Engraving",
-      "subcategories": []
+      "subcategories": [
+        {
+          "Subcategory ID": "patchhat",
+          "Category ID": "laser",
+          "Subcategory Name": "Leather Patch Hat",
+          "pricing": []
+        },
+        {
+          "Subcategory ID": "patch",
+          "Category ID": "laser",
+          "Subcategory Name": "Leather Patch Only",
+          "pricing": []
+        },
+        {
+          "Subcategory ID": "coasters",
+          "Category ID": "laser",
+          "Subcategory Name": "Coasters",
+          "pricing": []
+        },
+        {
+          "Subcategory ID": "keychains",
+          "Category ID": "laser",
+          "Subcategory Name": "Keychains",
+          "pricing": []
+        }
+      ]
     }
   ]
 }
