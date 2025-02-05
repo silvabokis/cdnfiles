@@ -34,5 +34,11 @@
     "timestamp": "2025-02-05T10:34:18.589Z",
     "text": "\"Oh, aye, I love 'em!\" exclaimed Hamish, his eyes twinkling like a bag of golden potato chips waiting to be opened.",
     "name": "? StoryBot"
+  },
+  {
+    "type": "user",
+    "timestamp": "2025-02-05T10:56:58.000Z",
+    "text": "\"My new shoes are breaking already. I'm going to have a word with the cobbler\", said Dougal.",
+    "name": "Peter"
   }
 ]
