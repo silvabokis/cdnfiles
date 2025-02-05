@@ -1,4 +1,953 @@
 {
-  "message": "Hello GitHub",
-  "timestamp": "2025-02-01T14:40:01.165Z"
+  "categories": [
+    {
+      "Category ID": "screen",
+      "Category Name": "Screen Printing",
+      "subcategories": [
+        {
+          "Subcategory ID": "standard",
+          "Category ID": "screen",
+          "Subcategory Name": "Standard Tees",
+          "pricing": [
+            {
+              "Subcategory ID": "standard",
+              "Item Name": "Gildan 5000",
+              "Quantity 25-49": 7.25,
+              "Quantity 50-99": 6.5,
+              "Quantity 100-399": 5.5,
+              "Quantity 400-749": 5.2,
+              "Quantity 750+": 4.9,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=16&ColorID=16787&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "standard",
+              "Item Name": "Gildan 2000",
+              "Quantity 25-49": 7.7,
+              "Quantity 50-99": 7.25,
+              "Quantity 100-399": 6.35,
+              "Quantity 400-749": 6.1,
+              "Quantity 750+": 5.9,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=39&ColorID=17130&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "standard",
+              "Item Name": "Anvil 980",
+              "Quantity 25-49": 8.2,
+              "Quantity 50-99": 7.9,
+              "Quantity 100-399": 6.9,
+              "Quantity 400-749": 6.75,
+              "Quantity 750+": 6.45,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=10649&ColorID=100488&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "standard",
+              "Item Name": "Comfort Colors 6030 Pocket Tee",
+              "Quantity 25-49": 15.95,
+              "Quantity 50-99": 15.25,
+              "Quantity 100-399": 14.75,
+              "Quantity 400-749": 14.25,
+              "Quantity 750+": 13.95,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=1963&ColorID=40452&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "standard",
+              "Item Name": "Comfort Colors 1717",
+              "Quantity 25-49": 13.2,
+              "Quantity 50-99": 12.5,
+              "Quantity 100-399": 11.6,
+              "Quantity 400-749": 11.25,
+              "Quantity 750+": 10.8,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=1822&ColorID=34670&LanguageCode=en"
+            }
+          ]
+        },
+        {
+          "Subcategory ID": "fashion",
+          "Category ID": "screen",
+          "Subcategory Name": "Fashion Tees",
+          "pricing": [
+            {
+              "Subcategory ID": "fashion",
+              "Item Name": "Port & Co Fan Favorite PC450",
+              "Quantity 25-49": 8.25,
+              "Quantity 50-99": 7.15,
+              "Quantity 100-399": 6.15,
+              "Quantity 400-749": 5.85,
+              "Quantity 750+": 5.7,
+              "Info Link": "https://www.apparelvideos.com/cs/CatalogBrowser?todo=ss&productId=PC450"
+            },
+            {
+              "Subcategory ID": "fashion",
+              "Item Name": "District Very Important Tee DT6000",
+              "Quantity 25-49": 8.45,
+              "Quantity 50-99": 7.35,
+              "Quantity 100-399": 6.35,
+              "Quantity 400-749": 6.05,
+              "Quantity 750+": 5.9,
+              "Info Link": "https://www.apparelvideos.com/cs/CatalogBrowser?todo=ss&productId=DT6000"
+            },
+            {
+              "Subcategory ID": "fashion",
+              "Item Name": "Bella+Canvas 3001",
+              "Quantity 25-49": 10.6,
+              "Quantity 50-99": 9.5,
+              "Quantity 100-399": 8.5,
+              "Quantity 400-749": 8.2,
+              "Quantity 750+": 8.05,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=29&ColorID=30671&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "fashion",
+              "Item Name": "Gildan 64000",
+              "Quantity 25-49": 8.35,
+              "Quantity 50-99": 7.25,
+              "Quantity 100-399": 6.25,
+              "Quantity 400-749": 5.95,
+              "Quantity 750+": 5.8,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=32&ColorID=29885&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "fashion",
+              "Item Name": "Tultex 202",
+              "Quantity 25-49": 9.6,
+              "Quantity 50-99": 8.5,
+              "Quantity 100-399": 7.5,
+              "Quantity 400-749": 7.2,
+              "Quantity 750+": 7.05,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=10667&ColorID=100923&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "fashion",
+              "Item Name": "American Apparel 2001W",
+              "Quantity 25-49": 9.9,
+              "Quantity 50-99": 8.8,
+              "Quantity 100-399": 7.8,
+              "Quantity 400-749": 7.5,
+              "Quantity 750+": 7.35,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=6364&ColorID=67598&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "fashion",
+              "Item Name": "Next Level 3600",
+              "Quantity 25-49": 10.8,
+              "Quantity 50-99": 9.7,
+              "Quantity 100-399": 8.7,
+              "Quantity 400-749": 8.4,
+              "Quantity 750+": 8.25,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=3214&ColorID=41010&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "fashion",
+              "Item Name": "Alternative Apparel 1070",
+              "Quantity 25-49": 9.5,
+              "Quantity 50-99": 8.4,
+              "Quantity 100-399": 7.4,
+              "Quantity 400-749": 7.1,
+              "Quantity 750+": 6.95,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=2385&ColorID=35087&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "fashion",
+              "Item Name": "District Medal Tee DT564",
+              "Quantity 25-49": 11.75,
+              "Quantity 50-99": 10.65,
+              "Quantity 100-399": 9.65,
+              "Quantity 400-749": 9.35,
+              "Quantity 750+": 9.2,
+              "Info Link": "https://www.apparelvideos.com/cs/CatalogBrowser?todo=ss&productId=DT564"
+            }
+          ]
+        },
+        {
+          "Subcategory ID": "polytri",
+          "Category ID": "screen",
+          "Subcategory Name": "Polyblend & Triblend Tees",
+          "pricing": [
+            {
+              "Subcategory ID": "polytri",
+              "Item Name": "Bella+Canvas USA-Made Jersey Tee 3001U",
+              "Quantity 25-49": 12.6,
+              "Quantity 50-99": 11.5,
+              "Quantity 100-399": 10.5,
+              "Quantity 400-749": 10.2,
+              "Quantity 750+": 10.05,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=2271&ColorID=34523&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "polytri",
+              "Item Name": "Gildan 8000 (50/50)",
+              "Quantity 25-49": 8.25,
+              "Quantity 50-99": 7.1,
+              "Quantity 100-399": 6.1,
+              "Quantity 400-749": 5.8,
+              "Quantity 750+": 5.65,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=146&ColorID=17927&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "polytri",
+              "Item Name": "American Apparel BB401 (50/50)",
+              "Quantity 25-49": 13.4,
+              "Quantity 50-99": 12.5,
+              "Quantity 100-399": 11.5,
+              "Quantity 400-749": 11.2,
+              "Quantity 750+": 11.05,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=6372&ColorID=67647&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "polytri",
+              "Item Name": "Bella+Canvas 3001CVC",
+              "Quantity 25-49": 10.8,
+              "Quantity 50-99": 9.7,
+              "Quantity 100-399": 8.7,
+              "Quantity 400-749": 8.4,
+              "Quantity 750+": 8.25,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=7584&ColorID=79566&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "polytri",
+              "Item Name": "Tultex 254 Triblend",
+              "Quantity 25-49": 10.9,
+              "Quantity 50-99": 9.8,
+              "Quantity 100-399": 8.8,
+              "Quantity 400-749": 8.5,
+              "Quantity 750+": 8.35,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=10718&ColorID=101291&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "polytri",
+              "Item Name": "Next Level 6010 Triblend",
+              "Quantity 25-49": 14.55,
+              "Quantity 50-99": 13.45,
+              "Quantity 100-399": 12.45,
+              "Quantity 400-749": 12.15,
+              "Quantity 750+": 12,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=3221&ColorID=41065&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "polytri",
+              "Item Name": "Next Level CVC 6210",
+              "Quantity 25-49": 10.9,
+              "Quantity 50-99": 9.8,
+              "Quantity 100-399": 8.8,
+              "Quantity 400-749": 8.5,
+              "Quantity 750+": 8.35,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=3227&ColorID=41105&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "polytri",
+              "Item Name": "American Apparel TR401 Triblend",
+              "Quantity 25-49": 12.9,
+              "Quantity 50-99": 12,
+              "Quantity 100-399": 11,
+              "Quantity 400-749": 10.7,
+              "Quantity 750+": 10.55,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=6388&ColorID=67799&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "polytri",
+              "Item Name": "Bella+Canvas 3413C Triblend",
+              "Quantity 25-49": 13.7,
+              "Quantity 50-99": 12.8,
+              "Quantity 100-399": 11.8,
+              "Quantity 400-749": 11.3,
+              "Quantity 750+": 11.15,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=1441&ColorID=45724&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "polytri",
+              "Item Name": "District Perfect Tri Tee DM130",
+              "Quantity 25-49": 8.5,
+              "Quantity 50-99": 7.35,
+              "Quantity 100-399": 6.35,
+              "Quantity 400-749": 6.05,
+              "Quantity 750+": 5.9,
+              "Info Link": "https://www.apparelvideos.com/cs/CatalogBrowser?todo=ss&productId=DM130"
+            }
+          ]
+        },
+        {
+          "Subcategory ID": "ls",
+          "Category ID": "screen",
+          "Subcategory Name": "Longsleeve",
+          "pricing": [
+            {
+              "Subcategory ID": "ls",
+              "Item Name": "Gildan 5400",
+              "Quantity 25-49": 11,
+              "Quantity 50-99": 10.1,
+              "Quantity 100-399": 9.1,
+              "Quantity 400-749": 8.8,
+              "Quantity 750+": 8.65,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=94&ColorID=17508&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "ls",
+              "Item Name": "Gildan 2400",
+              "Quantity 25-49": 11.7,
+              "Quantity 50-99": 10.8,
+              "Quantity 100-399": 9.8,
+              "Quantity 400-749": 9.5,
+              "Quantity 750+": 9.35,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=135&ColorID=17782&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "ls",
+              "Item Name": "Comfort Colors 6014",
+              "Quantity 25-49": 17.75,
+              "Quantity 50-99": 16.85,
+              "Quantity 100-399": 15.85,
+              "Quantity 400-749": 15.55,
+              "Quantity 750+": 15.4,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=2217&ColorID=46760&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "ls",
+              "Item Name": "Bella+Canvas 3501",
+              "Quantity 25-49": 14.7,
+              "Quantity 50-99": 13.8,
+              "Quantity 100-399": 12.8,
+              "Quantity 400-749": 12.5,
+              "Quantity 750+": 12.35,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=123&ColorID=17675&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "ls",
+              "Item Name": "Next Level 3601",
+              "Quantity 25-49": 15.7,
+              "Quantity 50-99": 14.8,
+              "Quantity 100-399": 13.8,
+              "Quantity 400-749": 13.5,
+              "Quantity 750+": 13.35,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=3215&ColorID=41012&LanguageCode=en"
+            }
+          ]
+        },
+        {
+          "Subcategory ID": "tanks",
+          "Category ID": "screen",
+          "Subcategory Name": "Tanks",
+          "pricing": [
+            {
+              "Subcategory ID": "tanks",
+              "Item Name": "Gildan 2200",
+              "Quantity 25-49": 9.5,
+              "Quantity 50-99": 8.6,
+              "Quantity 100-399": 8.15,
+              "Quantity 400-749": 7.85,
+              "Quantity 750+": 7.7,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=203&ColorID=18369&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "tanks",
+              "Item Name": "Gildan 5200",
+              "Quantity 25-49": 9.85,
+              "Quantity 50-99": 8.95,
+              "Quantity 100-399": 8.5,
+              "Quantity 400-749": 8.2,
+              "Quantity 750+": 8.05,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=2485&ColorID=35727&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "tanks",
+              "Item Name": "Tultex S105",
+              "Quantity 25-49": 8.75,
+              "Quantity 50-99": 7.85,
+              "Quantity 100-399": 7.4,
+              "Quantity 400-749": 7.1,
+              "Quantity 750+": 6.95,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=10768&ColorID=101650&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "tanks",
+              "Item Name": "Bella+Canvas 3480",
+              "Quantity 25-49": 11.25,
+              "Quantity 50-99": 10.35,
+              "Quantity 100-399": 9.95,
+              "Quantity 400-749": 9.65,
+              "Quantity 750+": 9.5,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=2766&ColorID=37897&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "tanks",
+              "Item Name": "Next Level 3633",
+              "Quantity 25-49": 11.5,
+              "Quantity 50-99": 10.6,
+              "Quantity 100-399": 10.2,
+              "Quantity 400-749": 9.9,
+              "Quantity 750+": 9.75,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=3216&ColorID=41017&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "tanks",
+              "Item Name": "Next Level Racerback 1533 - Womens",
+              "Quantity 25-49": 9.85,
+              "Quantity 50-99": 8.95,
+              "Quantity 100-399": 8.5,
+              "Quantity 400-749": 8.2,
+              "Quantity 750+": 8.05,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=3895&ColorID=45891&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "tanks",
+              "Item Name": "Bella+Canvas Flowy Racerback 8800 - Womens",
+              "Quantity 25-49": 12.75,
+              "Quantity 50-99": 11.85,
+              "Quantity 100-399": 11.4,
+              "Quantity 400-749": 11.1,
+              "Quantity 750+": 10.95,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=2030&ColorID=32833&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "tanks",
+              "Item Name": "Gildan Softwtyle Tank 64200L - Womens",
+              "Quantity 25-49": 9.5,
+              "Quantity 50-99": 8.6,
+              "Quantity 100-399": 8.15,
+              "Quantity 400-749": 7.85,
+              "Quantity 750+": 7.7,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=2119&ColorID=33462&LanguageCode=en"
+            }
+          ]
+        },
+        {
+          "Subcategory ID": "perf",
+          "Category ID": "screen",
+          "Subcategory Name": "Performance",
+          "pricing": [
+            {
+              "Subcategory ID": "perf",
+              "Item Name": "Sport-Tek PosiCharge Competitor Tee ST350",
+              "Quantity 25-49": 11.7,
+              "Quantity 50-99": 11.1,
+              "Quantity 100-399": 10.7,
+              "Quantity 400-749": 10.4,
+              "Quantity 750+": 10.25,
+              "Info Link": "https://www.apparelvideos.com/cs/CatalogBrowser?todo=ss&productId=ST450"
+            },
+            {
+              "Subcategory ID": "perf",
+              "Item Name": "Sport-Tek PosiCharge Competitor Tee ST450",
+              "Quantity 25-49": 12.7,
+              "Quantity 50-99": 12.1,
+              "Quantity 100-399": 11.7,
+              "Quantity 400-749": 11.4,
+              "Quantity 750+": 11.25,
+              "Info Link": "https://www.apparelvideos.com/cs/CatalogBrowser?todo=ss&productId=ST450"
+            },
+            {
+              "Subcategory ID": "perf",
+              "Item Name": "Gildan Performance? 42000",
+              "Quantity 25-49": 12.55,
+              "Quantity 50-99": 11.95,
+              "Quantity 100-399": 11.55,
+              "Quantity 400-749": 11.25,
+              "Quantity 750+": 11.1,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=2691&ColorID=37238&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "perf",
+              "Item Name": "Badger - B-Core Sport Tee 4120",
+              "Quantity 25-49": 14.25,
+              "Quantity 50-99": 13.25,
+              "Quantity 100-399": 12.85,
+              "Quantity 400-749": 12.55,
+              "Quantity 750+": 12.4,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=21&ColorID=16858&LanguageCode=en"
+            }
+          ]
+        },
+        {
+          "Subcategory ID": "hoodies",
+          "Category ID": "screen",
+          "Subcategory Name": "Hoodies & Sweatshirts",
+          "pricing": [
+            {
+              "Subcategory ID": "hoodies",
+              "Item Name": "Gildan 18000 Sweatshirt",
+              "Quantity 25-49": 15.2,
+              "Quantity 50-99": 14.3,
+              "Quantity 100-399": 13.3,
+              "Quantity 400-749": 13,
+              "Quantity 750+": 12.85,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=372&ColorID=19539&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "hoodies",
+              "Item Name": "Tultex 260 (Zip Up)",
+              "Quantity 25-49": 17.65,
+              "Quantity 50-99": 16.75,
+              "Quantity 100-399": 15.75,
+              "Quantity 400-749": 15.45,
+              "Quantity 750+": 14.3,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=10719&ColorID=101309&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "hoodies",
+              "Item Name": "Gildan G185/18500",
+              "Quantity 25-49": 19.6,
+              "Quantity 50-99": 18.7,
+              "Quantity 100-399": 17.7,
+              "Quantity 400-749": 17.4,
+              "Quantity 750+": 17.25,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=395&ColorID=19750&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "hoodies",
+              "Item Name": "Independent SS150",
+              "Quantity 25-49": 18.95,
+              "Quantity 50-99": 18.05,
+              "Quantity 100-399": 17.05,
+              "Quantity 400-749": 16.75,
+              "Quantity 750+": 16.6,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=2834&ColorID=38431&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "hoodies",
+              "Item Name": "Independent SS4500",
+              "Quantity 25-49": 21.4,
+              "Quantity 50-99": 20.5,
+              "Quantity 100-399": 19.5,
+              "Quantity 400-749": 19.2,
+              "Quantity 750+": 19.05,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=1828&ColorID=52948&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "hoodies",
+              "Item Name": "Gildan 18600 (Zip Up)",
+              "Quantity 25-49": 24.55,
+              "Quantity 50-99": 23.65,
+              "Quantity 100-399": 22.65,
+              "Quantity 400-749": 22.35,
+              "Quantity 750+": 22.2,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=415&ColorID=19905&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "hoodies",
+              "Item Name": "Bella+Canvas Sponge Fleece Hoodie 3719",
+              "Quantity 25-49": 26.7,
+              "Quantity 50-99": 25.8,
+              "Quantity 100-399": 24.8,
+              "Quantity 400-749": 24.5,
+              "Quantity 750+": 24.35,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=2768&ColorID=82555&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "hoodies",
+              "Item Name": "Independent SS3000",
+              "Quantity 25-49": 21.5,
+              "Quantity 50-99": 20.6,
+              "Quantity 100-399": 19.6,
+              "Quantity 400-749": 19.3,
+              "Quantity 750+": 19.15,
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=2771&ColorID=37926&LanguageCode=en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Category ID": "embroidery",
+      "Category Name": "Embroidery",
+      "subcategories": [
+        {
+          "Subcategory ID": "polo",
+          "Category ID": "embroidery",
+          "Subcategory Name": "Polo Shirts",
+          "pricing": [
+            {
+              "Subcategory ID": "polo",
+              "Item Name": "Tultex: 50/50 Sport Polo 400",
+              "Quantity 25-49": 10.75,
+              "Quantity 50-99": 10.75,
+              "Quantity 100-399": 10.6,
+              "Quantity 400-749": 10.4,
+              "Quantity 750+": "",
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=10671&ColorID=100813&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "polo",
+              "Item Name": "Sierra Pacific: Moisture Free Polo 0469",
+              "Quantity 25-49": 14.5,
+              "Quantity 50-99": 14.5,
+              "Quantity 100-399": 14.35,
+              "Quantity 400-749": 13.95,
+              "Quantity 750+": "",
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=1693&ColorID=30742&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "polo",
+              "Item Name": "C2 Sport: Utility Polo 5900",
+              "Quantity 25-49": 13.95,
+              "Quantity 50-99": 13.95,
+              "Quantity 100-399": 13.8,
+              "Quantity 400-749": 13.4,
+              "Quantity 750+": "",
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=7379&ColorID=75740&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "polo",
+              "Item Name": "Sierra Pacific: Moisture Free Polo 5469 (Women's)",
+              "Quantity 25-49": 16.95,
+              "Quantity 50-99": 16.95,
+              "Quantity 100-399": 16.8,
+              "Quantity 400-749": 16.4,
+              "Quantity 750+": "",
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=1692&ColorID=30626&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "polo",
+              "Item Name": "Sport-Tek: LST530 - Ladies PosiCharge (Women's)",
+              "Quantity 25-49": 14.5,
+              "Quantity 50-99": 14.5,
+              "Quantity 100-399": 14.25,
+              "Quantity 400-749": 13.75,
+              "Quantity 750+": "",
+              "Info Link": "https://cdnp.sanmar.com/medias/sys_master/images/images/h88/ha8/11126201384990/10883-CarolinaBl-1-LST530CarolinaBlModelFront-1200W.jpg"
+            },
+            {
+              "Subcategory ID": "polo",
+              "Item Name": "Sport-Tek: ST530 - PosiCharge",
+              "Quantity 25-49": 14.5,
+              "Quantity 50-99": 14.5,
+              "Quantity 100-399": 14.25,
+              "Quantity 400-749": 13.75,
+              "Quantity 750+": "",
+              "Info Link": "https://cdnp.sanmar.com/medias/sys_master/images/images/hc4/hd5/11131518812190/10882-CarolinaBl-1-ST530CarolinaBlModelFront-1200W.jpg"
+            }
+          ]
+        },
+        {
+          "Subcategory ID": "headwear",
+          "Category ID": "embroidery",
+          "Subcategory Name": "Hats/Caps",
+          "pricing": [
+            {
+              "Subcategory ID": "headwear",
+              "Item Name": "Richardson - Snapback Trucker Cap - 112",
+              "Quantity 25-49": 12.5,
+              "Quantity 50-99": 12.25,
+              "Quantity 100-399": 12.1,
+              "Quantity 400-749": 11.85,
+              "Quantity 750+": "",
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=4332&ColorID=51163&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "headwear",
+              "Item Name": "The Game - Everyday Trucker Cap - GB452E",
+              "Quantity 25-49": 12.5,
+              "Quantity 50-99": 12.25,
+              "Quantity 100-399": 12.1,
+              "Quantity 400-749": 11.85,
+              "Quantity 750+": "",
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=11230&ColorID=104636&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "headwear",
+              "Item Name": "YP Classics - Retro Trucker Cap - 6606",
+              "Quantity 25-49": 11.4,
+              "Quantity 50-99": 11.15,
+              "Quantity 100-399": 11,
+              "Quantity 400-749": 10.75,
+              "Quantity 750+": "",
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=3783&ColorID=45007&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "headwear",
+              "Item Name": "Outdoor Cap - Ponytail Mesh-Back Cap - PNY100M",
+              "Quantity 25-49": 12.75,
+              "Quantity 50-99": 12.5,
+              "Quantity 100-399": 12.35,
+              "Quantity 400-749": 12.05,
+              "Quantity 750+": "",
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=9222&ColorID=90520&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "headwear",
+              "Item Name": "OTTO CAP Trucker Hat 83-1239",
+              "Quantity 25-49": 11.25,
+              "Quantity 50-99": 11.1,
+              "Quantity 100-399": 10.95,
+              "Quantity 400-749": 10.7,
+              "Quantity 750+": "",
+              "Info Link": "https://ottocap.com/83-1239-6-panel-low-profile-mesh-back-trucker-hat"
+            },
+            {
+              "Subcategory ID": "headwear",
+              "Item Name": "OTTO CAP Low Profile Dad Hat 18-1322",
+              "Quantity 25-49": 12.25,
+              "Quantity 50-99": 12.1,
+              "Quantity 100-399": 11.95,
+              "Quantity 400-749": 11.7,
+              "Quantity 750+": "",
+              "Info Link": "https://ottocap.com/18-1322-otto-cap-6-panel-low-profile-style-dad-hat.html"
+            },
+            {
+              "Subcategory ID": "headwear",
+              "Item Name": "OTTO CAP 6 Panel Low Profile Dad Hat 18-772",
+              "Quantity 25-49": 12.5,
+              "Quantity 50-99": 12.35,
+              "Quantity 100-399": 12.1,
+              "Quantity 400-749": 11.95,
+              "Quantity 750+": "",
+              "Info Link": "https://ottocap.com/18-772-6-panel-low-profile-dad-hat.html"
+            }
+          ]
+        },
+        {
+          "Subcategory ID": "beanie",
+          "Category ID": "embroidery",
+          "Subcategory Name": "Beanies",
+          "pricing": [
+            {
+              "Subcategory ID": "beanie",
+              "Item Name": "Sportsman - 12\" Solid Cuffed Beanie - SP12",
+              "Quantity 25-49": 10.75,
+              "Quantity 50-99": 10.25,
+              "Quantity 100-399": 9.85,
+              "Quantity 400-749": 9.45,
+              "Quantity 750+": "",
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=1411&ColorID=28632&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "beanie",
+              "Item Name": "YP Classics - Cuffed Beanie - 1501KC",
+              "Quantity 25-49": 10.65,
+              "Quantity 50-99": 10.15,
+              "Quantity 100-399": 9.75,
+              "Quantity 400-749": 9.25,
+              "Quantity 750+": "",
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=4337&ColorID=51231&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "beanie",
+              "Item Name": "Sportsman - 12\" Jersey Lined Cuffed Beanie - SP12JL",
+              "Quantity 25-49": 12.95,
+              "Quantity 50-99": 12.45,
+              "Quantity 100-399": 12.05,
+              "Quantity 400-749": 11.45,
+              "Quantity 750+": "",
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=9264&ColorID=108598&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "beanie",
+              "Item Name": "Richardson - Waffle Cuffed Beanie - 146R",
+              "Quantity 25-49": 13.5,
+              "Quantity 50-99": 13,
+              "Quantity 100-399": 12.6,
+              "Quantity 400-749": 12.2,
+              "Quantity 750+": "",
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=1664&ColorID=29482&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "beanie",
+              "Item Name": "Atlantis Headwear - Sustainable Fine Rib Cuffed Beanie - ANDY",
+              "Quantity 25-49": 14.55,
+              "Quantity 50-99": 14.05,
+              "Quantity 100-399": 13.65,
+              "Quantity 400-749": 13.25,
+              "Quantity 750+": "",
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=6479&ColorID=103668&LanguageCode=en"
+            }
+          ]
+        },
+        {
+          "Subcategory ID": "hoodieemb",
+          "Category ID": "embroidery",
+          "Subcategory Name": "Hoodies & Sweatshirts",
+          "pricing": [
+            {
+              "Subcategory ID": "hoodieemb",
+              "Item Name": "Gildan 18000 Sweatshirt",
+              "Quantity 25-49": 17.5,
+              "Quantity 50-99": 17.5,
+              "Quantity 100-399": 16.75,
+              "Quantity 400-749": 16.5,
+              "Quantity 750+": "",
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=372&ColorID=19539&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "hoodieemb",
+              "Item Name": "Bella + Canvas 3939 (Zip Up)",
+              "Quantity 25-49": 25.75,
+              "Quantity 50-99": 25.75,
+              "Quantity 100-399": 21.25,
+              "Quantity 400-749": 20.75,
+              "Quantity 750+": "",
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=2216&ColorID=34516&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "hoodieemb",
+              "Item Name": "Gildan G185/18500",
+              "Quantity 25-49": 22.75,
+              "Quantity 50-99": 22.75,
+              "Quantity 100-399": 21.25,
+              "Quantity 400-749": 20.75,
+              "Quantity 750+": "",
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=395&ColorID=19750&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "hoodieemb",
+              "Item Name": "Independent SS150J",
+              "Quantity 25-49": 23.75,
+              "Quantity 50-99": 23.75,
+              "Quantity 100-399": 22.25,
+              "Quantity 400-749": 21.75,
+              "Quantity 750+": "",
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=2834&ColorID=38431&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "hoodieemb",
+              "Item Name": "Independent SS4500",
+              "Quantity 25-49": 24.75,
+              "Quantity 50-99": 24.75,
+              "Quantity 100-399": 23.25,
+              "Quantity 400-749": 22.75,
+              "Quantity 750+": "",
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=1828&ColorID=52948&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "hoodieemb",
+              "Item Name": "Gildan 18600 (Zip Up)",
+              "Quantity 25-49": 28.75,
+              "Quantity 50-99": 28.75,
+              "Quantity 100-399": 27.25,
+              "Quantity 400-749": 26.75,
+              "Quantity 750+": "",
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=415&ColorID=19905&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "hoodieemb",
+              "Item Name": "Bella + Canvas - Sponge Fleece Hoodie - 3719",
+              "Quantity 25-49": 27.25,
+              "Quantity 50-99": 27.25,
+              "Quantity 100-399": 26.25,
+              "Quantity 400-749": 25.75,
+              "Quantity 750+": "",
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=2768&ColorID=82555&LanguageCode=en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Category ID": "dtg",
+      "Category Name": "DTG",
+      "subcategories": [
+        {
+          "Subcategory ID": "shirtdtg",
+          "Category ID": "dtg",
+          "Subcategory Name": "T-Shirts",
+          "pricing": [
+            {
+              "Subcategory ID": "shirtdtg",
+              "Item Name": "Gildan 5000",
+              "Quantity 25-49": 24.99,
+              "Quantity 50-99": 19.99,
+              "Quantity 100-399": "",
+              "Quantity 400-749": "",
+              "Quantity 750+": "",
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=16&ColorID=16787&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "shirtdtg",
+              "Item Name": "RTP 1600",
+              "Quantity 25-49": 24.99,
+              "Quantity 50-99": 19.99,
+              "Quantity 100-399": "",
+              "Quantity 400-749": "",
+              "Quantity 750+": "",
+              "Info Link": ""
+            },
+            {
+              "Subcategory ID": "shirtdtg",
+              "Item Name": "District DM130DTG Triblend",
+              "Quantity 25-49": 26.99,
+              "Quantity 50-99": 21.99,
+              "Quantity 100-399": "",
+              "Quantity 400-749": "",
+              "Quantity 750+": "",
+              "Info Link": "https://www.apparelvideos.com/cs/CatalogBrowser?todo=ss&productId=DM130DTG"
+            },
+            {
+              "Subcategory ID": "shirtdtg",
+              "Item Name": "Bella + Canvas 3001",
+              "Quantity 25-49": 26.99,
+              "Quantity 50-99": 23.99,
+              "Quantity 100-399": "",
+              "Quantity 400-749": "",
+              "Quantity 750+": "",
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=29&ColorID=30671&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "shirtdtg",
+              "Item Name": "Comfort Colors",
+              "Quantity 25-49": 28.99,
+              "Quantity 50-99": 25.99,
+              "Quantity 100-399": "",
+              "Quantity 400-749": "",
+              "Quantity 750+": "",
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=1822&ColorID=34670&LanguageCode=en"
+            }
+          ]
+        },
+        {
+          "Subcategory ID": "hoodiedtg",
+          "Category ID": "dtg",
+          "Subcategory Name": "Hoodies & Sweatshirts",
+          "pricing": [
+            {
+              "Subcategory ID": "hoodiedtg",
+              "Item Name": "Independent SS4500",
+              "Quantity 25-49": 39.99,
+              "Quantity 50-99": 34.99,
+              "Quantity 100-399": "",
+              "Quantity 400-749": "",
+              "Quantity 750+": "",
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=1828&ColorID=52948&LanguageCode=en"
+            },
+            {
+              "Subcategory ID": "hoodiedtg",
+              "Item Name": "Gildan 18000 Sweatshirt",
+              "Quantity 25-49": 32.99,
+              "Quantity 50-99": 29.99,
+              "Quantity 100-399": "",
+              "Quantity 400-749": "",
+              "Quantity 750+": "",
+              "Info Link": "https://www.ssactivewear.com/ShopNow/ItemSpecSheet.aspx?ID=372&ColorID=19539&LanguageCode=en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Category ID": "laser",
+      "Category Name": "Laser Engraving",
+      "subcategories": [
+        {
+          "Subcategory ID": "patchhat",
+          "Category ID": "laser",
+          "Subcategory Name": "Leather Patch Hat",
+          "pricing": []
+        },
+        {
+          "Subcategory ID": "patch",
+          "Category ID": "laser",
+          "Subcategory Name": "Leather Patch Only",
+          "pricing": []
+        },
+        {
+          "Subcategory ID": "coasters",
+          "Category ID": "laser",
+          "Subcategory Name": "Coasters",
+          "pricing": []
+        },
+        {
+          "Subcategory ID": "keychains",
+          "Category ID": "laser",
+          "Subcategory Name": "Keychains",
+          "pricing": []
+        }
+      ]
+    }
+  ]
 }
