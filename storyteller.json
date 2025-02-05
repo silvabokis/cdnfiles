@@ -28,5 +28,11 @@
     "timestamp": "2025-02-05T10:32:58.000Z",
     "text": "\"Do you like crisps?\" asked Dougal, hoping to break the ice.",
     "name": "DD"
+  },
+  {
+    "type": "bot",
+    "timestamp": "2025-02-05T10:34:18.589Z",
+    "text": "\"Oh, aye, I love 'em!\" exclaimed Hamish, his eyes twinkling like a bag of golden potato chips waiting to be opened.",
+    "name": "? StoryBot"
   }
 ]
