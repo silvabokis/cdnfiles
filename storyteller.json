@@ -82,5 +82,11 @@
     "timestamp": "2025-05-02T08:53:23.000Z",
     "text": "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, ?and what is the use of a book,? thought Alice, ?without pictures or conversation??",
     "name": "DD"
+  },
+  {
+    "type": "bot",
+    "timestamp": "2025-02-05T09:54:23.000Z",
+    "text": "Alice sighed, kicking her feet in the air and nearly tumbling into the river. \"Might as well read it upside down then!\" she exclaimed, turning",
+    "name": "? StoryBot"
   }
 ]
