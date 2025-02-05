@@ -116,7 +116,13 @@
   {
     "type": "bot",
     "timestamp": "2025-02-05T16:59:53.072Z",
-    "text": "The squirrel's buried treasure, a stash of highly caffeinated acorns, sent it on a hyperactive rampage, leaving a trail of mayhem in its",
+    "text": "The squirrel's buried treasure, a stash of highly caffeinated acorns, sent it on a hyperactive rampage, leaving a trail of mayhem in its wake.",
     "name": "? StoryBot"
+  },
+  {
+    "type": "user",
+    "timestamp": "2025-02-05T16:59:48.000Z",
+    "text": "The squirrel, being a squirrel, had already become bored with the situation and had hopped off to dig up some contraband it had buried in the autumn.",
+    "name": "Col"
   }
 ]
