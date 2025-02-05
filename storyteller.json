@@ -208,5 +208,11 @@
     "timestamp": "2025-02-05T17:58:23.000Z",
     "text": "Not all dragons have scales. It's usually the ones who work on market stalls or in a sweet shop that need to weigh things.",
     "name": "Col"
+  },
+  {
+    "type": "bot",
+    "timestamp": "2025-02-05T17:58:29.331Z",
+    "text": "For those that handle delicate items, such as the finest porcelain or the most fragile of flowers, their scales would be replaced by the softest fur or the gentlest of feathers.",
+    "name": "? StoryBot"
   }
 ]
