@@ -58,5 +58,11 @@
     "timestamp": "2025-02-05T11:00:40.798Z",
     "text": "Spot's paws pounded the pavement, sending a flurry of pigeons squawking into the air, as he dodged a fruit vendor's cart and",
     "name": "? StoryBot"
+  },
+  {
+    "type": "user",
+    "timestamp": "2025-02-05T11:03:17.000Z",
+    "text": "\"Coo!\" said the pigeon. \n\"Caw!\" said a passing crow.",
+    "name": "Peter"
   }
 ]
