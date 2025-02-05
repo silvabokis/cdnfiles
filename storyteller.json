@@ -76,5 +76,11 @@
     "timestamp": "2025-02-05T11:17:59.000Z",
     "text": "\"You're nuts\" said pigeon. \n\"Why, thank you\" said the squirrel.",
     "name": "Col"
+  },
+  {
+    "type": "bot",
+    "timestamp": "2025-02-05T11:19:24.725Z",
+    "text": "\"Umm, you're welcome?\" replied the pigeon, flapping its wings in confusion, as the squirrel busily stashed his new \"treasure\"",
+    "name": "? StoryBot"
   }
 ]
