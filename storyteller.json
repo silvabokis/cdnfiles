@@ -16,5 +16,11 @@
     "timestamp": "2025-02-05T10:20:20.000Z",
     "text": "Dougal looked at the cat. The cat looked at Dougal.",
     "name": "DD"
+  },
+  {
+    "type": "bot",
+    "timestamp": "2025-02-05T10:22:01.304Z",
+    "text": "Neither of them moved, locked in a standoff as intense as a game of chess, each waiting for the other to make the next move.",
+    "name": "? StoryBot"
   }
 ]
