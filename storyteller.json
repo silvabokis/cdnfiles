@@ -70,5 +70,11 @@
     "timestamp": "2025-02-05T11:04:06.052Z",
     "text": "The cacophony grew as a mischievous squirrel chimed in with a high-pitched \"Cheep!\", sending the pigeon fluttering into the air with a",
     "name": "? StoryBot"
+  },
+  {
+    "type": "user",
+    "timestamp": "2025-02-05T11:17:59.000Z",
+    "text": "\"You're nuts\" said pigeon. \n\"Why, thank you\" said the squirrel.",
+    "name": "Col"
   }
 ]
