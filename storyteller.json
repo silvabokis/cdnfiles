@@ -154,5 +154,11 @@
     "timestamp": "2025-02-05T17:18:00.285Z",
     "text": "The AI remains silent for now...",
     "name": "? StoryBot"
+  },
+  {
+    "type": "user",
+    "timestamp": "2025-02-05T17:18:36.000Z",
+    "text": "Why not change topic?",
+    "name": "Coooo"
   }
 ]
