@@ -88,5 +88,11 @@
     "timestamp": "2025-02-05T12:39:27.000Z",
     "text": "\"Got any corn?\" said the pigeon, \"I love corn\"\n\"I don't think so\" said the Squirrel",
     "name": "Peter"
+  },
+  {
+    "type": "bot",
+    "timestamp": "2025-02-05T12:40:55.606Z",
+    "text": "\"Oh come on, please?\" wheedled the pigeon, flapping its wings hopefully, \"Just a kernel or two?\"",
+    "name": "? StoryBot"
   }
 ]
