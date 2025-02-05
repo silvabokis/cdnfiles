@@ -202,5 +202,11 @@
     "timestamp": "2025-02-05T17:50:57.812Z",
     "text": "The dragon's scales glinted menacingly in the moonlight, its breath now a chilling, icy mist that enveloped the meadow in an ethereal glow.",
     "name": "? StoryBot"
+  },
+  {
+    "type": "user",
+    "timestamp": "2025-02-05T17:58:23.000Z",
+    "text": "Not all dragons have scales. It's usually the ones who work on market stalls or in a sweet shop that need to weigh things.",
+    "name": "Col"
   }
 ]
