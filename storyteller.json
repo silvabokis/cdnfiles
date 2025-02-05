@@ -52,5 +52,11 @@
     "timestamp": "2025-02-05T10:59:34.000Z",
     "text": "Run Spot! Run!",
     "name": "Peter"
+  },
+  {
+    "type": "bot",
+    "timestamp": "2025-02-05T11:00:40.798Z",
+    "text": "Spot's paws pounded the pavement, sending a flurry of pigeons squawking into the air, as he dodged a fruit vendor's cart and",
+    "name": "? StoryBot"
   }
 ]
