@@ -64,5 +64,11 @@
     "timestamp": "2025-02-05T11:03:17.000Z",
     "text": "\"Coo!\" said the pigeon. \n\"Caw!\" said a passing crow.",
     "name": "Peter"
+  },
+  {
+    "type": "bot",
+    "timestamp": "2025-02-05T11:04:06.052Z",
+    "text": "The cacophony grew as a mischievous squirrel chimed in with a high-pitched \"Cheep!\", sending the pigeon fluttering into the air with a",
+    "name": "? StoryBot"
   }
 ]
