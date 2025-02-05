@@ -40,5 +40,11 @@
     "timestamp": "2025-02-05T10:56:58.000Z",
     "text": "\"My new shoes are breaking already. I'm going to have a word with the cobbler\", said Dougal.",
     "name": "Peter"
+  },
+  {
+    "type": "bot",
+    "timestamp": "2025-02-05T10:58:48.984Z",
+    "text": "I have nothing to add at the moment.",
+    "name": "? StoryBot"
   }
 ]
