@@ -166,5 +166,11 @@
     "timestamp": "2025-02-05T17:18:40.025Z",
     "text": "\"Let's talk about the upcoming festival instead. I've heard there's a thrilling fire-breathing competition this year,\" she suggested, eager to dispel the awkwardness.",
     "name": "? StoryBot"
+  },
+  {
+    "type": "user",
+    "timestamp": "2025-02-05T17:25:24.000Z",
+    "text": "Yeah. I used to be a fire breather when I was younger. I often performed at the festival you mentioned.",
+    "name": "Col"
   }
 ]
