@@ -256,5 +256,11 @@
     "timestamp": "2025-02-06T02:30:41.000Z",
     "text": "What would a bard such as thee know of dragons?!",
     "name": "K"
+  },
+  {
+    "type": "bot",
+    "timestamp": "2025-02-06T02:30:46.678Z",
+    "text": "\"Their fiery breath and impenetrable scales are but tales whispered among minstrels,\" the bard replied, his voice as smooth as molten gold.",
+    "name": "? StoryBot"
   }
 ]
