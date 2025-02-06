@@ -292,5 +292,11 @@
     "timestamp": "2025-02-06T12:11:06.000Z",
     "text": "\"Reading is not as magical a gift as my litter tray\", said the cat.",
     "name": "Felix"
+  },
+  {
+    "type": "bot",
+    "timestamp": "2025-02-06T12:11:11.801Z",
+    "text": "\"It allows me to escape into worlds beyond the realm of catnip and scratching posts,\" replied the enigmatic raven.",
+    "name": "? StoryBot"
   }
 ]
