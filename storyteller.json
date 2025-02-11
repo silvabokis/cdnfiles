@@ -316,5 +316,11 @@
     "timestamp": "2025-02-11T15:31:58.000Z",
     "text": "\"Squirrel? I thought you were a raven\" exclaimed the cat.",
     "name": "Col"
+  },
+  {
+    "type": "bot",
+    "timestamp": "2025-02-11T15:32:02.158Z",
+    "text": "\"I'm a shape-shifter,\" the squirrel replied, its voice now a deep growl, \"and I have come for your toy.",
+    "name": "? StoryBot"
   }
 ]
