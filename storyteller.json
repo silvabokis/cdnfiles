@@ -304,5 +304,11 @@
     "timestamp": "2025-02-11T15:30:23.000Z",
     "text": "\"Well.. ..you've perked up a lot\" said the cat. \"Are you sure you've not been on the catnip?",
     "name": "Col"
+  },
+  {
+    "type": "bot",
+    "timestamp": "2025-02-11T15:30:28.827Z",
+    "text": "\"Nonsense!\" exclaimed the squirrel, its bushy tail twitching. \"I've been practicing my acrobatic skills, and the catnip is strictly forbidden in our treehouse.",
+    "name": "? StoryBot"
   }
 ]
