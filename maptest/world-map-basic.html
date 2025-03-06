@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>World Map</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      background-color: #ffffff;
+    }
+    
+    .container {
+      max-width: 1200px;
+      margin: 40px auto;
+      position: relative;
+      padding: 30px;
+      border-radius: 10px;
+      background-color: #f0f5f9;
+    }
+    
+    .header {
+      margin-bottom: 20px;
+    }
+    
+    .header h1 {
+      font-size: 32px;
+      font-weight: 600;
+      color: #1a2d40;
+      margin: 0 0 8px 0;
+    }
+    
+    .header p {
+      font-size: 16px;
+      color: #4a5568;
+      margin: 0;
+    }
+    
+    .map-wrapper {
+      position: relative;
+      margin-top: 20px;
+      overflow: hidden;
+      border-radius: 8px;
+      background-color: #f8fafc;
+    }
+    
+    /* SVG styling */
+    .map-container {
+      width: 100%;
+      height: auto;
+    }
+    
+    /* Country path styling */
+    path {
+      fill: #e2e8f0;
+      stroke: #cbd5e0;
+      stroke-width: 0.5;
+      transition: fill 0.3s ease;
+    }
+    
+    path:hover {
+      fill: #4671c6;
+      cursor: pointer;
+    }
+    
+    /* Loading indicator */
+    .loading {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 18px;
+      color: #4a5568;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>World Map</h1>
+      <p>Hover over countries to highlight them</p>
+    </div>
+    
+    <div class="map-wrapper">
+      <div class="loading" id="loading">Loading map...</div>
+      <div id="mapContainer" class="map-container"></div>
+    </div>
+  </div>
+
+  <script>
+    // DOM elements
+    const mapContainer = document.getElementById('mapContainer');
+    const loading = document.getElementById('loading');
+    
+    // Load the SVG world map
+    async function loadMap() {
+      try {
+        // Fetch the SVG file
+        const response = await fetch('world.svg');
+        
+        if (!response.ok) {
+          throw new Error(`Failed to load map: ${response.status} ${response.statusText}`);
+        }
+        
+        // Get the SVG content as text
+        const svgContent = await response.text();
+        
+        // Insert the SVG into the container
+        mapContainer.innerHTML = svgContent;
+        
+        // Hide the loading indicator
+        loading.style.display = 'none';
+        
+        // Get the SVG element
+        const svg = mapContainer.querySelector('svg');
+        
+        // Make sure the SVG is responsive
+        svg.setAttribute('width', '100%');
+        svg.setAttribute('height', 'auto');
+        svg.setAttribute('preserveAspectRatio', 'xMidYMid meet');
+        
+        // Add event listeners to all country paths
+        svg.querySelectorAll('path').forEach(path => {
+          // Get the country name from the title attribute
+          const countryName = path.querySelector('title')?.textContent || path.getAttribute('id');
+          
+          // Create a title element if it doesn't exist
+          if (!path.querySelector('title')) {
+            const title = document.createElementNS('http://www.w3.org/2000/svg', 'title');
+            title.textContent = countryName;
+            path.appendChild(title);
+          }
+        });
+        
+        console.log('Map loaded successfully');
+      } catch (error) {
+        console.error('Error loading map:', error);
+        loading.textContent = 'Error loading map. Please try again.';
+      }
+    }
+    
+    // Initialize the map
+    loadMap();
+  </script>
+</body>
+</html>
