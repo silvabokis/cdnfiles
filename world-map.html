@@ -1,4 +1,10 @@
-<!DOCTYPE html>
+    // Testing the SVG Map
+    // Draw a background rect just to make all coordinates visible
+    const bg = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
+    bg.setAttribute('width', '1200');
+    bg.setAttribute('height', '600');
+    bg.setAttribute('fill', '#f0f5f9');
+    svg.insertBefore(bg, svg.firstChild);<!DOCTYPE html>
 <html>
 <head>
   <style>
@@ -47,7 +53,7 @@
     
     .dot {
       fill: #c0c5ce;
-      r: 1.5;
+      r: 2;
     }
     
     .dot:hover {
@@ -418,30 +424,30 @@
       }
     };
 
-    // Country path data - defining the shapes of each country
+    // Country path data - simplified "filled-in" polygon paths for better dot coverage
     const countryPaths = {
-      'USA': 'M200,180 L230,180 L250,190 L300,200 L330,200 L340,210 L320,230 L280,240 L238,235 L210,230 L200,210 Z M170,170 L200,170 L220,180 L200,190 Z',
-      'CAN': 'M170,150 L200,150 L240,150 L280,160 L330,160 L340,150 L330,140 L310,130 L290,120 L250,110 L210,120 L170,130 L150,140 Z',
-      'MEX': 'M200,230 L230,230 L250,235 L260,250 L250,270 L220,270 L210,260 L200,240 Z',
-      'GBR': 'M460,160 L465,150 L470,160 L465,170 L455,170 L450,160 Z',
-      'FRA': 'M470,180 L480,175 L490,175 L495,185 L490,195 L480,200 L470,195 L465,185 Z',
-      'DEU': 'M490,165 L500,160 L510,160 L515,170 L510,180 L500,180 L490,175 Z',
-      'ITA': 'M490,190 L500,190 L505,200 L500,210 L495,220 L490,210 L485,195 Z M490,220 L500,220 L495,230 L485,230 Z',
-      'ESP': 'M450,190 L480,190 L480,200 L470,210 L450,215 L440,210 L435,200 Z',
-      'RUS': 'M520,140 L580,140 L620,130 L660,120 L700,120 L740,130 L780,150 L770,170 L720,180 L680,170 L640,160 L600,170 L560,160 L530,170 L520,160 Z',
-      'CHN': 'M650,190 L680,180 L710,190 L730,200 L740,220 L730,240 L710,250 L690,240 L670,230 L660,220 L650,210 Z',
-      'IND': 'M630,230 L650,220 L670,230 L675,250 L670,270 L650,290 L630,280 L620,260 L625,240 Z',
-      'JPN': 'M780,180 L785,200 L780,220 L775,200 Z M790,190 L795,200 L790,210 Z',
-      'AUS': 'M740,350 L770,350 L800,360 L820,380 L810,400 L780,400 L760,390 L750,370 Z',
-      'BRA': 'M300,310 L330,310 L350,330 L360,360 L350,390 L330,410 L300,410 L280,390 L280,360 L290,330 Z',
-      'ARG': 'M280,420 L300,420 L310,450 L300,480 L280,510 L270,500 L260,470 L270,440 Z',
-      'ZAF': 'M500,370 L530,370 L530,390 L510,400 L500,390 L490,380 Z',
-      'EGY': 'M520,220 L550,220 L550,240 L530,250 L520,240 Z',
-      'NGA': 'M480,270 L505,270 L505,290 L480,290 Z',
-      'IDN': 'M700,290 L740,290 L740,300 L700,300 Z M750,295 L770,295 L770,305 L750,305 Z M775,305 L795,305 L795,315 L775,315 Z M800,315 L820,315 L820,325 L800,325 Z',
-      'MDG': 'M560,340 L570,330 L580,340 L580,360 L570,370 L560,360 Z',
-      'CUB': 'M245,250 L270,250 L270,258 L245,258 Z',
-      'ISL': 'M430,130 L445,130 L445,140 L430,140 Z'
+      'USA': 'M200,180 L230,180 L250,190 L300,200 L330,200 L340,210 L320,230 L280,240 L238,235 L210,230 L200,210 Z M170,170 L200,170 L220,180 L200,190 L170,170 Z',
+      'CAN': 'M170,150 L200,150 L240,150 L280,160 L330,160 L340,150 L330,140 L310,130 L290,120 L250,110 L210,120 L170,130 L150,140 L170,150 Z',
+      'MEX': 'M200,230 L230,230 L250,235 L260,250 L250,270 L220,270 L210,260 L200,240 L200,230 Z',
+      'GBR': 'M460,160 L465,150 L470,160 L465,170 L455,170 L450,160 L460,160 Z',
+      'FRA': 'M470,180 L480,175 L490,175 L495,185 L490,195 L480,200 L470,195 L465,185 L470,180 Z',
+      'DEU': 'M490,165 L500,160 L510,160 L515,170 L510,180 L500,180 L490,175 L490,165 Z',
+      'ITA': 'M490,190 L500,190 L505,200 L500,210 L495,220 L490,210 L485,195 L490,190 Z M490,220 L500,220 L495,230 L485,230 L490,220 Z',
+      'ESP': 'M450,190 L480,190 L480,200 L470,210 L450,215 L440,210 L435,200 L450,190 Z',
+      'RUS': 'M520,140 L580,140 L620,130 L660,120 L700,120 L740,130 L780,150 L770,170 L720,180 L680,170 L640,160 L600,170 L560,160 L530,170 L520,160 L520,140 Z',
+      'CHN': 'M650,190 L680,180 L710,190 L730,200 L740,220 L730,240 L710,250 L690,240 L670,230 L660,220 L650,210 L650,190 Z',
+      'IND': 'M630,230 L650,220 L670,230 L675,250 L670,270 L650,290 L630,280 L620,260 L625,240 L630,230 Z',
+      'JPN': 'M780,180 L785,200 L780,220 L775,200 L780,180 Z M790,190 L795,200 L790,210 L790,190 Z',
+      'AUS': 'M740,350 L770,350 L800,360 L820,380 L810,400 L780,400 L760,390 L750,370 L740,350 Z',
+      'BRA': 'M300,310 L330,310 L350,330 L360,360 L350,390 L330,410 L300,410 L280,390 L280,360 L290,330 L300,310 Z',
+      'ARG': 'M280,420 L300,420 L310,450 L300,480 L280,510 L270,500 L260,470 L270,440 L280,420 Z',
+      'ZAF': 'M500,370 L530,370 L530,390 L510,400 L500,390 L490,380 L500,370 Z',
+      'EGY': 'M520,220 L550,220 L550,240 L530,250 L520,240 L520,220 Z',
+      'NGA': 'M480,270 L505,270 L505,290 L480,290 L480,270 Z',
+      'IDN': 'M700,290 L740,290 L740,300 L700,300 L700,290 Z M750,295 L770,295 L770,305 L750,305 L750,295 Z M775,305 L795,305 L795,315 L775,315 L775,305 Z M800,315 L820,315 L820,325 L800,325 L800,315 Z',
+      'MDG': 'M560,340 L570,330 L580,340 L580,360 L570,370 L560,360 L560,340 Z',
+      'CUB': 'M245,250 L270,250 L270,258 L245,258 L245,250 Z',
+      'ISL': 'M430,130 L445,130 L445,140 L430,140 L430,130 Z'
     };
 
     const svg = document.getElementById('map');
@@ -479,25 +485,126 @@
     }
     
     // Add the dot matrix
-    // For each country, parse its path and place dots accordingly
-    for (const [code, pathData] of Object.entries(countryPaths)) {
-      const group = document.getElementById(`country-${code}`);
-      const pathElement = group.querySelector('path');
-      
-      // Get the bounding box of the country path
-      const bbox = getBoundingBox(pathData);
-      
-      // Create dots within the bounding box
-      for (let x = bbox.minX; x <= bbox.maxX; x += dotSpacing) {
-        for (let y = bbox.minY; y <= bbox.maxY; y += dotSpacing) {
-          // Create a dot at this position
-          const dot = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-          dot.setAttribute('cx', x);
-          dot.setAttribute('cy', y);
-          dot.setAttribute('class', 'dot');
-          group.appendChild(dot);
+    // Create a dense grid of dots across the entire viewbox
+    for (let x = 0; x < 1200; x += dotSpacing) {
+      for (let y = 0; y < 600; y += dotSpacing) {
+        // For each dot position, check if it's inside any country
+        for (const [code, pathData] of Object.entries(countryPaths)) {
+          if (isPointInCountry(x, y, pathData)) {
+            // Create a dot at this position
+            const dot = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+            dot.setAttribute('cx', x);
+            dot.setAttribute('cy', y);
+            dot.setAttribute('class', 'dot');
+            
+            // Add the dot to the appropriate country group for highlighting
+            const group = document.getElementById(`country-${code}`);
+            group.appendChild(dot);
+            break; // Once we found which country the dot belongs to, move to next dot
+          }
         }
       }
+    }
+    
+    // Helper function to check if a point is inside a country's path
+    // Using ray casting algorithm for point-in-polygon detection
+    function isPointInCountry(x, y, pathData) {
+      const bbox = getBoundingBox(pathData);
+      
+      // Quick bounding box check first
+      if (x < bbox.minX || x > bbox.maxX || y < bbox.minY || y > bbox.maxY) {
+        return false;
+      }
+      
+      // Extract polygon points from path data
+      const vertices = [];
+      const regex = /([ML]) (\d+),(\d+)/g;
+      let match;
+      
+      while ((match = regex.exec(pathData)) !== null) {
+        vertices.push({
+          x: parseInt(match[2]),
+          y: parseInt(match[3])
+        });
+      }
+      
+      // For simple, closed polygons, use ray casting algorithm
+      let inside = false;
+      for (let i = 0, j = vertices.length - 1; i < vertices.length; j = i++) {
+        const xi = vertices[i].x, yi = vertices[i].y;
+        const xj = vertices[j].x, yj = vertices[j].y;
+        
+        const intersect = ((yi > y) !== (yj > y)) &&
+            (x < (xj - xi) * (y - yi) / (yj - yi) + xi);
+        if (intersect) inside = !inside;
+      }
+      
+      return inside;
+    }
+    
+    // Helper function to parse path segments from the path data
+    function parsePathSegments(pathData) {
+      const segments = [];
+      const regex = /([ML]) (\d+),(\d+)/g;
+      let match;
+      
+      let prevX = null;
+      let prevY = null;
+      
+      while ((match = regex.exec(pathData)) !== null) {
+        const command = match[1];
+        const x = parseInt(match[2]);
+        const y = parseInt(match[3]);
+        
+        if (command === 'M') {
+          // Move command - just update the current position
+          prevX = x;
+          prevY = y;
+        } else if (command === 'L' && prevX !== null && prevY !== null) {
+          // Line command - add a segment
+          segments.push({
+            x1: prevX,
+            y1: prevY,
+            x2: x,
+            y2: y
+          });
+          prevX = x;
+          prevY = y;
+        }
+      }
+      
+      return segments;
+    }
+    
+    // Helper function to calculate distance from a point to a line segment
+    function distanceToLineSegment(px, py, x1, y1, x2, y2) {
+      const A = px - x1;
+      const B = py - y1;
+      const C = x2 - x1;
+      const D = y2 - y1;
+      
+      const dot = A * C + B * D;
+      const lenSq = C * C + D * D;
+      let param = -1;
+      
+      if (lenSq !== 0) param = dot / lenSq;
+      
+      let xx, yy;
+      
+      if (param < 0) {
+        xx = x1;
+        yy = y1;
+      } else if (param > 1) {
+        xx = x2;
+        yy = y2;
+      } else {
+        xx = x1 + param * C;
+        yy = y1 + param * D;
+      }
+      
+      const dx = px - xx;
+      const dy = py - yy;
+      return Math.sqrt(dx * dx + dy * dy);
     }
     
     // Helper function to get the bounding box of an SVG path
