@@ -304,369 +304,145 @@
   </div>
 
   <script>
-    // Country data
+    // Country data - simplified version with just names and document counts
     const countryData = {
       'USA': {
         name: 'United States',
-        capital: 'Washington, D.C.',
-        population: '331 million',
-        area: '9.8 million km²',
-        language: 'English',
-        currency: 'US Dollar (USD)',
-        continent: 'North America',
-        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/us.svg',
-        documents: '12,000+ documents'
-      },
-      'CAN': {
-        name: 'Canada',
-        capital: 'Ottawa',
-        population: '38 million',
-        area: '9.98 million km²',
-        language: 'English, French',
-        currency: 'Canadian Dollar (CAD)',
-        continent: 'North America',
-        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ca.svg',
-        documents: '4,700+ documents'
-      },
-      'MEX': {
-        name: 'Mexico',
-        capital: 'Mexico City',
-        population: '126 million',
-        area: '1.96 million km²',
-        language: 'Spanish',
-        currency: 'Mexican Peso (MXN)',
-        continent: 'North America',
-        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/mx.svg',
-        documents: '3,200+ documents'
-      },
-      'BRA': {
-        name: 'Brazil',
-        capital: 'Brasília',
-        population: '213 million',
-        area: '8.5 million km²',
-        language: 'Portuguese',
-        currency: 'Brazilian Real (BRL)',
-        continent: 'South America',
-        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/br.svg',
-        documents: '4,100+ documents'
-      },
-      'ARG': {
-        name: 'Argentina',
-        capital: 'Buenos Aires',
-        population: '45 million',
-        area: '2.78 million km²',
-        language: 'Spanish',
-        currency: 'Argentine Peso (ARS)',
-        continent: 'South America',
-        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ar.svg',
-        documents: '2,800+ documents'
-      },
-      'GBR': {
-        name: 'United Kingdom',
-        capital: 'London',
-        population: '67 million',
-        area: '242,495 km²',
-        language: 'English',
-        currency: 'Pound Sterling (GBP)',
-        continent: 'Europe',
-        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/gb.svg',
-        documents: '5,600+ documents'
-      },
-      'FRA': {
-        name: 'France',
-        capital: 'Paris',
-        population: '67 million',
-        area: '551,695 km²',
-        language: 'French',
-        currency: 'Euro (EUR)',
-        continent: 'Europe',
-        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/fr.svg',
-        documents: '4,800+ documents'
-      },
-      'DEU': {
-        name: 'Germany',
-        capital: 'Berlin',
-        population: '83 million',
-        area: '357,022 km²',
-        language: 'German',
-        currency: 'Euro (EUR)',
-        continent: 'Europe',
-        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/de.svg',
-        documents: '5,200+ documents'
-      },
-      'ESP': {
-        name: 'Spain',
-        capital: 'Madrid',
-        population: '47 million',
-        area: '505,990 km²',
-        language: 'Spanish',
-        currency: 'Euro (EUR)',
-        continent: 'Europe',
-        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/es.svg',
-        documents: '3,700+ documents'
-      },
-      'ITA': {
-        name: 'Italy',
-        capital: 'Rome',
-        population: '60 million',
-        area: '301,340 km²',
-        language: 'Italian',
-        currency: 'Euro (EUR)',
-        continent: 'Europe',
-        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/it.svg',
-        documents: '4,100+ documents'
-      },
-      'RUS': {
-        name: 'Russia',
-        capital: 'Moscow',
-        population: '144 million',
-        area: '17.1 million km²',
-        language: 'Russian',
-        currency: 'Russian Ruble (RUB)',
-        continent: 'Europe/Asia',
-        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ru.svg',
-        documents: '3,200+ documents'
-      },
-      'CHN': {
-        name: 'China',
-        capital: 'Beijing',
-        population: '1.4 billion',
-        area: '9.6 million km²',
-        language: 'Mandarin',
-        currency: 'Renminbi (CNY)',
-        continent: 'Asia',
-        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/cn.svg',
-        documents: '4,700+ documents'
-      },
-      'IND': {
-        name: 'India',
-        capital: 'New Delhi',
-        population: '1.38 billion',
-        area: '3.28 million km²',
-        language: 'Hindi, English',
-        currency: 'Indian Rupee (INR)',
-        continent: 'Asia',
-        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/in.svg',
-        documents: '3,900+ documents'
-      },
-      'JPN': {
-        name: 'Japan',
-        capital: 'Tokyo',
-        population: '126 million',
-        area: '377,975 km²',
-        language: 'Japanese',
-        currency: 'Japanese Yen (JPY)',
-        continent: 'Asia',
-        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/jp.svg',
-        documents: '3,500+ documents'
-      },
-      'KOR': {
-        name: 'South Korea',
-        capital: 'Seoul',
-        population: '51 million',
-        area: '100,210 km²',
-        language: 'Korean',
-        currency: 'South Korean Won (KRW)',
-        continent: 'Asia',
-        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/kr.svg',
-        documents: '2,700+ documents'
-      },
-      'AUS': {
-        name: 'Australia',
-        capital: 'Canberra',
-        population: '25 million',
-        area: '7.69 million km²',
-        language: 'English',
-        currency: 'Australian Dollar (AUD)',
-        continent: 'Oceania',
-        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/au.svg',
-        documents: '3,800+ documents'
-      },
-      'ZAF': {
-        name: 'South Africa',
-        capital: 'Pretoria',
-        population: '59 million',
-        area: '1.22 million km²',
-        language: '11 official languages',
-        currency: 'South African Rand (ZAR)',
-        continent: 'Africa',
-        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/za.svg',
-        documents: '2,400+ documents'
-      },
-      'NGA': {
-        name: 'Nigeria',
-        capital: 'Abuja',
-        population: '206 million',
-        area: '923,768 km²',
-        language: 'English',
-        currency: 'Nigerian Naira (NGN)',
-        continent: 'Africa',
-        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ng.svg',
-        documents: '1,800+ documents'
-      },
-      'EGY': {
-        name: 'Egypt',
-        capital: 'Cairo',
-        population: '102 million',
-        area: '1.01 million km²',
-        language: 'Arabic',
-        currency: 'Egyptian Pound (EGP)',
-        continent: 'Africa',
-        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/eg.svg',
-        documents: '2,100+ documents'
-      }
-    };
-
-    // World map with simplified GeoJSON-inspired polygon definitions
-    // These are simplifications of real country boundaries
-    const countryPolygons = {
-      'USA': {
-        name: 'United States',
-        path: 'M200,180 L230,180 L250,190 L300,200 L330,200 L340,210 L320,230 L280,240 L238,235 L210,230 L200,210 Z M170,170 L200,170 L220,180 L200,190 Z',
         documents: '12,000+ documents',
         flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/us.svg'
       },
       'CAN': {
         name: 'Canada',
-        path: 'M170,150 L200,150 L240,150 L280,160 L330,160 L340,150 L330,140 L310,130 L290,120 L250,110 L210,120 L170,130 L150,140 Z',
         documents: '4,700+ documents',
         flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ca.svg'
       },
       'MEX': {
         name: 'Mexico',
-        path: 'M200,230 L230,230 L250,235 L260,250 L250,270 L220,270 L210,260 L200,240 Z',
         documents: '3,200+ documents',
         flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/mx.svg'
       },
-      'GBR': {
-        name: 'United Kingdom',
-        path: 'M460,160 L465,150 L470,160 L465,170 L455,170 L450,160 Z',
-        documents: '5,600+ documents',
-        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/gb.svg'
-      },
-      'FRA': {
-        name: 'France',
-        path: 'M470,180 L480,175 L490,175 L495,185 L490,195 L480,200 L470,195 L465,185 Z',
-        documents: '4,800+ documents',
-        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/fr.svg'
-      },
-      'DEU': {
-        name: 'Germany',
-        path: 'M490,165 L500,160 L510,160 L515,170 L510,180 L500,180 L490,175 Z',
-        documents: '5,200+ documents',
-        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/de.svg'
-      },
-      'ITA': {
-        name: 'Italy',
-        path: 'M490,190 L500,190 L505,200 L500,210 L495,220 L490,210 L485,195 Z M490,220 L500,220 L495,230 L485,230 Z',
-        documents: '4,100+ documents',
-        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/it.svg'
-      },
-      'ESP': {
-        name: 'Spain',
-        path: 'M450,190 L480,190 L480,200 L470,210 L450,215 L440,210 L435,200 Z',
-        documents: '3,700+ documents',
-        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/es.svg'
-      },
-      'RUS': {
-        name: 'Russia',
-        path: 'M520,140 L580,140 L620,130 L660,120 L700,120 L740,130 L780,150 L770,170 L720,180 L680,170 L640,160 L600,170 L560,160 L530,170 L520,160 Z',
-        documents: '3,200+ documents',
-        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ru.svg'
-      },
-      'CHN': {
-        name: 'China',
-        path: 'M650,190 L680,180 L710,190 L730,200 L740,220 L730,240 L710,250 L690,240 L670,230 L660,220 L650,210 Z',
-        documents: '4,700+ documents',
-        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/cn.svg'
-      },
-      'IND': {
-        name: 'India',
-        path: 'M630,230 L650,220 L670,230 L675,250 L670,270 L650,290 L630,280 L620,260 L625,240 Z',
-        documents: '3,900+ documents',
-        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/in.svg'
-      },
-      'JPN': {
-        name: 'Japan',
-        path: 'M780,180 L785,200 L780,220 L775,200 Z M790,190 L795,200 L790,210 Z',
-        documents: '3,500+ documents',
-        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/jp.svg'
-      },
-      'AUS': {
-        name: 'Australia',
-        path: 'M740,350 L770,350 L800,360 L820,380 L810,400 L780,400 L760,390 L750,370 Z',
-        documents: '3,800+ documents',
-        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/au.svg'
-      },
       'BRA': {
         name: 'Brazil',
-        path: 'M300,310 L330,310 L350,330 L360,360 L350,390 L330,410 L300,410 L280,390 L280,360 L290,330 Z',
         documents: '4,100+ documents',
         flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/br.svg'
       },
       'ARG': {
         name: 'Argentina',
-        path: 'M280,420 L300,420 L310,450 L300,480 L280,510 L270,500 L260,470 L270,440 Z',
         documents: '2,800+ documents',
         flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ar.svg'
       },
+      'GBR': {
+        name: 'United Kingdom',
+        documents: '5,600+ documents',
+        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/gb.svg'
+      },
+      'FRA': {
+        name: 'France',
+        documents: '4,800+ documents',
+        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/fr.svg'
+      },
+      'DEU': {
+        name: 'Germany',
+        documents: '5,200+ documents',
+        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/de.svg'
+      },
+      'ESP': {
+        name: 'Spain',
+        documents: '3,700+ documents',
+        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/es.svg'
+      },
+      'ITA': {
+        name: 'Italy',
+        documents: '4,100+ documents',
+        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/it.svg'
+      },
+      'RUS': {
+        name: 'Russia',
+        documents: '3,200+ documents',
+        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ru.svg'
+      },
+      'CHN': {
+        name: 'China',
+        documents: '4,700+ documents',
+        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/cn.svg'
+      },
+      'IND': {
+        name: 'India',
+        documents: '3,900+ documents',
+        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/in.svg'
+      },
+      'JPN': {
+        name: 'Japan',
+        documents: '3,500+ documents',
+        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/jp.svg'
+      },
+      'AUS': {
+        name: 'Australia',
+        documents: '3,800+ documents',
+        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/au.svg'
+      },
       'ZAF': {
         name: 'South Africa',
-        path: 'M500,370 L530,370 L530,390 L510,400 L500,390 L490,380 Z',
         documents: '2,400+ documents',
         flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/za.svg'
       },
-      'EGY': {
-        name: 'Egypt',
-        path: 'M520,220 L550,220 L550,240 L530,250 L520,240 Z',
-        documents: '2,100+ documents',
-        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/eg.svg'
-      },
       'NGA': {
         name: 'Nigeria',
-        path: 'M480,270 L505,270 L505,290 L480,290 Z',
         documents: '1,800+ documents',
         flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ng.svg'
       },
+      'EGY': {
+        name: 'Egypt',
+        documents: '2,100+ documents',
+        flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/eg.svg'
+      },
       'IDN': {
         name: 'Indonesia',
-        path: 'M700,290 L740,290 L740,300 L700,300 Z M750,295 L770,295 L770,305 L750,305 Z M775,305 L795,305 L795,315 L775,315 Z M800,315 L820,315 L820,325 L800,325 Z',
         documents: '2,600+ documents',
         flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/id.svg'
       },
       'MDG': {
         name: 'Madagascar',
-        path: 'M560,340 L570,330 L580,340 L580,360 L570,370 L560,360 Z',
         documents: '800+ documents',
         flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/mg.svg'
       },
       'CUB': {
         name: 'Cuba',
-        path: 'M245,250 L270,250 L270,258 L245,258 Z',
         documents: '950+ documents',
         flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/cu.svg'
       },
       'ISL': {
         name: 'Iceland',
-        path: 'M430,130 L445,130 L445,140 L430,140 Z',
         documents: '720+ documents',
         flagUrl: 'https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/is.svg'
       }
     };
-   
-    // Create a flattened array of all country regions for rendering
-    const worldMapDots = [];
-    for (const [countryCode, regions] of Object.entries(countryShapes)) {
-      regions.forEach(region => {
-        worldMapDots.push({
-          x: region.x,
-          y: region.y,
-          width: region.width,
-          height: region.height,
-          countries: {[countryCode]: [region.x, region.y, region.width, region.height]}
-        });
-      });
-    }
+
+    // Country path data - defining the shapes of each country
+    const countryPaths = {
+      'USA': 'M200,180 L230,180 L250,190 L300,200 L330,200 L340,210 L320,230 L280,240 L238,235 L210,230 L200,210 Z M170,170 L200,170 L220,180 L200,190 Z',
+      'CAN': 'M170,150 L200,150 L240,150 L280,160 L330,160 L340,150 L330,140 L310,130 L290,120 L250,110 L210,120 L170,130 L150,140 Z',
+      'MEX': 'M200,230 L230,230 L250,235 L260,250 L250,270 L220,270 L210,260 L200,240 Z',
+      'GBR': 'M460,160 L465,150 L470,160 L465,170 L455,170 L450,160 Z',
+      'FRA': 'M470,180 L480,175 L490,175 L495,185 L490,195 L480,200 L470,195 L465,185 Z',
+      'DEU': 'M490,165 L500,160 L510,160 L515,170 L510,180 L500,180 L490,175 Z',
+      'ITA': 'M490,190 L500,190 L505,200 L500,210 L495,220 L490,210 L485,195 Z M490,220 L500,220 L495,230 L485,230 Z',
+      'ESP': 'M450,190 L480,190 L480,200 L470,210 L450,215 L440,210 L435,200 Z',
+      'RUS': 'M520,140 L580,140 L620,130 L660,120 L700,120 L740,130 L780,150 L770,170 L720,180 L680,170 L640,160 L600,170 L560,160 L530,170 L520,160 Z',
+      'CHN': 'M650,190 L680,180 L710,190 L730,200 L740,220 L730,240 L710,250 L690,240 L670,230 L660,220 L650,210 Z',
+      'IND': 'M630,230 L650,220 L670,230 L675,250 L670,270 L650,290 L630,280 L620,260 L625,240 Z',
+      'JPN': 'M780,180 L785,200 L780,220 L775,200 Z M790,190 L795,200 L790,210 Z',
+      'AUS': 'M740,350 L770,350 L800,360 L820,380 L810,400 L780,400 L760,390 L750,370 Z',
+      'BRA': 'M300,310 L330,310 L350,330 L360,360 L350,390 L330,410 L300,410 L280,390 L280,360 L290,330 Z',
+      'ARG': 'M280,420 L300,420 L310,450 L300,480 L280,510 L270,500 L260,470 L270,440 Z',
+      'ZAF': 'M500,370 L530,370 L530,390 L510,400 L500,390 L490,380 Z',
+      'EGY': 'M520,220 L550,220 L550,240 L530,250 L520,240 Z',
+      'NGA': 'M480,270 L505,270 L505,290 L480,290 Z',
+      'IDN': 'M700,290 L740,290 L740,300 L700,300 Z M750,295 L770,295 L770,305 L750,305 Z M775,305 L795,305 L795,315 L775,315 Z M800,315 L820,315 L820,325 L800,325 Z',
+      'MDG': 'M560,340 L570,330 L580,340 L580,360 L570,370 L560,360 Z',
+      'CUB': 'M245,250 L270,250 L270,258 L245,258 Z',
+      'ISL': 'M430,130 L445,130 L445,140 L430,140 Z'
+    };
 
     const svg = document.getElementById('map');
     const tooltip = document.getElementById('tooltip');
@@ -675,97 +451,85 @@
     const countryInfo = document.getElementById('countryInfo');
     const selectBtn = document.getElementById('select-btn');
     
-    // Generate a uniform dot grid across the entire map
-    const dotSpacing = 4; // higher resolution for more detailed country shapes
-    
-    // Create all country paths first
-    for (const [countryCode, countryData] of Object.entries(countryPolygons)) {
-      // Create a group for this country
+    // Create country groups and add dot matrix
+    const dotSpacing = 4; // Distance between dots
+
+    // First create all the country path elements
+    for (const [code, path] of Object.entries(countryPaths)) {
+      // Create a country group
       const group = document.createElementNS('http://www.w3.org/2000/svg', 'g');
-      group.setAttribute('id', `country-${countryCode}`);
+      group.setAttribute('id', `country-${code}`);
       group.setAttribute('class', 'country-group');
-      group.setAttribute('data-country', countryCode);
+      group.setAttribute('data-country', code);
       
-      // Create invisible path for the entire country area for interaction
-      const hitArea = document.createElementNS('http://www.w3.org/2000/svg', 'path');
-      hitArea.setAttribute('d', countryData.path);
-      hitArea.setAttribute('fill', 'transparent');
-      hitArea.setAttribute('pointer-events', 'all');
+      // Create the actual SVG path (invisible, used for hit detection)
+      const pathElement = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+      pathElement.setAttribute('d', path);
+      pathElement.setAttribute('fill', 'transparent');
+      pathElement.setAttribute('pointer-events', 'all');
+      group.appendChild(pathElement);
       
-      // Add interaction events to the group
+      // Add event listeners for interactivity
       group.addEventListener('mouseover', showTooltip);
       group.addEventListener('mousemove', moveTooltip);
       group.addEventListener('mouseout', hideTooltip);
       group.addEventListener('click', showCountryModal);
       
-      group.appendChild(hitArea);
       svg.appendChild(group);
     }
     
-    // Then create the dot grid
-    const dotContainer = document.createElementNS('http://www.w3.org/2000/svg', 'g');
-    dotContainer.setAttribute('id', 'dots-container');
-    svg.appendChild(dotContainer);
-    
-    // Create SVG elements for point-in-path testing
-    const pathElements = {};
-    for (const [countryCode, countryData] of Object.entries(countryPolygons)) {
-      const path = document.createElementNS('http://www.w3.org/2000/svg', 'path');
-      path.setAttribute('d', countryData.path);
-      pathElements[countryCode] = path;
-      svg.appendChild(path);
-      path.style.display = 'none'; // Hide these paths, they're just for testing
-    }
-    
-    // Create dots in a grid
-    for (let x = 0; x < 1200; x += dotSpacing) {
-      for (let y = 0; y < 600; y += dotSpacing) {
-        // Check if this dot belongs to any country
-        for (const [countryCode, path] of Object.entries(pathElements)) {
-          if (isPointInPolygon(x, y, countryPolygons[countryCode].path)) {
-            const dot = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-            dot.setAttribute('cx', x);
-            dot.setAttribute('cy', y);
-            dot.setAttribute('class', 'dot');
-            
-            // Add the dot to its country group for highlighting
-            const countryGroup = document.getElementById(`country-${countryCode}`);
-            countryGroup.appendChild(dot);
-            break; // Once we found which country the dot belongs to, move to next dot
-          }
+    // Add the dot matrix
+    // For each country, parse its path and place dots accordingly
+    for (const [code, pathData] of Object.entries(countryPaths)) {
+      const group = document.getElementById(`country-${code}`);
+      const pathElement = group.querySelector('path');
+      
+      // Get the bounding box of the country path
+      const bbox = getBoundingBox(pathData);
+      
+      // Create dots within the bounding box
+      for (let x = bbox.minX; x <= bbox.maxX; x += dotSpacing) {
+        for (let y = bbox.minY; y <= bbox.maxY; y += dotSpacing) {
+          // Create a dot at this position
+          const dot = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+          dot.setAttribute('cx', x);
+          dot.setAttribute('cy', y);
+          dot.setAttribute('class', 'dot');
+          group.appendChild(dot);
         }
       }
     }
     
-    // Helper function to check if a point is inside a polygon path
-    function isPointInPolygon(x, y, pathData) {
-      // This is a simplified version that checks if a point is within the bounding box
-      // For a real implementation, you would use a proper point-in-polygon algorithm
+    // Helper function to get the bounding box of an SVG path
+    function getBoundingBox(pathData) {
+      // Extract all x,y coordinates from the path data
+      const coords = [];
+      const regex = /([ML]) (\d+),(\d+)/g;
+      let match;
       
-      // Extract all x and y coordinates from the path data
-      const coordinates = pathData.match(/[ML] (\d+),(\d+)/g).map(coord => {
-        const [_, x, y] = coord.match(/[ML] (\d+),(\d+)/);
-        return [parseInt(x), parseInt(y)];
-      });
+      while ((match = regex.exec(pathData)) !== null) {
+        coords.push({
+          x: parseInt(match[2]),
+          y: parseInt(match[3])
+        });
+      }
       
-      if (coordinates.length < 3) return false; // Need at least 3 points for a polygon
+      // Find min and max coordinates
+      const xs = coords.map(c => c.x);
+      const ys = coords.map(c => c.y);
       
-      // Find the bounding box
-      const xCoords = coordinates.map(c => c[0]);
-      const yCoords = coordinates.map(c => c[1]);
-      const minX = Math.min(...xCoords);
-      const maxX = Math.max(...xCoords);
-      const minY = Math.min(...yCoords);
-      const maxY = Math.max(...yCoords);
-      
-      // Check if the point is within the bounding box
-      return x >= minX && x <= maxX && y >= minY && y <= maxY;
+      return {
+        minX: Math.min(...xs),
+        maxX: Math.max(...xs),
+        minY: Math.min(...ys),
+        maxY: Math.max(...ys)
+      };
     }
     
     // Tooltip functions
     function showTooltip(e) {
       const countryCode = e.currentTarget.getAttribute('data-country');
-      const country = countryPolygons[countryCode];
+      const country = countryData[countryCode];
       
       tooltip.innerHTML = `
         <img src="${country.flagUrl}" alt="${country.name} flag">
@@ -804,7 +568,7 @@
     }
     
     function updateCountryInfo(countryCode) {
-      const country = countryPolygons[countryCode];
+      const country = countryData[countryCode];
       
       countryInfo.innerHTML = `
         <div class="country-header">
@@ -852,14 +616,6 @@
       const country = countryData[countryCode];
       document.getElementById('selected-flag').src = country.flagUrl;
       document.getElementById('selected-country').textContent = country.name;
-      
-      // Highlight the selected country on the map
-      document.querySelectorAll('.country-group').forEach(group => {
-        const groupCountry = group.getAttribute('data-country');
-        if (groupCountry === countryCode) {
-          // You could add special styling here
-        }
-      });
     }
     
     // Initialize with UK selected
