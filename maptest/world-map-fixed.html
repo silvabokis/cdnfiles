@@ -51,18 +51,8 @@
     /* SVG styling */
     .map-container {
       width: 100%;
-      height: 100%;
+      min-height: 500px;
       position: relative;
-    }
-    
-    .map-container svg {
-      width: 100%;
-      height: auto;
-      display: block;
-      /* Fix to ensure the SVG takes the full available space */
-      position: absolute;
-      top: 0;
-      left: 0;
     }
     
     /* Country path styling */
@@ -481,26 +471,31 @@
         // Get the SVG element
         const svg = mapContainer.querySelector('svg');
         
-        // Make sure the SVG is responsive
-        svg.setAttribute('width', '100%');
-        svg.setAttribute('height', '100%');
+        // Get the original dimensions
+        const originalWidth = parseFloat(svg.getAttribute('width') || 1000);
+        const originalHeight = parseFloat(svg.getAttribute('height') || 500);
+        
+        // Fix SVG attributes to avoid errors
+        svg.removeAttribute('height'); // Remove the height attribute completely
+        svg.setAttribute('width', '100%'); // Set width to 100%
+        
+        // Set the viewBox to maintain proper scaling
+        if (!svg.hasAttribute('viewBox')) {
+          svg.setAttribute('viewBox', `0 0 ${originalWidth} ${originalHeight}`);
+        }
+        
         svg.setAttribute('preserveAspectRatio', 'xMidYMid meet');
         
-        // Get the original dimensions
-        const originalWidth = parseFloat(svg.getAttribute('width'));
-        const originalHeight = parseFloat(svg.getAttribute('height'));
-        
-        // Set the viewBox to maintain aspect ratio
-        svg.setAttribute('viewBox', `0 0 ${originalWidth} ${originalHeight}`);
-        
-        // Calculate and set appropriate height for map-wrapper based on aspect ratio
+        // Calculate and set appropriate height for map container based on aspect ratio
         const aspectRatio = originalHeight / originalWidth;
         const mapWrapper = document.querySelector('.map-wrapper');
         
         // Set a responsive height based on container width
         function adjustHeight() {
           const wrapperWidth = mapWrapper.clientWidth;
-          mapWrapper.style.height = `${wrapperWidth * aspectRatio}px`;
+          const newHeight = wrapperWidth * aspectRatio;
+          mapWrapper.style.height = `${newHeight}px`;
+          mapContainer.style.height = `${newHeight}px`;
         }
         
         // Initial adjustment
