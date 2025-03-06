@@ -1,0 +1,695 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>World Coverage Map</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      background-color: #ffffff;
+    }
+    
+    .container {
+      max-width: 1200px;
+      margin: 40px auto;
+      position: relative;
+      padding: 30px;
+      border-radius: 10px;
+      background-color: #f0f5f9;
+    }
+    
+    .header {
+      margin-bottom: 20px;
+    }
+    
+    .header h1 {
+      font-size: 32px;
+      font-weight: 600;
+      color: #1a2d40;
+      margin: 0 0 8px 0;
+    }
+    
+    .header p {
+      font-size: 16px;
+      color: #4a5568;
+      margin: 0;
+    }
+    
+    .map-wrapper {
+      position: relative;
+      margin-top: 20px;
+      overflow: hidden;
+      border-radius: 8px;
+      background-color: #f8fafc;
+      /* Set a minimum height to ensure map visibility */
+      min-height: 500px;
+    }
+    
+    /* SVG styling */
+    .map-container {
+      width: 100%;
+      min-height: 500px;
+      position: relative;
+    }
+    
+    /* Country path styling */
+    path {
+      fill: #e2e8f0;
+      stroke: #cbd5e0;
+      stroke-width: 0.5;
+      transition: fill 0.3s ease;
+    }
+    
+    path.has-data:hover {
+      fill: #4671c6;
+      cursor: pointer;
+    }
+    
+    path.has-data {
+      fill: #d1e3fa;
+    }
+    
+    path.selected {
+      fill: #4671c6;
+    }
+    
+    /* Tooltip styling */
+    .country-tooltip {
+      position: absolute;
+      padding: 12px 16px;
+      background: white;
+      border-radius: 6px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      pointer-events: none;
+      opacity: 0;
+      transition: opacity 0.3s, transform 0.3s;
+      transform: translateY(10px);
+      z-index: 10;
+      min-width: 150px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      border: 1px solid #eaeaea;
+    }
+    
+    .country-tooltip.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+    
+    .country-tooltip img {
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      overflow: hidden;
+    }
+    
+    .country-tooltip .country-name {
+      font-weight: 500;
+      color: #1a2d40;
+    }
+    
+    .country-tooltip .country-stat {
+      font-size: 14px;
+      color: #4a5568;
+      margin-top: 2px;
+    }
+    
+    /* Modal styling */
+    .modal {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.5);
+      z-index: 100;
+      opacity: 0;
+      transition: opacity 0.3s;
+    }
+    
+    .modal.visible {
+      opacity: 1;
+    }
+    
+    .modal-content {
+      position: relative;
+      background-color: white;
+      width: 90%;
+      max-width: 550px;
+      margin: 80px auto;
+      padding: 30px;
+      border-radius: 8px;
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+      transform: translateY(20px);
+      transition: transform 0.3s;
+    }
+    
+    .modal.visible .modal-content {
+      transform: translateY(0);
+    }
+    
+    .close-btn {
+      position: absolute;
+      right: 20px;
+      top: 20px;
+      font-size: 24px;
+      cursor: pointer;
+      width: 30px;
+      height: 30px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 50%;
+      background: #f5f5f5;
+      color: #666;
+      transition: background 0.2s;
+    }
+    
+    .close-btn:hover {
+      background: #eeeeee;
+      color: #333;
+    }
+    
+    .country-info {
+      margin-top: 5px;
+    }
+    
+    .country-header {
+      display: flex;
+      align-items: center;
+      margin-bottom: 25px;
+      gap: 15px;
+    }
+    
+    .country-header img {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      border: 1px solid #eaeaea;
+    }
+    
+    .country-header h2 {
+      margin: 0;
+      font-size: 24px;
+      font-weight: 600;
+      color: #1a2d40;
+    }
+    
+    .country-header .country-stat {
+      font-size: 14px;
+      color: #4a5568;
+    }
+    
+    .info-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+      margin-top: 20px;
+    }
+    
+    .info-item {
+      padding: 16px;
+      background-color: #f8f9fa;
+      border-radius: 6px;
+      transition: background-color 0.2s;
+    }
+    
+    .info-item:hover {
+      background-color: #f0f2f5;
+    }
+    
+    .info-item h4 {
+      margin: 0 0 8px 0;
+      color: #4a5568;
+      font-weight: 500;
+      font-size: 14px;
+    }
+    
+    .info-item p {
+      margin: 0;
+      font-weight: 600;
+      color: #1a2d40;
+      font-size: 16px;
+    }
+    
+    /* Search section styling */
+    .search-section {
+      margin-top: 30px;
+    }
+    
+    .search-section h3 {
+      font-size: 16px;
+      font-weight: 500;
+      color: #1a2d40;
+      margin: 0 0 12px 0;
+    }
+    
+    .select-container {
+      position: relative;
+      max-width: 300px;
+    }
+    
+    .select-btn {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      background: white;
+      border: 1px solid #dcdfe6;
+      border-radius: 6px;
+      padding: 12px 16px;
+      width: 100%;
+      cursor: pointer;
+      font-size: 16px;
+      color: #1a2d40;
+      transition: border-color 0.2s;
+    }
+    
+    .select-btn:hover {
+      border-color: #b0b7c3;
+    }
+    
+    .select-btn img {
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+    }
+    
+    .select-btn .arrow {
+      margin-left: auto;
+      transition: transform 0.2s;
+    }
+    
+    .select-btn .arrow.open {
+      transform: rotate(180deg);
+    }
+    
+    /* Search dropdown styling */
+    .country-dropdown {
+      position: absolute;
+      top: calc(100% + 4px);
+      left: 0;
+      width: 100%;
+      background: white;
+      border-radius: 6px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      max-height: 300px;
+      overflow-y: auto;
+      opacity: 0;
+      visibility: hidden;
+      transition: opacity 0.2s, visibility 0.2s;
+      z-index: 20;
+    }
+    
+    .country-dropdown.open {
+      opacity: 1;
+      visibility: visible;
+    }
+    
+    .country-dropdown-item {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 8px 16px;
+      cursor: pointer;
+      transition: background-color 0.2s;
+    }
+    
+    .country-dropdown-item:hover {
+      background-color: #f5f7fa;
+    }
+    
+    .country-dropdown-item img {
+      width: 18px;
+      height: 18px;
+      border-radius: 50%;
+    }
+    
+    .country-dropdown-item span {
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    
+    /* Loading indicator */
+    .loading {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 18px;
+      color: #4a5568;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>Coverage</h1>
+      <p>Explore our map</p>
+    </div>
+    
+    <div class="map-wrapper">
+      <div class="loading" id="loading">Loading map...</div>
+      <div id="mapContainer" class="map-container"></div>
+      <div class="country-tooltip" id="tooltip"></div>
+    </div>
+    
+    <div class="search-section">
+      <h3>Search</h3>
+      <div class="select-container">
+        <button class="select-btn" id="select-btn">
+          <img id="selected-flag" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/gb.svg" alt="Flag">
+          <span id="selected-country">United Kingdom</span>
+          <span class="arrow">▼</span>
+        </button>
+        <div class="country-dropdown" id="country-dropdown"></div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="modal" id="modal">
+    <div class="modal-content">
+      <span class="close-btn" id="closeModal">×</span>
+      <div class="country-info" id="countryInfo"></div>
+    </div>
+  </div>
+
+  <script>
+    // DOM elements
+    const mapContainer = document.getElementById('mapContainer');
+    const loading = document.getElementById('loading');
+    const tooltip = document.getElementById('tooltip');
+    const modal = document.getElementById('modal');
+    const closeModal = document.getElementById('closeModal');
+    const countryInfo = document.getElementById('countryInfo');
+    const selectBtn = document.getElementById('select-btn');
+    const countryDropdown = document.getElementById('country-dropdown');
+    
+    // Store the loaded country data
+    let countryData = {};
+    let hasActiveCountry = false;
+    
+    // Load country data from the JSON file
+    async function loadCountryData() {
+      try {
+        const response = await fetch('countries.json');
+        
+        if (!response.ok) {
+          throw new Error(`Failed to load country data: ${response.status} ${response.statusText}`);
+        }
+        
+        countryData = await response.json();
+        console.log('Country data loaded successfully');
+        
+        // Setup the country dropdown
+        setupCountryDropdown();
+        
+        return true;
+      } catch (error) {
+        console.error('Error loading country data:', error);
+        return false;
+      }
+    }
+    
+    // Set up country dropdown menu
+    function setupCountryDropdown() {
+      const countriesWithDocuments = Object.entries(countryData)
+        .filter(([code, data]) => data.documents)
+        .sort((a, b) => a[1].name.localeCompare(b[1].name));
+      
+      // Create dropdown items
+      let dropdownHtml = '';
+      
+      countriesWithDocuments.forEach(([code, data]) => {
+        dropdownHtml += `
+          <div class="country-dropdown-item" data-country="${code}">
+            <img src="${data.flagUrl}" alt="${data.name} flag">
+            <span>${data.name}</span>
+          </div>
+        `;
+      });
+      
+      countryDropdown.innerHTML = dropdownHtml;
+      
+      // Add event listeners to dropdown items
+      countryDropdown.querySelectorAll('.country-dropdown-item').forEach(item => {
+        item.addEventListener('click', function() {
+          const countryCode = this.getAttribute('data-country');
+          updateSelectedCountry(countryCode);
+          toggleDropdown(false);
+        });
+      });
+    }
+    
+    // Toggle the dropdown visibility
+    function toggleDropdown(show) {
+      const arrow = selectBtn.querySelector('.arrow');
+      
+      if (show === undefined) {
+        // Toggle
+        countryDropdown.classList.toggle('open');
+        arrow.classList.toggle('open');
+      } else if (show) {
+        // Show
+        countryDropdown.classList.add('open');
+        arrow.classList.add('open');
+      } else {
+        // Hide
+        countryDropdown.classList.remove('open');
+        arrow.classList.remove('open');
+      }
+    }
+    
+    // Load the SVG world map
+    async function loadMap() {
+      try {
+        // First, load the country data
+        const dataLoaded = await loadCountryData();
+        
+        if (!dataLoaded) {
+          throw new Error('Failed to load country data');
+        }
+        
+        // Then fetch the SVG file
+        const response = await fetch('world.svg');
+        
+        if (!response.ok) {
+          throw new Error(`Failed to load map: ${response.status} ${response.statusText}`);
+        }
+        
+        // Get the SVG content as text
+        const svgContent = await response.text();
+        
+        // Insert the SVG into the container
+        mapContainer.innerHTML = svgContent;
+        
+        // Hide the loading indicator
+        loading.style.display = 'none';
+        
+        // Get the SVG element
+        const svg = mapContainer.querySelector('svg');
+        
+        // Get the original dimensions
+        const originalWidth = parseFloat(svg.getAttribute('width') || 1000);
+        const originalHeight = parseFloat(svg.getAttribute('height') || 500);
+        
+        // Fix SVG attributes to avoid errors
+        svg.removeAttribute('height'); // Remove the height attribute completely
+        svg.setAttribute('width', '100%'); // Set width to 100%
+        
+        // Set the viewBox to maintain proper scaling
+        if (!svg.hasAttribute('viewBox')) {
+          svg.setAttribute('viewBox', `0 0 ${originalWidth} ${originalHeight}`);
+        }
+        
+        svg.setAttribute('preserveAspectRatio', 'xMidYMid meet');
+        
+        // Calculate and set appropriate height for map container based on aspect ratio
+        const aspectRatio = originalHeight / originalWidth;
+        const mapWrapper = document.querySelector('.map-wrapper');
+        
+        // Set a responsive height based on container width
+        function adjustHeight() {
+          const wrapperWidth = mapWrapper.clientWidth;
+          const newHeight = wrapperWidth * aspectRatio;
+          mapWrapper.style.height = `${newHeight}px`;
+          mapContainer.style.height = `${newHeight}px`;
+        }
+        
+        // Initial adjustment
+        adjustHeight();
+        
+        // Adjust on window resize
+        window.addEventListener('resize', adjustHeight);
+        
+        // Set up each country path
+        setupCountryPaths(svg);
+        
+        console.log('Map loaded successfully');
+        
+        // Set initial selected country
+        updateSelectedCountry('GB');
+      } catch (error) {
+        console.error('Error loading map:', error);
+        loading.textContent = 'Error loading map. Please try again.';
+      }
+    }
+    
+    // Set up country paths with event listeners and data
+    function setupCountryPaths(svg) {
+      // Get all paths from the SVG
+      const paths = svg.querySelectorAll('path');
+      
+      paths.forEach(path => {
+        // Get the country code from the path id
+        const countryCode = path.getAttribute('id');
+        
+        if (!countryCode) return; // Skip paths without an id
+        
+        // Check if we have data for this country
+        const countryInfo = countryData[countryCode];
+        
+        if (!countryInfo) return; // Skip if we don't have data for this country
+        
+        // Check if country has documents
+        const hasDocuments = countryInfo.documents && countryInfo.documents.trim() !== '';
+        
+        if (hasDocuments) {
+          // Mark this country as having data
+          path.classList.add('has-data');
+          
+          // Add event listeners for interactivity
+          path.addEventListener('mouseover', showTooltip);
+          path.addEventListener('mousemove', moveTooltip);
+          path.addEventListener('mouseout', hideTooltip);
+          path.addEventListener('click', showCountryModal);
+        }
+      });
+    }
+
+    // Tooltip functions
+    function showTooltip(e) {
+      const countryCode = e.target.getAttribute('id');
+      const country = countryData[countryCode];
+      
+      if (!country || !country.documents) return;
+      
+      tooltip.innerHTML = `
+        <img src="${country.flagUrl}" alt="${country.name} flag">
+        <div>
+          <div class="country-name">${country.name}</div>
+          <div class="country-stat">${country.documents}</div>
+        </div>
+      `;
+      
+      tooltip.classList.add('visible');
+      moveTooltip(e);
+    }
+
+    function moveTooltip(e) {
+      const mapRect = mapContainer.getBoundingClientRect();
+      const x = e.clientX - mapRect.left;
+      const y = e.clientY - mapRect.top;
+      
+      tooltip.style.left = `${x + 15}px`;
+      tooltip.style.top = `${y + 15}px`;
+    }
+
+    function hideTooltip() {
+      tooltip.classList.remove('visible');
+    }
+
+    // Modal functions
+    function showCountryModal(e) {
+      const countryCode = e.target.getAttribute('id');
+      const country = countryData[countryCode];
+      
+      if (!country || !country.documents) return;
+      
+      updateCountryInfo(countryCode);
+      
+      modal.style.display = 'block';
+      setTimeout(() => {
+        modal.classList.add('visible');
+      }, 10);
+    }
+
+    function updateCountryInfo(countryCode) {
+      const country = countryData[countryCode];
+      
+      countryInfo.innerHTML = `
+        <div class="country-header">
+          <img src="${country.flagUrl}" alt="${country.name} flag">
+          <div>
+            <h2>${country.name}</h2>
+            <div class="country-stat">${country.documents}</div>
+          </div>
+        </div>
+        <div class="info-grid">
+          <div class="info-item">
+            <h4>Documents</h4>
+            <p>${country.documents}</p>
+          </div>
+        </div>
+      `;
+    }
+
+    // Close modal events
+    closeModal.addEventListener('click', closeCountryModal);
+    modal.addEventListener('click', function(e) {
+      if (e.target === modal) {
+        closeCountryModal();
+      }
+    });
+
+    function closeCountryModal() {
+      modal.classList.remove('visible');
+      setTimeout(() => {
+        modal.style.display = 'none';
+      }, 300);
+    }
+
+    // Select dropdown functionality
+    selectBtn.addEventListener('click', function() {
+      toggleDropdown();
+    });
+
+    // Close dropdown when clicking outside
+    document.addEventListener('click', function(e) {
+      if (!selectBtn.contains(e.target) && !countryDropdown.contains(e.target)) {
+        toggleDropdown(false);
+      }
+    });
+
+    function updateSelectedCountry(countryCode) {
+      const country = countryData[countryCode];
+      
+      if (!country) return;
+      
+      document.getElementById('selected-flag').src = country.flagUrl;
+      document.getElementById('selected-country').textContent = country.name;
+      
+      // Highlight the selected country on the map
+      const svg = mapContainer.querySelector('svg');
+      const paths = svg.querySelectorAll('path');
+      
+      paths.forEach(path => {
+        if (path.getAttribute('id') === countryCode) {
+          path.classList.add('selected');
+        } else {
+          path.classList.remove('selected');
+        }
+      });
+    }
+
+    // Initialize the map when page loads
+    window.addEventListener('DOMContentLoaded', loadMap);
+  </script>
+</body>
+</html>

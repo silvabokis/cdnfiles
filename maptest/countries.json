@@ -1,0 +1,982 @@
+{
+  "AD": {
+    "name": "Andorra",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ad.svg"
+  },
+  "AE": {
+    "name": "United Arab Emirates",
+    "documents": "850+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ae.svg"
+  },
+  "AF": {
+    "name": "Afghanistan",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/af.svg"
+  },
+  "AG": {
+    "name": "Antigua and Barbuda",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ag.svg"
+  },
+  "AL": {
+    "name": "Albania",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/al.svg"
+  },
+  "AM": {
+    "name": "Armenia",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/am.svg"
+  },
+  "AO": {
+    "name": "Angola",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ao.svg"
+  },
+  "AR": {
+    "name": "Argentina",
+    "documents": "2,800+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ar.svg"
+  },
+  "AT": {
+    "name": "Austria",
+    "documents": "2,500+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/at.svg"
+  },
+  "AU": {
+    "name": "Australia",
+    "documents": "3,800+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/au.svg"
+  },
+  "AZ": {
+    "name": "Azerbaijan",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/az.svg"
+  },
+  "BA": {
+    "name": "Bosnia and Herzegovina",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ba.svg"
+  },
+  "BB": {
+    "name": "Barbados",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/bb.svg"
+  },
+  "BD": {
+    "name": "Bangladesh",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/bd.svg"
+  },
+  "BE": {
+    "name": "Belgium",
+    "documents": "3,100+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/be.svg"
+  },
+  "BF": {
+    "name": "Burkina Faso",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/bf.svg"
+  },
+  "BG": {
+    "name": "Bulgaria",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/bg.svg"
+  },
+  "BH": {
+    "name": "Bahrain",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/bh.svg"
+  },
+  "BI": {
+    "name": "Burundi",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/bi.svg"
+  },
+  "BJ": {
+    "name": "Benin",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/bj.svg"
+  },
+  "BN": {
+    "name": "Brunei",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/bn.svg"
+  },
+  "BO": {
+    "name": "Bolivia",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/bo.svg"
+  },
+  "BR": {
+    "name": "Brazil",
+    "documents": "4,100+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/br.svg"
+  },
+  "BS": {
+    "name": "Bahamas",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/bs.svg"
+  },
+  "BT": {
+    "name": "Bhutan",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/bt.svg"
+  },
+  "BW": {
+    "name": "Botswana",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/bw.svg"
+  },
+  "BY": {
+    "name": "Belarus",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/by.svg"
+  },
+  "BZ": {
+    "name": "Belize",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/bz.svg"
+  },
+  "CA": {
+    "name": "Canada",
+    "documents": "4,700+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ca.svg"
+  },
+  "CD": {
+    "name": "Democratic Republic of the Congo",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/cd.svg"
+  },
+  "CF": {
+    "name": "Central African Republic",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/cf.svg"
+  },
+  "CG": {
+    "name": "Republic of the Congo",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/cg.svg"
+  },
+  "CH": {
+    "name": "Switzerland",
+    "documents": "3,200+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ch.svg"
+  },
+  "CI": {
+    "name": "Ivory Coast",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ci.svg"
+  },
+  "CL": {
+    "name": "Chile",
+    "documents": "1,900+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/cl.svg"
+  },
+  "CM": {
+    "name": "Cameroon",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/cm.svg"
+  },
+  "CN": {
+    "name": "China",
+    "documents": "4,700+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/cn.svg"
+  },
+  "CO": {
+    "name": "Colombia",
+    "documents": "2,300+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/co.svg"
+  },
+  "CR": {
+    "name": "Costa Rica",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/cr.svg"
+  },
+  "CU": {
+    "name": "Cuba",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/cu.svg"
+  },
+  "CV": {
+    "name": "Cape Verde",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/cv.svg"
+  },
+  "CY": {
+    "name": "Cyprus",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/cy.svg"
+  },
+  "CZ": {
+    "name": "Czech Republic",
+    "documents": "1,800+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/cz.svg"
+  },
+  "DE": {
+    "name": "Germany",
+    "documents": "5,200+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/de.svg"
+  },
+  "DJ": {
+    "name": "Djibouti",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/dj.svg"
+  },
+  "DK": {
+    "name": "Denmark",
+    "documents": "2,100+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/dk.svg"
+  },
+  "DM": {
+    "name": "Dominica",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/dm.svg"
+  },
+  "DO": {
+    "name": "Dominican Republic",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/do.svg"
+  },
+  "DZ": {
+    "name": "Algeria",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/dz.svg"
+  },
+  "EC": {
+    "name": "Ecuador",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ec.svg"
+  },
+  "EE": {
+    "name": "Estonia",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ee.svg"
+  },
+  "EG": {
+    "name": "Egypt",
+    "documents": "2,100+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/eg.svg"
+  },
+  "ER": {
+    "name": "Eritrea",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/er.svg"
+  },
+  "ES": {
+    "name": "Spain",
+    "documents": "3,700+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/es.svg"
+  },
+  "ET": {
+    "name": "Ethiopia",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/et.svg"
+  },
+  "FI": {
+    "name": "Finland",
+    "documents": "1,900+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/fi.svg"
+  },
+  "FJ": {
+    "name": "Fiji",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/fj.svg"
+  },
+  "FM": {
+    "name": "Micronesia",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/fm.svg"
+  },
+  "FR": {
+    "name": "France",
+    "documents": "4,800+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/fr.svg"
+  },
+  "GA": {
+    "name": "Gabon",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ga.svg"
+  },
+  "GB": {
+    "name": "United Kingdom",
+    "documents": "5,600+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/gb.svg"
+  },
+  "GD": {
+    "name": "Grenada",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/gd.svg"
+  },
+  "GE": {
+    "name": "Georgia",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ge.svg"
+  },
+  "GH": {
+    "name": "Ghana",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/gh.svg"
+  },
+  "GM": {
+    "name": "Gambia",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/gm.svg"
+  },
+  "GN": {
+    "name": "Guinea",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/gn.svg"
+  },
+  "GQ": {
+    "name": "Equatorial Guinea",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/gq.svg"
+  },
+  "GR": {
+    "name": "Greece",
+    "documents": "2,100+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/gr.svg"
+  },
+  "GT": {
+    "name": "Guatemala",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/gt.svg"
+  },
+  "GW": {
+    "name": "Guinea-Bissau",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/gw.svg"
+  },
+  "GY": {
+    "name": "Guyana",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/gy.svg"
+  },
+  "HN": {
+    "name": "Honduras",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/hn.svg"
+  },
+  "HR": {
+    "name": "Croatia",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/hr.svg"
+  },
+  "HT": {
+    "name": "Haiti",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ht.svg"
+  },
+  "HU": {
+    "name": "Hungary",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/hu.svg"
+  },
+  "ID": {
+    "name": "Indonesia",
+    "documents": "2,600+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/id.svg"
+  },
+  "IE": {
+    "name": "Ireland",
+    "documents": "2,400+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ie.svg"
+  },
+  "IL": {
+    "name": "Israel",
+    "documents": "1,800+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/il.svg"
+  },
+  "IN": {
+    "name": "India",
+    "documents": "3,900+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/in.svg"
+  },
+  "IQ": {
+    "name": "Iraq",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/iq.svg"
+  },
+  "IR": {
+    "name": "Iran",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ir.svg"
+  },
+  "IS": {
+    "name": "Iceland",
+    "documents": "720+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/is.svg"
+  },
+  "IT": {
+    "name": "Italy",
+    "documents": "4,100+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/it.svg"
+  },
+  "JM": {
+    "name": "Jamaica",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/jm.svg"
+  },
+  "JO": {
+    "name": "Jordan",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/jo.svg"
+  },
+  "JP": {
+    "name": "Japan",
+    "documents": "3,500+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/jp.svg"
+  },
+  "KE": {
+    "name": "Kenya",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ke.svg"
+  },
+  "KG": {
+    "name": "Kyrgyzstan",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/kg.svg"
+  },
+  "KH": {
+    "name": "Cambodia",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/kh.svg"
+  },
+  "KI": {
+    "name": "Kiribati",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ki.svg"
+  },
+  "KM": {
+    "name": "Comoros",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/km.svg"
+  },
+  "KN": {
+    "name": "Saint Kitts and Nevis",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/kn.svg"
+  },
+  "KP": {
+    "name": "North Korea",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/kp.svg"
+  },
+  "KR": {
+    "name": "South Korea",
+    "documents": "2,700+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/kr.svg"
+  },
+  "KW": {
+    "name": "Kuwait",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/kw.svg"
+  },
+  "KZ": {
+    "name": "Kazakhstan",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/kz.svg"
+  },
+  "LA": {
+    "name": "Laos",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/la.svg"
+  },
+  "LB": {
+    "name": "Lebanon",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/lb.svg"
+  },
+  "LC": {
+    "name": "Saint Lucia",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/lc.svg"
+  },
+  "LI": {
+    "name": "Liechtenstein",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/li.svg"
+  },
+  "LK": {
+    "name": "Sri Lanka",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/lk.svg"
+  },
+  "LR": {
+    "name": "Liberia",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/lr.svg"
+  },
+  "LS": {
+    "name": "Lesotho",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ls.svg"
+  },
+  "LT": {
+    "name": "Lithuania",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/lt.svg"
+  },
+  "LU": {
+    "name": "Luxembourg",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/lu.svg"
+  },
+  "LV": {
+    "name": "Latvia",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/lv.svg"
+  },
+  "LY": {
+    "name": "Libya",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ly.svg"
+  },
+  "MA": {
+    "name": "Morocco",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ma.svg"
+  },
+  "MC": {
+    "name": "Monaco",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/mc.svg"
+  },
+  "MD": {
+    "name": "Moldova",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/md.svg"
+  },
+  "ME": {
+    "name": "Montenegro",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/me.svg"
+  },
+  "MG": {
+    "name": "Madagascar",
+    "documents": "800+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/mg.svg"
+  },
+  "MH": {
+    "name": "Marshall Islands",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/mh.svg"
+  },
+  "MK": {
+    "name": "North Macedonia",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/mk.svg"
+  },
+  "ML": {
+    "name": "Mali",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ml.svg"
+  },
+  "MM": {
+    "name": "Myanmar",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/mm.svg"
+  },
+  "MN": {
+    "name": "Mongolia",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/mn.svg"
+  },
+  "MR": {
+    "name": "Mauritania",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/mr.svg"
+  },
+  "MT": {
+    "name": "Malta",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/mt.svg"
+  },
+  "MU": {
+    "name": "Mauritius",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/mu.svg"
+  },
+  "MV": {
+    "name": "Maldives",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/mv.svg"
+  },
+  "MW": {
+    "name": "Malawi",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/mw.svg"
+  },
+  "MX": {
+    "name": "Mexico",
+    "documents": "3,200+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/mx.svg"
+  },
+  "MY": {
+    "name": "Malaysia",
+    "documents": "1,900+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/my.svg"
+  },
+  "MZ": {
+    "name": "Mozambique",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/mz.svg"
+  },
+  "NA": {
+    "name": "Namibia",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/na.svg"
+  },
+  "NE": {
+    "name": "Niger",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ne.svg"
+  },
+  "NG": {
+    "name": "Nigeria",
+    "documents": "1,800+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ng.svg"
+  },
+  "NI": {
+    "name": "Nicaragua",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ni.svg"
+  },
+  "NL": {
+    "name": "Netherlands",
+    "documents": "3,500+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/nl.svg"
+  },
+  "NO": {
+    "name": "Norway",
+    "documents": "2,200+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/no.svg"
+  },
+  "NP": {
+    "name": "Nepal",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/np.svg"
+  },
+  "NR": {
+    "name": "Nauru",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/nr.svg"
+  },
+  "NZ": {
+    "name": "New Zealand",
+    "documents": "2,300+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/nz.svg"
+  },
+  "OM": {
+    "name": "Oman",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/om.svg"
+  },
+  "PA": {
+    "name": "Panama",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/pa.svg"
+  },
+  "PE": {
+    "name": "Peru",
+    "documents": "1,300+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/pe.svg"
+  },
+  "PG": {
+    "name": "Papua New Guinea",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/pg.svg"
+  },
+  "PH": {
+    "name": "Philippines",
+    "documents": "1,500+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ph.svg"
+  },
+  "PK": {
+    "name": "Pakistan",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/pk.svg"
+  },
+  "PL": {
+    "name": "Poland",
+    "documents": "2,500+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/pl.svg"
+  },
+  "PT": {
+    "name": "Portugal",
+    "documents": "1,900+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/pt.svg"
+  },
+  "PW": {
+    "name": "Palau",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/pw.svg"
+  },
+  "PY": {
+    "name": "Paraguay",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/py.svg"
+  },
+  "QA": {
+    "name": "Qatar",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/qa.svg"
+  },
+  "RO": {
+    "name": "Romania",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ro.svg"
+  },
+  "RS": {
+    "name": "Serbia",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/rs.svg"
+  },
+  "RU": {
+    "name": "Russia",
+    "documents": "3,200+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ru.svg"
+  },
+  "RW": {
+    "name": "Rwanda",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/rw.svg"
+  },
+  "SA": {
+    "name": "Saudi Arabia",
+    "documents": "1,200+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/sa.svg"
+  },
+  "SB": {
+    "name": "Solomon Islands",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/sb.svg"
+  },
+  "SC": {
+    "name": "Seychelles",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/sc.svg"
+  },
+  "SD": {
+    "name": "Sudan",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/sd.svg"
+  },
+  "SE": {
+    "name": "Sweden",
+    "documents": "2,700+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/se.svg"
+  },
+  "SG": {
+    "name": "Singapore",
+    "documents": "2,400+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/sg.svg"
+  },
+  "SI": {
+    "name": "Slovenia",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/si.svg"
+  },
+  "SK": {
+    "name": "Slovakia",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/sk.svg"
+  },
+  "SL": {
+    "name": "Sierra Leone",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/sl.svg"
+  },
+  "SM": {
+    "name": "San Marino",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/sm.svg"
+  },
+  "SN": {
+    "name": "Senegal",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/sn.svg"
+  },
+  "SO": {
+    "name": "Somalia",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/so.svg"
+  },
+  "SR": {
+    "name": "Suriname",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/sr.svg"
+  },
+  "SS": {
+    "name": "South Sudan",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ss.svg"
+  },
+  "ST": {
+    "name": "São Tomé and Príncipe",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/st.svg"
+  },
+  "SV": {
+    "name": "El Salvador",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/sv.svg"
+  },
+  "SY": {
+    "name": "Syria",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/sy.svg"
+  },
+  "SZ": {
+    "name": "Eswatini",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/sz.svg"
+  },
+  "TD": {
+    "name": "Chad",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/td.svg"
+  },
+  "TG": {
+    "name": "Togo",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/tg.svg"
+  },
+  "TH": {
+    "name": "Thailand",
+    "documents": "1,700+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/th.svg"
+  },
+  "TJ": {
+    "name": "Tajikistan",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/tj.svg"
+  },
+  "TL": {
+    "name": "Timor-Leste",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/tl.svg"
+  },
+  "TM": {
+    "name": "Turkmenistan",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/tm.svg"
+  },
+  "TN": {
+    "name": "Tunisia",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/tn.svg"
+  },
+  "TO": {
+    "name": "Tonga",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/to.svg"
+  },
+  "TR": {
+    "name": "Turkey",
+    "documents": "2,100+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/tr.svg"
+  },
+  "TT": {
+    "name": "Trinidad and Tobago",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/tt.svg"
+  },
+  "TV": {
+    "name": "Tuvalu",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/tv.svg"
+  },
+  "TW": {
+    "name": "Taiwan",
+    "documents": "2,100+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/tw.svg"
+  },
+  "TZ": {
+    "name": "Tanzania",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/tz.svg"
+  },
+  "UA": {
+    "name": "Ukraine",
+    "documents": "1,500+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ua.svg"
+  },
+  "UG": {
+    "name": "Uganda",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ug.svg"
+  },
+  "US": {
+    "name": "United States",
+    "documents": "12,000+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/us.svg"
+  },
+  "UY": {
+    "name": "Uruguay",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/uy.svg"
+  },
+  "UZ": {
+    "name": "Uzbekistan",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/uz.svg"
+  },
+  "VA": {
+    "name": "Vatican City",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/va.svg"
+  },
+  "VC": {
+    "name": "Saint Vincent and the Grenadines",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/vc.svg"
+  },
+  "VE": {
+    "name": "Venezuela",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ve.svg"
+  },
+  "VN": {
+    "name": "Vietnam",
+    "documents": "1,400+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/vn.svg"
+  },
+  "VU": {
+    "name": "Vanuatu",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/vu.svg"
+  },
+  "WS": {
+    "name": "Samoa",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ws.svg"
+  },
+  "XK": {
+    "name": "Kosovo",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/xk.svg"
+  },
+  "YE": {
+    "name": "Yemen",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ye.svg"
+  },
+  "ZA": {
+    "name": "South Africa",
+    "documents": "2,400+ documents",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/za.svg"
+  },
+  "ZM": {
+    "name": "Zambia",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/zm.svg"
+  },
+  "ZW": {
+    "name": "Zimbabwe",
+    "documents": "",
+    "flagUrl": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/zw.svg"
+  }
+}
