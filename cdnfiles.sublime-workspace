@@ -1,0 +1,1289 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"ind",
+				"indigo"
+			],
+			[
+				"date",
+				"dateContent"
+			],
+			[
+				"darkt",
+				"darkteal"
+			],
+			[
+				"the",
+				"theSummaryHTML"
+			],
+			[
+				"th",
+				"thisTag"
+			],
+			[
+				"initial",
+				"initialFilter"
+			],
+			[
+				"initi",
+				"initialFilter"
+			],
+			[
+				"ini",
+				"initialIndex"
+			],
+			[
+				"filter",
+				"filtervalue"
+			],
+			[
+				"max",
+				"max1024"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"filer",
+				"filter-link"
+			],
+			[
+				"summary",
+				"summary-item"
+			],
+			[
+				"filte",
+				"filter-link"
+			],
+			[
+				"f",
+				"filterMarkup"
+			],
+			[
+				"file",
+				"filterMarkup"
+			],
+			[
+				"splash",
+				"splashviewed"
+			],
+			[
+				"splas",
+				"showSplashScreen"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"a",
+				"accent-secondary"
+			],
+			[
+				"accent",
+				"accent-main"
+			],
+			[
+				"com",
+				"company-orange"
+			],
+			[
+				"sqs-blo",
+				"sqs-block-form-lightbox"
+			],
+			[
+				"light",
+				"lightbox-handle"
+			],
+			[
+				"is",
+				"isRARform"
+			],
+			[
+				"form",
+				"form-title"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"this",
+				"thisRarToken"
+			],
+			[
+				"replace",
+				"replaceWith"
+			],
+			[
+				"theisr",
+				"thisResourceLink"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"theF",
+				"theFormSubmitText"
+			],
+			[
+				"local",
+				"localfeedObj"
+			],
+			[
+				"sqs",
+				"sqs-block-form-lightbox"
+			],
+			[
+				"thisLin",
+				"thisLinkSet"
+			],
+			[
+				"forn",
+				"formatSetting"
+			],
+			[
+				"border-r",
+				"border-top-right-radius"
+			],
+			[
+				"sqs-block-",
+				"sqs-block-html"
+			],
+			[
+				"ter",
+				"tertiaryButton-default"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"sqs-block",
+				"sqs-block-button"
+			],
+			[
+				"homepage",
+				"homepagev05"
+			],
+			[
+				"homep",
+				"homepagev02"
+			],
+			[
+				"curren",
+				"currentSelections"
+			],
+			[
+				"theSe",
+				"theSearchBlock"
+			],
+			[
+				"sear",
+				"searchBlockWrapper"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"searchB",
+				"searchButtonOpenWrapper"
+			],
+			[
+				"Index",
+				"Index-page-content"
+			],
+			[
+				"first",
+				"first-of-type"
+			],
+			[
+				"in",
+				"initial\tposition"
+			],
+			[
+				"test",
+				"testbreak"
+			],
+			[
+				"feedd",
+				"feeddown"
+			],
+			[
+				"expiry",
+				"expiryDate"
+			],
+			[
+				"bookin",
+				"bookingstring"
+			],
+			[
+				"sqs-",
+				"sqs-block-horizontalrule"
+			],
+			[
+				"res",
+				"resultCount"
+			],
+			[
+				"Head-",
+				"Header-nav-folder"
+			],
+			[
+				"change",
+				"changeURL"
+			],
+			[
+				"thisN",
+				"thisnavEvent"
+			],
+			[
+				"session",
+				"sessionStorage"
+			],
+			[
+				"cookie",
+				"cookiesuccess"
+			],
+			[
+				"cook",
+				"cookieValue"
+			],
+			[
+				"gri",
+				"gridVersion"
+			],
+			[
+				"acc",
+				"accommDescription"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"book",
+				"bookingString"
+			],
+			[
+				"desc",
+				"roomDescription"
+			],
+			[
+				"avai",
+				"availabilityNone"
+			],
+			[
+				"backgo",
+				"background-color"
+			],
+			[
+				"thisA",
+				"thisAccomHtml"
+			],
+			[
+				"space",
+				"space-between\tjustify-content"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"hide",
+				"hideElement"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"back",
+				"backToTop"
+			],
+			[
+				"month",
+				"monthSeparator"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"resortL",
+				"resortList"
+			],
+			[
+				"gr",
+				"gridVersion"
+			],
+			[
+				"out",
+				"outputHtml"
+			],
+			[
+				"build",
+				"buildBlock0"
+			],
+			[
+				"gird",
+				"gridVersion"
+			],
+			[
+				"data-ta",
+				"data-taglabel"
+			],
+			[
+				"data",
+				"data-taglabel"
+			],
+			[
+				"intera",
+				"interactionType"
+			],
+			[
+				"error",
+				"errorstring"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"keepInT",
+				"keepInTouchFormPop"
+			],
+			[
+				"inter",
+				"interactionType"
+			],
+			[
+				"pop",
+				"popform"
+			],
+			[
+				"success",
+				"Successfully"
+			],
+			[
+				"modal",
+				"modalinit"
+			],
+			[
+				"over",
+				"overflow-y\tproperty"
+			],
+			[
+				"promo",
+				"eventPromo"
+			],
+			[
+				"event",
+				"eventPromo"
+			],
+			[
+				"pr",
+				"promotext"
+			],
+			[
+				"thisEve",
+				"thisEvent"
+			],
+			[
+				"brea",
+				"breakPackages"
+			],
+			[
+				"room",
+				"roomsAvailable"
+			],
+			[
+				"blog",
+				"blogUrlMods"
+			],
+			[
+				"redirect",
+				"redirectURL"
+			],
+			[
+				"find",
+				"findString"
+			],
+			[
+				"thePa",
+				"thePageHref"
+			],
+			[
+				"loca",
+				"localconfigObj"
+			],
+			[
+				"new",
+				"newfeedObj"
+			],
+			[
+				"events",
+				"eventsBlock"
+			],
+			[
+				"theI",
+				"theIconColor"
+			],
+			[
+				"theIco",
+				"theIconParts"
+			],
+			[
+				"first-",
+				"first-of-type"
+			],
+			[
+				"eventcta",
+				"eventcta"
+			],
+			[
+				"thisR",
+				"thisRowHtml"
+			],
+			[
+				"second",
+				"secondparthtml"
+			],
+			[
+				"eve",
+				"eventInfoHtml"
+			],
+			[
+				"eventIn",
+				"eventInfoHtml"
+			],
+			[
+				"thisEvent",
+				"thisEventInfo"
+			],
+			[
+				"Head",
+				"Header-nav-folder"
+			],
+			[
+				"data-",
+				"data-roomavailable"
+			],
+			[
+				"clos",
+				"closingHTML"
+			],
+			[
+				"retu",
+				"returnPrice"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "installer.js",
+			"settings":
+			{
+				"buffer_size": 16471,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "/**"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAV0AAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		}
+	],
+	"build_system": "Packages/lessc/lessc.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/lessc/lessc.sublime-build",
+					""
+				],
+				[
+					"Packages/lessc/lessc.sublime-build",
+					"Non-Minified"
+				]
+			],
+			[
+				"Packages/lessc/lessc.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"view",
+				"View Package File"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"mater",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"material them",
+				"Material Theme: Configuration"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"ge res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"prv open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"boxy",
+				"Boxy Theme: Environment"
+			],
+			[
+				"packag",
+				"Package Control: Discover Packages"
+			],
+			[
+				"br",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pre",
+				"Preferences: Browse Packages"
+			],
+			[
+				"less",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 526.0
+	},
+	"console":
+	{
+		"height": 382.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"ftp",
+			"emmet",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/colin/OneDrive/Documents/GitHub/cdnfiles"
+	],
+	"file_history":
+	[
+		"/C/Users/colin/OneDrive/Documents/GitHub/silvabokis-beta/_site/Footer Injection.js",
+		"/C/Users/colin/OneDrive/Documents/GitHub/silvabokis-beta/_site/Header Injection.js",
+		"/C/Users/colin/OneDrive/Documents/GitHub/silvabokis-beta/_site/Custom CSS.less",
+		"/C/Users/colin/OneDrive/Documents/GitHub/silvabokis-beta/_site/plugins/Add year to blog post meta on 7_1.js",
+		"/C/Users/colin/OneDrive/Documents/GitHub/silvabokis-beta/_site/plugins/readingtime.js",
+		"/C/Users/colin/OneDrive/Documents/GitHub/silvabokis-beta/_site/plugins/AI SEO description generator AppsScript.js",
+		"/C/Users/colin/OneDrive/Documents/GitHub/silvabokis-beta/_site/template list affiliates.htm",
+		"/C/Users/colin/OneDrive/Documents/GitHub/silvabokis-beta/_site/plugins/date tools.js",
+		"/C/Users/colin/OneDrive/Documents/GitHub/silvabokis-beta/_site/plugins/Convert displayed dates to users locale format.js",
+		"/C/Users/colin/OneDrive/Documents/GitHub/silvabokis-beta/_site/featured snippet list",
+		"/C/Users/colin/OneDrive/Documents/GitHub/silvabokis-beta/_site/plugins/template-picker.htm",
+		"/C/Users/colin/OneDrive/Documents/GitHub/silvabokis-beta/_site/plugins/trial-extender.htm",
+		"/C/Users/colin/OneDrive/Documents/GitHub/_Code-Demos/_site/Custom CSS.less",
+		"/C/Users/colin/OneDrive/Documents/GitHub/Company-Place-2023/_site/Footer Injection.js",
+		"/C/Users/colin/OneDrive/Documents/GitHub/Company-Place-2023/_site/Custom CSS.less",
+		"/C/Users/colin/OneDrive/Documents/GitHub/Company-Place-2023/_site/Universal filter.js",
+		"/C/Users/colin/OneDrive/Documents/GitHub/Stafford-Reskin/_site/Footer Injection.js",
+		"/C/Users/colin/OneDrive/Documents/GitHub/Stafford-Reskin/_site/Custom CSS.less",
+		"/C/Users/colin/OneDrive/Documents/GitHub/Stafford-Reskin/_site/pie-chart.htm",
+		"/C/Users/colin/Downloads/test.xml",
+		"/C/Users/colin/Downloads/FX_OUTPUT_20230216.xml",
+		"/C/Users/colin/OneDrive/Documents/GitHub/Stafford-Reskin/_site/Services Overview Graphic.htm",
+		"/C/Users/Colin/OneDrive/Documents/GitHub/Butlins-Weekends-v1/_v1-site/Custom CSS.less",
+		"/C/Users/Colin/OneDrive/Documents/GitHub/Butlins-Weekends-v1/_v1-site/Footer Injection.js",
+		"/C/Users/colin/OneDrive/Documents/GitHub/Butlins-Weekends-v1/_v1-site/lineup grid.htm",
+		"/C/Users/Colin/OneDrive/Documents/GitHub/Butlins-Weekends-v1/_v1-site/sitebreaklist.json",
+		"/C/Users/Colin/OneDrive/Documents/GitHub/Butlins-Weekends-v1/_v1-site/Header Injection-STAGING.js",
+		"/C/Users/Colin/OneDrive/Documents/GitHub/Butlins-Weekends-v1/_v1-site/Header Injection-DEV.js",
+		"/C/Users/colin/AppData/Roaming/Sublime Text 3/Packages/Material Theme/Material-Theme.sublime-theme",
+		"/C/Users/colin/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/colin/OneDrive/Documents/2. Clients/Bourne Leisure/Bourne Leisure.sublime-project",
+		"/C/Users/Hp/OneDrive/Documents/GitHub/Butlins-Weekends-v1/_v1-site/Custom CSS.less",
+		"/C/Users/Hp/OneDrive/Documents/GitHub/Butlins-Weekends-v1/_v1-site/sitebreaklist.json",
+		"/C/Users/Hp/OneDrive/Documents/GitHub/Butlins-Weekends-v1/_v1-site/Footer Injection.js",
+		"/C/Users/Hp/OneDrive/Documents/GitHub/Butlins-Weekends-v1/_v1-site/svg banner-DEC.htm",
+		"/C/Users/Hp/OneDrive/Documents/GitHub/Butlins-Weekends-v1/_v1-site/sitebreaklist with Nov 2021 darts.json",
+		"/C/Users/Hp/AppData/Roaming/Sublime Text 3/Packages/User/LESS.sublime-build",
+		"/C/Users/Hp/AppData/Roaming/Sublime Text 3/Packages/lessc/lessc.sublime-build",
+		"/C/Users/Hp/AppData/Roaming/Sublime Text 3/Packages/LESS-build/LESS.sublime-build",
+		"/C/Users/Hp/OneDrive/Documents/GitHub/Butlins-Weekends-v1/_v1-site/Custom CSS.css",
+		"/C/$GetCurrent/media/bootmgr.efi",
+		"/C/Users/Hp/OneDrive/Documents/GitHub/Butlins-Weekends-v1/_v1-site/svg banner-JAN.htm",
+		"/C/Users/Hp/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/Hp/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/Hp/AppData/Roaming/Sublime Text 3/Packages/Theme - Monokai Pro/Theme - Monokai Pro.sublime-settings",
+		"/C/Users/Hp/AppData/Roaming/Sublime Text 3/Packages/User/Theme - Monokai Pro.sublime-settings",
+		"/C/Users/Hp/OneDrive/Documents/GitHub/Butlins-Weekends-v1/_v1-site/301 redirect NOTES.md",
+		"/C/Users/Hp/OneDrive/Documents/GitHub/Butlins-Weekends-v1/_v1-site/301 redirects.txt",
+		"/C/Users/Hp/OneDrive/Documents/GitHub/Stafford-Concept1/_site/Lazy loader hooks.js",
+		"/C/Users/Hp/OneDrive/Documents/GitHub/Butlins-Weekends-v1/_v1-site/sitebreaklistWITH2022.json",
+		"/C/Users/Hp/OneDrive/Documents/GitHub/Butlins-Weekends-v1/_v1-site/sitebreaklistWITHOUT2022.json",
+		"/C/Users/Hp/OneDrive/Documents/GitHub/Butlins-Weekends-v1/_v1-site/sitebreaklist-backup 13th May 2020.json",
+		"/C/Users/Hp/OneDrive/Documents/GitHub/Butlins-Weekends-v1/_v1-site/Header Injection-PRODUCTION.js",
+		"/C/Users/Hp/OneDrive/Documents/GitHub/Butlins-Weekends-v1/_v1-site/Header Injection-STAGING.js",
+		"/C/Users/Hp/Downloads/tspc-icons.json",
+		"/C/Users/Hp/OneDrive/Documents/GitHub/Butlins-Weekends-v1/_v1-site/test.htm",
+		"/C/Users/Hp/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/Hp/AppData/Roaming/Sublime Text 3/Packages/User/less2css.sublime-settings",
+		"/C/Users/Hp/AppData/Roaming/Sublime Text 3/Packages/Less2Css/less2css.sublime-settings",
+		"/C/Users/Hp/OneDrive/Documents/GitHub/Butlins-Weekends-v1/_v1-site/SubscribeForm.htm",
+		"/C/Users/Hp/OneDrive/Documents/GitHub/Butlins-Weekends-v1/_v1-site/Header Injection.js",
+		"/C/Users/Hp/OneDrive/Documents/GitHub/Butlins-Weekends-v1/_v1-site/dsds",
+		"/C/Users/Hp/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/C/Users/Hp/AppData/Roaming/Sublime Text 3/Packages/JSHint/Base File.sublime-settings",
+		"/C/Users/Hp/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Hp/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Hp/OneDrive/Documents/2. Clients/Bourne Leisure/Bourne Leisure.sublime-project",
+		"/D/My Documents/GitHub/Butlins-Weekends-v1/_v1-site/Custom CSS.less",
+		"/D/My Documents/GitHub/Butlins-Weekends-v1/_v1-site/Footer Injection.js",
+		"/D/My Documents/GitHub/Butlins-Weekends-v1/_v1-site/sitebreaklist.json",
+		"/D/My Documents/GitHub/Butlins-Weekends-v1/_v1-site/301 redirects.txt",
+		"/D/My Documents/GitHub/Butlins-Weekends-v1/_v1-site/Custom CSS.css",
+		"/D/My Documents/GitHub/Butlins-Weekends-v1/_v1-site/Header Injection.js",
+		"/D/My Documents/GitHub/Butlins-Weekends-v1/_v1-site/video embed code.htm",
+		"/D/My Documents/GitHub/Butlins-Weekends-v1/_v1-site/scratchpad.js",
+		"/D/My Documents/GitHub/Butlins-Weekends-v1/_v1-site/Docs/Assets for event page.md",
+		"/D/My Documents/GitHub/Butlins-Weekends-v1/_v1-site/lockpage.js",
+		"/D/My Documents/GitHub/Butlins-Weekends-v1/_v1-site/Test-Form-Submit.js",
+		"/D/My Documents/GitHub/Butlins-Weekends-v1/_v1-site/newsletter/footer-code.htm",
+		"/D/My Documents/GitHub/Butlins-Weekends-v1/_v1-site/newsletter/SubscribeForm.htm",
+		"/D/My Documents/GitHub/Butlins-Weekends-v1/_v1-site/video-control.js",
+		"/D/My Documents/2. Clients/_blank project/_site/Header Injection.js",
+		"/D/My Documents/GitHub/Butlins-Weekends-v1/_v1-site/New custom css.less",
+		"/D/My Documents/GitHub/Butlins-Weekends-v1/_v1-site/Pseudo code for event parser.md",
+		"/D/My Documents/GitHub/Butlins-Weekends-v1/_v1-site/scratch.js",
+		"/D/My Documents/GitHub/Butlins-Weekends-v1/_v1-site/processedbreakfeed.json",
+		"/D/My Documents/GitHub/Closeplan/_site/Header Injection.js",
+		"/D/My Documents/GitHub/Closeplan/_site/Custom CSS.less",
+		"/D/My Documents/GitHub/Closeplan/_site/Footer Injection.js",
+		"/D/My Documents/GitHub/Stafford Capital/Stafford-Capital/disclaimer2.md",
+		"/D/My Documents/GitHub/Stafford Capital/Stafford-Capital/disclaimer.md",
+		"/D/My Documents/GitHub/Stafford Capital/Stafford-Capital/_site/Footer Injection.js",
+		"/D/My Documents/GitHub/Stafford Capital/Stafford-Capital/_site/Header Injection.js",
+		"/D/My Documents/GitHub/Stafford Capital/Stafford-Capital/_site/Custom CSS.less",
+		"/D/My Documents/GitHub/Sage-Campus-Squarespace/Sage-Campus-Squarespace/_site/js/prepreviews.js",
+		"/D/My Documents/GitHub/Sage-Dev2/Sage-Dev2/_site/js/Footer Injection.js",
+		"/D/My Documents/GitHub/Sage-Campus-Squarespace/Sage-Campus-Squarespace/_site/js/Footer Injection.js",
+		"/D/My Documents/GitHub/Sage-Campus-Squarespace/Sage-Campus-Squarespace/_site/less/Custom CSS.less",
+		"/D/My Documents/GitHub/Sage-Campus-Squarespace/Sage-Campus-Squarespace/_site/js/Header Injection.js",
+		"/D/My Documents/GitHub/Sage-Campus-Squarespace/Sage-Campus-Squarespace/Snippets/production - manual overrides.txt",
+		"/D/My Documents/GitHub/Sage-Campus-Squarespace/Sage-Campus-Squarespace/_site/css/Custom CSS.css",
+		"/D/My Documents/GitHub/Sage-Dev2/Sage-Dev2/_site/less/Custom CSS.less",
+		"/D/My Documents/GitHub/Sage-Dev2/Sage-Dev2/_site/js/Header Injection.js",
+		"/D/My Documents/GitHub/Sage-Campus-Squarespace/Sage-Campus-Squarespace/Snippets/Static texts.txt",
+		"/D/My Documents/GitHub/Sage-Campus-Squarespace/Sage-Campus-Squarespace/_site/js/temp.js",
+		"/D/My Documents/GitHub/Sage-Campus-Squarespace/Sage-Campus-Squarespace/Snippets/staging - manual overrides.txt",
+		"/C/Users/Colin/Downloads/GTM-MZR8TZS_workspace88.json",
+		"/D/My Documents/2. Clients/Appeal Group/Appeal group",
+		"/D/My Documents/GitHub/Sage-Campus-Squarespace/Sage-Campus-Squarespace/temp.js",
+		"/D/My Documents/GitHub/Sage-Campus-Squarespace/Sage-Campus-Squarespace/Snippets/Form Post Injection.js",
+		"/D/My Documents/GitHub/Sage-Campus-Squarespace/Sage-Campus-Squarespace/staging overrides.txt",
+		"/D/My Documents/GitHub/Sage-Campus-Squarespace/Sage-Campus-Squarespace/_site/production overrides.txt",
+		"/D/My Documents/2. Clients/Sage Publishing/_site/js/Footer Injection.js",
+		"/D/My Documents/GitHub/Sage-Campus-Squarespace/Sage-Campus-Squarespace/.gitignore",
+		"/D/My Documents/2. Clients/Sage Publishing/_site/js/Static texts.htm",
+		"/D/My Documents/2. Clients/Sage Publishing/_site/less/Custom CSS.less",
+		"/D/My Documents/2. Clients/Sage Publishing/_site/css/Custom CSS.css",
+		"/C/Users/Colin/AppData/Roaming/Sublime Text 3/Packages/User/less2css.sublime-settings",
+		"/D/My Documents/2. Clients/Sage Publishing/_site/less/body.less",
+		"/D/My Documents/2. Clients/Sage Publishing/_site/less/header.less",
+		"/D/My Documents/2. Clients/Sage Publishing/_site/css/Build.css",
+		"/C/Users/Colin/AppData/Roaming/Sublime Text 3/Packages/Less2Css/README.md",
+		"/D/My Documents/2. Clients/Sage Publishing/_site/less/variables.less",
+		"/D/My Documents/2. Clients/Sage Publishing/A- STAGING/Custom CSS.less",
+		"/D/My Documents/2. Clients/Sage Publishing/A- STAGING/donothing.less",
+		"/C/Users/Colin/AppData/Roaming/Sublime Text 3/Packages/Less2Css/less2css.sublime-settings",
+		"/D/My Documents/2. Clients/Sage Publishing/A- STAGING/Custom CSS.css",
+		"/D/My Documents/2. Clients/Sage Publishing/A- STAGING/Combiner.txt"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"analy",
+			"collection",
+			"product",
+			"collection-type-products",
+			"form",
+			"next",
+			"edit",
+			"accordi",
+			"<<a",
+			"a target=\"_blank\"",
+			"window",
+			"comment",
+			"<a",
+			"comment-b",
+			"http:",
+			"<div class=\"comment-btn-wrapper\">\n          <span class=\"btn-text preview-comment\">Preview</span>\n        <!--<span class=\"btn-text edit-comment\">Edit</span>-->\n\n\n            \n              \n                <span class=\"comment-btn sqs-system-button sqs-editable-button-font sqs-editable-button-shape sqs-button-element--primary\">\n                  Post Reply\n                </span>\n              \n            \n          </div>",
+			"    <div class=\"input\">\n            <form action=\"#\" method=\"post\" class=\"comment-form reply-form\">\n              <textarea class=\"comment-input reply-input\" name=\"reply\" data-defaulttext=\"Reply to this comment here.\" data-edited=\"false\"></textarea>\n            </form>\n          </div>",
+			"<div class=\"comment-btn-wrapper\">\n          <span class=\"btn-text preview-comment\">Preview</span>\n        <!--<span class=\"btn-text edit-comment\">Edit</span>-->\n\n\n            \n              \n                <span class=\"comment-btn sqs-system-button sqs-editable-button-font sqs-editable-button-shape sqs-button-element--primary\">\n                  Post Reply\n                </span>\n              \n            \n          </div>",
+			"    <div class=\"input\">\n            <form action=\"#\" method=\"post\" class=\"comment-form reply-form\">\n              <textarea class=\"comment-input reply-input\" name=\"reply\" data-defaulttext=\"Reply to this comment here.\" data-edited=\"false\"></textarea>\n            </form>\n          </div>",
+			"<div class=\"comment-btn-wrapper\">\n          <span class=\"btn-text preview-comment\">Preview</span>\n        <!--<span class=\"btn-text edit-comment\">Edit</span>-->\n\n\n            \n              \n                <span class=\"comment-btn sqs-system-button sqs-editable-button-font sqs-editable-button-shape sqs-button-element--primary\">\n                  Post Reply\n                </span>\n              \n            \n          </div>",
+			"    <div class=\"input\">\n            <form action=\"#\" method=\"post\" class=\"comment-form reply-form\">\n              <textarea class=\"comment-input reply-input\" name=\"reply\" data-defaulttext=\"Reply to this comment here.\" data-edited=\"false\"></textarea>\n            </form>\n          </div>",
+			"<div class=\"reply-area-wrapper\" data-depth=\"1\" data-commentid=\"5745a1d9859fd00ec4cc6496\">\n        <div class=\"new-comment-area reply-area edit-mode\">\n          <div class=\"input\">\n            <form action=\"#\" method=\"post\" class=\"comment-form reply-form\">\n              <textarea class=\"comment-input reply-input\" name=\"reply\" data-defaulttext=\"Reply to this comment here.\" data-edited=\"false\"></textarea>\n            </form>\n          </div>\n\n          <div class=\"comment-btn-wrapper\">\n          <span class=\"btn-text preview-comment\">Preview</span>\n        <!--<span class=\"btn-text edit-comment\">Edit</span>-->\n\n\n            \n              \n                <span class=\"comment-btn sqs-system-button sqs-editable-button-font sqs-editable-button-shape sqs-button-element--primary\">\n                  Post Reply\n                </span>\n              \n            \n          </div>\n        </div>\n      </div>",
+			"controls",
+			"<div class=\"controls\">\n\n          <span class=\"squarespace-comment-buttons\">\n            <span title=\"Report\" class=\"flag comment-control\"></span>\n            <span title=\"Like\" class=\"like comment-control\"></span>\n            <span title=\"Reply\" class=\"reply comment-control\"></span>\n            \n            \n          </span>\n        </div>",
+			"butt",
+			".fadeGray",
+			"console",
+			"tag",
+			"loadall",
+			"summary",
+			"showme",
+			"splash",
+			"font-fam",
+			"splash",
+			"blockID",
+			"lzs",
+			"font-famil",
+			"posi",
+			"-main",
+			"resource a",
+			"LINK",
+			"LINK-",
+			"contains",
+			"--small",
+			"sessionst",
+			"disclaimer",
+			".get",
+			"cookies",
+			"cookie",
+			":not",
+			"hidden",
+			"news-list",
+			"each",
+			"dda",
+			"form",
+			"sqs-block-markdown",
+			"border",
+			"length",
+			"sqf_",
+			"form-title",
+			"isdda",
+			"inlineDisclaimer",
+			"document d",
+			"form",
+			"box-",
+			"font-weight: 500",
+			"publica",
+			"homep",
+			".homep",
+			"home",
+			"contains(",
+			"href",
+			"team",
+			"service",
+			"sqf",
+			"click",
+			"sqf_",
+			"sqf",
+			"sfcha",
+			"sf",
+			"muta",
+			"sqf",
+			"sfcha",
+			"changev",
+			"lightb",
+			"testm",
+			"Cookie.get",
+			"cookie",
+			"$.cookie",
+			"expires",
+			"cookie",
+			"console",
+			"if ($.cookie('remember_me') == 'true') {",
+			"$.cookie('remember_me', 'true'",
+			"remem",
+			"[",
+			"testmode",
+			"opt in",
+			".click",
+			"lightbox ",
+			"lightb",
+			"form ",
+			"form",
+			"forms",
+			"sessionst",
+			"session",
+			"hidden",
+			"downloadurl",
+			"form",
+			":contains",
+			"contains",
+			"@{",
+			"usd<",
+			"usd",
+			"ix",
+			"news",
+			"span",
+			"' | '",
+			"'|'",
+			"modal",
+			"$.",
+			"$.modal",
+			"modal",
+			"trans",
+			"cookie",
+			"charts",
+			"{ expires: n",
+			"'true', { expires: n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<a",
+			"<a target=\"_blank\" rel=\"nofollow\"",
+			"<a target=\"_blank\"",
+			"",
+			".filterGray",
+			"-primary",
+			"Cookies.get",
+			"Cookie.get",
+			"@bodyfont",
+			"@lmw-white",
+			"@lmw-red",
+			"var(--bookingbuttoncolor)",
+			"--bookingbuttoncolor",
+			"@lmw-black",
+			"\"",
+			"",
+			"'league-gothic'",
+			"'proxima-nova'",
+			"'league-gothic'",
+			"'proxima-nova'",
+			"'league-gothic'",
+			"!Winter2021",
+			"!Autumn2020",
+			"",
+			"font-scale",
+			"fixheadermargins",
+			"},\n {",
+			"\"Impact, Open Sans\"",
+			"\"Open Sans\"",
+			"normal;",
+			"\"family\": \"Darts - PDC Finals\",",
+			"@bookingbuttoncolor",
+			"lineup",
+			"-bognor-regis-",
+			"/absolute-80s",
+			"\"Northern Soul Survivors Weekender\"",
+			"@bodyfont",
+			"\"family\": \"Disco Inferno\",",
+			"\"family\": \"The Great British Alternative Music Festival\",",
+			"\"family\": \"Northern Soul Survivors\",",
+			"\"family\": \"We Love The 70s\",",
+			"\"family\": \"Back To The 2000s\",",
+			"\"family\": \"90s Reloaded\",",
+			"\"family\": \"Soul Weekender\",",
+			"\"family\": \"Back-To-The-2000s\",",
+			"\"family\": \"Absolute 80s Weekender\",",
+			"absolute-80s-weekender",
+			"eventDetail",
+			"expiryDate",
+			"\"eventpage\": \"/\" ",
+			"\"eventpage\": \"\" ",
+			"\"eventpage\": \"/\" ",
+			"eventpage",
+			", {",
+			"}",
+			"{",
+			"\"",
+			", { \"break\":",
+			"\"",
+			"{",
+			"}",
+			"ok_for_news",
+			"The Page Title",
+			"lightboxopen",
+			"learningNumeral",
+			"dateNow",
+			"txtActiveHeadline",
+			"txtNotifyActiveHeadline"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "installer.js",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15570,
+								15570
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/**",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 15191.3333333,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 44.0
+	},
+	"input":
+	{
+		"height": 219.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 114.0
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 229.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 596.0
+	},
+	"pinned_build_system": "",
+	"project": "cdnfiles.sublime-project",
+	"replace":
+	{
+		"height": 84.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\colin\\OneDrive\\Documents\\2. Clients\\Shoreline Folkestone\\Shoreline Folkestone.sublime-project"
+			],
+			[
+				"lerf",
+				"C:\\Users\\colin\\OneDrive\\Documents\\2. Clients\\Lefroy Brooks\\Lefroy Brooks.sublime-project"
+			],
+			[
+				"spo",
+				"C:\\Users\\colin\\OneDrive\\Documents\\2. Clients\\Sophie Cooney\\Sophie Cooney.sublime-project"
+			],
+			[
+				"sta",
+				"C:\\Users\\colin\\OneDrive\\Documents\\2. Clients\\Stafford CP\\Stafford Concept1.sublime-project"
+			],
+			[
+				"theia",
+				"C:\\Users\\Hp\\OneDrive\\Documents\\2. Clients\\Theia Energy\\Theia.sublime-project"
+			],
+			[
+				"a",
+				"C:\\Users\\Hp\\OneDrive\\Documents\\GitHub\\Agnos\\agnos.sublime-project"
+			],
+			[
+				"s",
+				"C:\\Users\\Hp\\OneDrive\\Documents\\2. Clients\\Stafford CP\\Stafford Concept1.sublime-project"
+			],
+			[
+				"bold",
+				"C:\\Users\\Hp\\OneDrive\\Documents\\2. Clients\\Bolder & Louder\\Bolder & Louder.sublime-project"
+			],
+			[
+				"clos",
+				"C:\\Users\\Hp\\OneDrive\\Documents\\2. Clients\\Closeplan Knowledge Base\\Closeplan Knowledge Base.sublime-project"
+			],
+			[
+				"thei",
+				"C:\\Users\\Hp\\OneDrive\\Documents\\2. Clients\\Theia Energy\\Theia.sublime-project"
+			],
+			[
+				"open",
+				"C:\\Users\\Hp\\OneDrive\\Documents\\2. Clients\\Open\\Open website.sublime-project"
+			],
+			[
+				"staff",
+				"C:\\Users\\Hp\\OneDrive\\Documents\\2. Clients\\Stafford CP\\Stafford Concept1.sublime-project"
+			],
+			[
+				"lefr",
+				"C:\\Users\\Hp\\OneDrive\\Documents\\2. Clients\\Lefroy Brooks\\lefroy brooks.sublime-project"
+			],
+			[
+				"the",
+				"C:\\Users\\Hp\\OneDrive\\Documents\\2. Clients\\Theia Energy\\Theia.sublime-project"
+			],
+			[
+				"staf",
+				"C:\\Users\\Hp\\OneDrive\\Documents\\2. Clients\\Stafford CP\\Stafford Concept1.sublime-project"
+			],
+			[
+				"st",
+				"C:\\Users\\Hp\\OneDrive\\Documents\\2. Clients\\Stafford CP\\Stafford Concept1.sublime-project"
+			],
+			[
+				"cl",
+				"C:\\Users\\Hp\\OneDrive\\Documents\\2. Clients\\Closeplan Knowledge Base\\Closeplan Knowledge Base.sublime-project"
+			],
+			[
+				"gree",
+				"C:\\Users\\Hp\\OneDrive\\Documents\\2. Clients\\Green Condom Club\\Green Condom Club.sublime-project"
+			],
+			[
+				"clo",
+				"C:\\Users\\Hp\\OneDrive\\Documents\\2. Clients\\Closeplan\\Closeplan.sublime-project"
+			],
+			[
+				"nep",
+				"C:\\Users\\Hp\\OneDrive\\Documents\\2. Clients\\Neptune\\Neptune.sublime-project"
+			],
+			[
+				"par",
+				"D:\\My Documents\\2. Clients\\Paralysis Centre\\Paralysis Center.sublime-project"
+			],
+			[
+				"ted",
+				"D:\\My Documents\\2. Clients\\Ted Lazlo\\Ted Laszlo.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 357.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 574.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"copilot.conversation.code_block_index":
+		{
+		},
+		"copilot.conversation.conversation_entries":
+		[
+		],
+		"copilot.conversation.conversation_id": "",
+		"copilot.conversation.follow_up": "",
+		"copilot.conversation.is_visible": false,
+		"copilot.conversation.is_waiting_conversation": false,
+		"copilot.conversation.last_active_view_id": 15,
+		"copilot.conversation.original_layout": null,
+		"copilot.conversation.reference_block_state":
+		{
+		},
+		"copilot.conversation.suggested_title": "",
+		"lsp_show_inlay_hints": false
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
