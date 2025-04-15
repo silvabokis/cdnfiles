@@ -328,5 +328,11 @@
     "timestamp": "2025-04-15T01:23:08.000Z",
     "text": "I'm not sure about that",
     "name": "Lily"
+  },
+  {
+    "type": "bot",
+    "timestamp": "2025-04-15T01:23:12.188Z",
+    "text": "The AI remains silent for now...",
+    "name": "? StoryBot"
   }
 ]
