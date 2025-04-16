@@ -328,5 +328,11 @@
     "timestamp": "2025-04-16T09:24:59.000Z",
     "text": "Alan! Where are you?",
     "name": "Felix"
+  },
+  {
+    "type": "bot",
+    "timestamp": "2025-04-16T09:26:26.568Z",
+    "text": "The AI remains silent for now...",
+    "name": "? StoryBot"
   }
 ]
