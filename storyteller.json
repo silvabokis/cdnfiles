@@ -325,66 +325,6 @@
   },
   {
     "type": "user",
-    "timestamp": "2025-04-25T11:48:52.000Z",
-    "text": "User input and Storybot AI responses are periodically updated on the page.",
-    "name": "Peter"
-  },
-  {
-    "type": "bot",
-    "timestamp": "2025-04-25T11:49:06.646Z",
-    "text": "The AI remains silent for now...",
-    "name": "? StoryBot"
-  },
-  {
-    "type": "user",
-    "timestamp": "2025-04-25T11:48:52.000Z",
-    "text": "User input and Storybot AI responses are periodically updated on the page.",
-    "name": "Peter"
-  },
-  {
-    "type": "bot",
-    "timestamp": "2025-04-25T11:49:13.113Z",
-    "text": "The AI remains silent for now...",
-    "name": "? StoryBot"
-  },
-  {
-    "type": "user",
-    "timestamp": "2025-04-25T11:48:52.000Z",
-    "text": "User input and Storybot AI responses are periodically updated on the page.",
-    "name": "Peter"
-  },
-  {
-    "type": "bot",
-    "timestamp": "2025-04-25T11:49:43.401Z",
-    "text": "The AI remains silent for now...",
-    "name": "? StoryBot"
-  },
-  {
-    "type": "user",
-    "timestamp": "2025-04-25T11:48:52.000Z",
-    "text": "User input and Storybot AI responses are periodically updated on the page.",
-    "name": "Peter"
-  },
-  {
-    "type": "bot",
-    "timestamp": "2025-04-25T11:51:47.327Z",
-    "text": "The AI remains silent for now...",
-    "name": "? StoryBot"
-  },
-  {
-    "type": "user",
-    "timestamp": "2025-04-25T11:52:09.000Z",
-    "text": "Chips with gravy? Not likely!",
-    "name": "Felix"
-  },
-  {
-    "type": "bot",
-    "timestamp": "2025-04-25T11:54:09.883Z",
-    "text": "The AI remains silent for now...",
-    "name": "? StoryBot"
-  },
-  {
-    "type": "user",
     "timestamp": "2025-04-25T11:59:30.000Z",
     "text": "Chips with gravy? Not likely!",
     "name": "dfh"
@@ -394,5 +334,11 @@
     "timestamp": "2025-04-25T12:00:00.636Z",
     "text": "A mischievous grin spread across Elara's face as she conjured a plate of shimmering, rainbow-colored noodles instead, declaring them \"Stardust Spirals, a far superior choice!\"",
     "name": "? StoryBot"
+  },
+  {
+    "type": "user",
+    "timestamp": "2025-04-25T11:59:30.000Z",
+    "text": "Chips with gravy? Not likely!",
+    "name": "dfh"
   }
 ]
