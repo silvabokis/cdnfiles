@@ -352,5 +352,11 @@
     "timestamp": "2025-04-25T11:39:00.000Z",
     "text": "My word, you've grown.",
     "name": "Felix"
+  },
+  {
+    "type": "bot",
+    "timestamp": "2025-04-25T11:39:55.064Z",
+    "text": "The AI remains silent for now...",
+    "name": "? StoryBot"
   }
 ]
