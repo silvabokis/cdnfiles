@@ -364,5 +364,11 @@
     "timestamp": "2025-04-25T11:48:52.000Z",
     "text": "User input and Storybot AI responses are periodically updated on the page.",
     "name": "Peter"
+  },
+  {
+    "type": "bot",
+    "timestamp": "2025-04-25T11:51:47.327Z",
+    "text": "The AI remains silent for now...",
+    "name": "? StoryBot"
   }
 ]
