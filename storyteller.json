@@ -376,5 +376,11 @@
     "timestamp": "2025-05-17T20:02:15.000Z",
     "text": "She drank some water and sat for a while to ease her stomach but the sugar rush didn't let her sit for long.",
     "name": "Ell"
+  },
+  {
+    "type": "bot",
+    "timestamp": "2025-05-17T20:02:19.569Z",
+    "text": "A whirlwind of newfound energy propelled her to her feet, and she decided to finally tackle the mountain of laundry that had been mocking her all week.",
+    "name": "🤖 StoryBot"
   }
 ]
