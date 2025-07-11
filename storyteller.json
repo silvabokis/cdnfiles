@@ -388,5 +388,11 @@
     "timestamp": "2025-07-11T18:35:20.000Z",
     "text": "I do despise ironing clothes",
     "name": "Matilda"
+  },
+  {
+    "type": "bot",
+    "timestamp": "2025-07-11T18:36:56.146Z",
+    "text": "So, I've invested in a steamer and haven't looked back since!",
+    "name": "🤖 StoryBot"
   }
 ]
