@@ -1,0 +1,4575 @@
+[
+  {
+    "job_id": "001-2025",
+    "batch_id": "finance",
+    "job_title": "Investment Broker",
+    "job_description_snippet": "Facilitates securities trading, provides investment advice, manages portfolios, executes trades for ...",
+    "industry": "Finance",
+    "region": "North America",
+    "current_ai_risk": "60.66",
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 73,
+      "2026": 91,
+      "2027": 109,
+      "2028": 127
+    },
+    "regional_summary_snippet": "In North America, Investment Brokers currently face Moderate AI replacement risk at 60.66%. The regi..."
+  },
+  {
+    "job_id": "001-2025",
+    "batch_id": "finance",
+    "job_title": "Investment Broker",
+    "job_description_snippet": "Facilitates securities trading, provides investment advice, manages portfolios, executes trades for ...",
+    "industry": "Finance",
+    "region": "Europe",
+    "current_ai_risk": "55.49",
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 67,
+      "2026": 83,
+      "2027": 100,
+      "2028": 117
+    },
+    "regional_summary_snippet": "In Europe, Investment Brokers currently face Moderate AI replacement risk at 55.49%. The region's st..."
+  },
+  {
+    "job_id": "001-2025",
+    "batch_id": "finance",
+    "job_title": "Investment Broker",
+    "job_description_snippet": "Facilitates securities trading, provides investment advice, manages portfolios, executes trades for ...",
+    "industry": "Finance",
+    "region": "East Asia",
+    "current_ai_risk": "58.13",
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 70,
+      "2026": 87,
+      "2027": 105,
+      "2028": 122
+    },
+    "regional_summary_snippet": "In East Asia, Investment Brokers currently face Moderate AI replacement risk at 58.13%. The region s..."
+  },
+  {
+    "job_id": "001-2025",
+    "batch_id": "finance",
+    "job_title": "Investment Broker",
+    "job_description_snippet": "Facilitates securities trading, provides investment advice, manages portfolios, executes trades for ...",
+    "industry": "Finance",
+    "region": "Southeast Asia",
+    "current_ai_risk": "47.49",
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 57,
+      "2026": 71,
+      "2027": 85,
+      "2028": 100
+    },
+    "regional_summary_snippet": "In Southeast Asia, Investment Brokers currently face Moderate AI replacement risk at 47.49%. The reg..."
+  },
+  {
+    "job_id": "001-2025",
+    "batch_id": "finance",
+    "job_title": "Investment Broker",
+    "job_description_snippet": "Facilitates securities trading, provides investment advice, manages portfolios, executes trades for ...",
+    "industry": "Finance",
+    "region": "Australia & New Zealand",
+    "current_ai_risk": "50.13",
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 60,
+      "2026": 75,
+      "2027": 90,
+      "2028": 105
+    },
+    "regional_summary_snippet": "In Australia & New Zealand, Investment Brokers currently face Moderate AI replacement risk at 50.13%..."
+  },
+  {
+    "job_id": "001-2025",
+    "batch_id": "finance",
+    "job_title": "Investment Broker",
+    "job_description_snippet": "Facilitates securities trading, provides investment advice, manages portfolios, executes trades for ...",
+    "industry": "Finance",
+    "region": "South Asia",
+    "current_ai_risk": "44.76",
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 54,
+      "2026": 67,
+      "2027": 81,
+      "2028": 94
+    },
+    "regional_summary_snippet": "In South Asia, Investment Brokers currently face Moderate AI replacement risk at 44.76%. India's rap..."
+  },
+  {
+    "job_id": "001-2025",
+    "batch_id": "finance",
+    "job_title": "Investment Broker",
+    "job_description_snippet": "Facilitates securities trading, provides investment advice, manages portfolios, executes trades for ...",
+    "industry": "Finance",
+    "region": "Middle East & North Africa",
+    "current_ai_risk": "47.49",
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 57,
+      "2026": 71,
+      "2027": 85,
+      "2028": 100
+    },
+    "regional_summary_snippet": "In Middle East & North Africa, Investment Brokers currently face Moderate AI replacement risk at 47...."
+  },
+  {
+    "job_id": "001-2025",
+    "batch_id": "finance",
+    "job_title": "Investment Broker",
+    "job_description_snippet": "Facilitates securities trading, provides investment advice, manages portfolios, executes trades for ...",
+    "industry": "Finance",
+    "region": "Latin America",
+    "current_ai_risk": "44.76",
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 54,
+      "2026": 67,
+      "2027": 81,
+      "2028": 94
+    },
+    "regional_summary_snippet": "In Latin America, Investment Brokers currently face Moderate AI replacement risk at 44.76%. The regi..."
+  },
+  {
+    "job_id": "001-2025",
+    "batch_id": "finance",
+    "job_title": "Investment Broker",
+    "job_description_snippet": "Facilitates securities trading, provides investment advice, manages portfolios, executes trades for ...",
+    "industry": "Finance",
+    "region": "Sub-Saharan Africa",
+    "current_ai_risk": "42.20",
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 51,
+      "2026": 63,
+      "2027": 76,
+      "2028": 89
+    },
+    "regional_summary_snippet": "In Sub-Saharan Africa, Investment Brokers currently face Moderate AI replacement risk at 42.20%. The..."
+  },
+  {
+    "job_id": "002-2025",
+    "batch_id": "finance",
+    "job_title": "Portfolio Manager",
+    "job_description_snippet": "Oversees investment portfolios for institutions and high-net-worth clients...",
+    "industry": "Finance",
+    "region": "North America",
+    "current_ai_risk": 93,
+    "risk_category": "Very High",
+    "projections": {
+      "2025": 111,
+      "2026": 140,
+      "2027": 167,
+      "2028": 195
+    },
+    "regional_summary_snippet": "In North America, Portfolio Manager currently faces Very High AI replacement risk at 93%. The region..."
+  },
+  {
+    "job_id": "002-2025",
+    "batch_id": "finance",
+    "job_title": "Portfolio Manager",
+    "job_description_snippet": "Oversees investment portfolios for institutions and high-net-worth clients...",
+    "industry": "Finance",
+    "region": "Europe",
+    "current_ai_risk": 85,
+    "risk_category": "Very High",
+    "projections": {
+      "2025": 101,
+      "2026": 127,
+      "2027": 152,
+      "2028": 178
+    },
+    "regional_summary_snippet": "In Europe, Portfolio Manager currently faces Very High AI replacement risk at 85%. Strong regulatory..."
+  },
+  {
+    "job_id": "002-2025",
+    "batch_id": "finance",
+    "job_title": "Portfolio Manager",
+    "job_description_snippet": "Oversees investment portfolios for institutions and high-net-worth clients...",
+    "industry": "Finance",
+    "region": "East Asia",
+    "current_ai_risk": 89,
+    "risk_category": "Very High",
+    "projections": {
+      "2025": 106,
+      "2026": 133,
+      "2027": 160,
+      "2028": 186
+    },
+    "regional_summary_snippet": "In East Asia, Portfolio Manager currently faces Very High AI replacement risk at 89%. Japan and Sout..."
+  },
+  {
+    "job_id": "002-2025",
+    "batch_id": "finance",
+    "job_title": "Portfolio Manager",
+    "job_description_snippet": "Oversees investment portfolios for institutions and high-net-worth clients...",
+    "industry": "Finance",
+    "region": "Southeast Asia",
+    "current_ai_risk": 73,
+    "risk_category": "High",
+    "projections": {
+      "2025": 87,
+      "2026": 109,
+      "2027": 131,
+      "2028": 153
+    },
+    "regional_summary_snippet": "In Southeast Asia, Portfolio Manager currently faces High AI replacement risk at 73%. Singapore lead..."
+  },
+  {
+    "job_id": "002-2025",
+    "batch_id": "finance",
+    "job_title": "Portfolio Manager",
+    "job_description_snippet": "Oversees investment portfolios for institutions and high-net-worth clients...",
+    "industry": "Finance",
+    "region": "Australia & New Zealand",
+    "current_ai_risk": 77,
+    "risk_category": "High",
+    "projections": {
+      "2025": 92,
+      "2026": 115,
+      "2027": 138,
+      "2028": 161
+    },
+    "regional_summary_snippet": "In Australia & New Zealand, Portfolio Manager currently faces High AI replacement risk at 77%. Super..."
+  },
+  {
+    "job_id": "002-2025",
+    "batch_id": "finance",
+    "job_title": "Portfolio Manager",
+    "job_description_snippet": "Oversees investment portfolios for institutions and high-net-worth clients...",
+    "industry": "Finance",
+    "region": "South Asia",
+    "current_ai_risk": 69,
+    "risk_category": "High",
+    "projections": {
+      "2025": 82,
+      "2026": 103,
+      "2027": 124,
+      "2028": 144
+    },
+    "regional_summary_snippet": "In South Asia, Portfolio Manager currently faces High AI replacement risk at 69%. India's growing fi..."
+  },
+  {
+    "job_id": "002-2025",
+    "batch_id": "finance",
+    "job_title": "Portfolio Manager",
+    "job_description_snippet": "Oversees investment portfolios for institutions and high-net-worth clients...",
+    "industry": "Finance",
+    "region": "Middle East & North Africa",
+    "current_ai_risk": 73,
+    "risk_category": "High",
+    "projections": {
+      "2025": 87,
+      "2026": 109,
+      "2027": 131,
+      "2028": 153
+    },
+    "regional_summary_snippet": "In Middle East & North Africa, Portfolio Manager currently faces High AI replacement risk at 73%. Du..."
+  },
+  {
+    "job_id": "002-2025",
+    "batch_id": "finance",
+    "job_title": "Portfolio Manager",
+    "job_description_snippet": "Oversees investment portfolios for institutions and high-net-worth clients...",
+    "industry": "Finance",
+    "region": "Latin America",
+    "current_ai_risk": 69,
+    "risk_category": "High",
+    "projections": {
+      "2025": 82,
+      "2026": 103,
+      "2027": 124,
+      "2028": 144
+    },
+    "regional_summary_snippet": "In Latin America, Portfolio Manager currently faces High AI replacement risk at 69%. Brazil and Mexi..."
+  },
+  {
+    "job_id": "002-2025",
+    "batch_id": "finance",
+    "job_title": "Portfolio Manager",
+    "job_description_snippet": "Oversees investment portfolios for institutions and high-net-worth clients...",
+    "industry": "Finance",
+    "region": "Sub-Saharan Africa",
+    "current_ai_risk": 64,
+    "risk_category": "High",
+    "projections": {
+      "2025": 77,
+      "2026": 96,
+      "2027": 116,
+      "2028": 135
+    },
+    "regional_summary_snippet": "In Sub-Saharan Africa, Portfolio Manager currently faces High AI replacement risk at 64%. South Afri..."
+  },
+  {
+    "job_id": "003-2025",
+    "batch_id": "creative-arts",
+    "job_title": "Voice-over Actor",
+    "job_description_snippet": "Provides voice performances for media productions including commercials, animations, and audiobooks...",
+    "industry": "Creative Arts",
+    "region": "North America",
+    "current_ai_risk": 62,
+    "risk_category": "Very High",
+    "projections": {
+      "2025": 74,
+      "2026": 93,
+      "2027": 111,
+      "2028": 130
+    },
+    "regional_summary_snippet": "In North America, Voice-over Actor currently faces High AI replacement risk at 62%. Hollywood and ma..."
+  },
+  {
+    "job_id": "003-2025",
+    "batch_id": "creative-arts",
+    "job_title": "Voice-over Actor",
+    "job_description_snippet": "Provides voice performances for media productions including commercials, animations, and audiobooks...",
+    "industry": "Creative Arts",
+    "region": "Europe",
+    "current_ai_risk": 57,
+    "risk_category": "Very High",
+    "projections": {
+      "2025": 68,
+      "2026": 85,
+      "2027": 102,
+      "2028": 119
+    },
+    "regional_summary_snippet": "In Europe, Voice-over Actor currently faces Moderate AI replacement risk at 57%. Strong creative ind..."
+  },
+  {
+    "job_id": "003-2025",
+    "batch_id": "creative-arts",
+    "job_title": "Voice-over Actor",
+    "job_description_snippet": "Provides voice performances for media productions including commercials, animations, and audiobooks...",
+    "industry": "Creative Arts",
+    "region": "East Asia",
+    "current_ai_risk": 60,
+    "risk_category": "Very High",
+    "projections": {
+      "2025": 71,
+      "2026": 90,
+      "2027": 107,
+      "2028": 125
+    },
+    "regional_summary_snippet": "In East Asia, Voice-over Actor currently faces Moderate AI replacement risk at 60%. Japan's anime in..."
+  },
+  {
+    "job_id": "003-2025",
+    "batch_id": "creative-arts",
+    "job_title": "Voice-over Actor",
+    "job_description_snippet": "Provides voice performances for media productions including commercials, animations, and audiobooks...",
+    "industry": "Creative Arts",
+    "region": "Southeast Asia",
+    "current_ai_risk": 49,
+    "risk_category": "Very High",
+    "projections": {
+      "2025": 58,
+      "2026": 73,
+      "2027": 88,
+      "2028": 102
+    },
+    "regional_summary_snippet": "In Southeast Asia, Voice-over Actor currently faces Moderate AI replacement risk at 49%. Growing med..."
+  },
+  {
+    "job_id": "003-2025",
+    "batch_id": "creative-arts",
+    "job_title": "Voice-over Actor",
+    "job_description_snippet": "Provides voice performances for media productions including commercials, animations, and audiobooks...",
+    "industry": "Creative Arts",
+    "region": "Australia & New Zealand",
+    "current_ai_risk": 51,
+    "risk_category": "Very High",
+    "projections": {
+      "2025": 62,
+      "2026": 77,
+      "2027": 93,
+      "2028": 108
+    },
+    "regional_summary_snippet": "In Australia & New Zealand, Voice-over Actor currently faces Moderate AI replacement risk at 51%. St..."
+  },
+  {
+    "job_id": "003-2025",
+    "batch_id": "creative-arts",
+    "job_title": "Voice-over Actor",
+    "job_description_snippet": "Provides voice performances for media productions including commercials, animations, and audiobooks...",
+    "industry": "Creative Arts",
+    "region": "South Asia",
+    "current_ai_risk": 46,
+    "risk_category": "Very High",
+    "projections": {
+      "2025": 55,
+      "2026": 69,
+      "2027": 83,
+      "2028": 97
+    },
+    "regional_summary_snippet": "In South Asia, Voice-over Actor currently faces Moderate AI replacement risk at 46%. Bollywood and r..."
+  },
+  {
+    "job_id": "003-2025",
+    "batch_id": "creative-arts",
+    "job_title": "Voice-over Actor",
+    "job_description_snippet": "Provides voice performances for media productions including commercials, animations, and audiobooks...",
+    "industry": "Creative Arts",
+    "region": "Middle East & North Africa",
+    "current_ai_risk": 49,
+    "risk_category": "Very High",
+    "projections": {
+      "2025": 58,
+      "2026": 73,
+      "2027": 88,
+      "2028": 102
+    },
+    "regional_summary_snippet": "In Middle East & North Africa, Voice-over Actor currently faces Moderate AI replacement risk at 49%...."
+  },
+  {
+    "job_id": "003-2025",
+    "batch_id": "creative-arts",
+    "job_title": "Voice-over Actor",
+    "job_description_snippet": "Provides voice performances for media productions including commercials, animations, and audiobooks...",
+    "industry": "Creative Arts",
+    "region": "Latin America",
+    "current_ai_risk": 46,
+    "risk_category": "Very High",
+    "projections": {
+      "2025": 55,
+      "2026": 69,
+      "2027": 83,
+      "2028": 97
+    },
+    "regional_summary_snippet": "In Latin America, Voice-over Actor currently faces Moderate AI replacement risk at 46%. Major dubbin..."
+  },
+  {
+    "job_id": "004-2025",
+    "batch_id": "transportation",
+    "job_title": "Taxi Driver",
+    "job_description_snippet": "Transports passengers to destinations using personal knowledge of routes and traffic patterns...",
+    "industry": "Transportation",
+    "region": "North America",
+    "current_ai_risk": 51,
+    "risk_category": "High",
+    "projections": {
+      "2025": 61,
+      "2026": 77,
+      "2027": 92,
+      "2028": 107
+    },
+    "regional_summary_snippet": "In North America, Taxi Driver currently faces Moderate AI replacement risk at 51%. While Waymo and C..."
+  },
+  {
+    "job_id": "004-2025",
+    "batch_id": "transportation",
+    "job_title": "Taxi Driver",
+    "job_description_snippet": "Transports passengers to destinations using personal knowledge of routes and traffic patterns...",
+    "industry": "Transportation",
+    "region": "Europe",
+    "current_ai_risk": 47,
+    "risk_category": "High",
+    "projections": {
+      "2025": 56,
+      "2026": 70,
+      "2027": 84,
+      "2028": 98
+    },
+    "regional_summary_snippet": "In Europe, Taxi Driver currently faces Moderate AI replacement risk at 47%. Strong taxi unions and s..."
+  },
+  {
+    "job_id": "004-2025",
+    "batch_id": "transportation",
+    "job_title": "Taxi Driver",
+    "job_description_snippet": "Transports passengers to destinations using personal knowledge of routes and traffic patterns...",
+    "industry": "Transportation",
+    "region": "East Asia",
+    "current_ai_risk": 49,
+    "risk_category": "High",
+    "projections": {
+      "2025": 59,
+      "2026": 73,
+      "2027": 88,
+      "2028": 103
+    },
+    "regional_summary_snippet": "In East Asia, Taxi Driver currently faces Moderate AI replacement risk at 49%. China and Japan condu..."
+  },
+  {
+    "job_id": "004-2025",
+    "batch_id": "transportation",
+    "job_title": "Taxi Driver",
+    "job_description_snippet": "Transports passengers to destinations using personal knowledge of routes and traffic patterns...",
+    "industry": "Transportation",
+    "region": "Southeast Asia",
+    "current_ai_risk": 40,
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 48,
+      "2026": 60,
+      "2027": 72,
+      "2028": 84
+    },
+    "regional_summary_snippet": "In Southeast Asia, Taxi Driver currently faces Low AI replacement risk at 40%. Grab and Gojek focus ..."
+  },
+  {
+    "job_id": "004-2025",
+    "batch_id": "transportation",
+    "job_title": "Taxi Driver",
+    "job_description_snippet": "Transports passengers to destinations using personal knowledge of routes and traffic patterns...",
+    "industry": "Transportation",
+    "region": "Australia & New Zealand",
+    "current_ai_risk": 42,
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 51,
+      "2026": 63,
+      "2027": 76,
+      "2028": 88
+    },
+    "regional_summary_snippet": "In Australia & New Zealand, Taxi Driver currently faces Moderate AI replacement risk at 42%. Mining ..."
+  },
+  {
+    "job_id": "004-2025",
+    "batch_id": "transportation",
+    "job_title": "Taxi Driver",
+    "job_description_snippet": "Transports passengers to destinations using personal knowledge of routes and traffic patterns...",
+    "industry": "Transportation",
+    "region": "South Asia",
+    "current_ai_risk": 38,
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 45,
+      "2026": 57,
+      "2027": 68,
+      "2028": 80
+    },
+    "regional_summary_snippet": "In South Asia, Taxi Driver currently faces Low AI replacement risk at 38%. No autonomous vehicle dep..."
+  },
+  {
+    "job_id": "004-2025",
+    "batch_id": "transportation",
+    "job_title": "Taxi Driver",
+    "job_description_snippet": "Transports passengers to destinations using personal knowledge of routes and traffic patterns...",
+    "industry": "Transportation",
+    "region": "Middle East & North Africa",
+    "current_ai_risk": 40,
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 48,
+      "2026": 60,
+      "2027": 72,
+      "2028": 84
+    },
+    "regional_summary_snippet": "In Middle East & North Africa, Taxi Driver currently faces Low AI replacement risk at 40%. Dubai sho..."
+  },
+  {
+    "job_id": "004-2025",
+    "batch_id": "transportation",
+    "job_title": "Taxi Driver",
+    "job_description_snippet": "Transports passengers to destinations using personal knowledge of routes and traffic patterns...",
+    "industry": "Transportation",
+    "region": "Latin America",
+    "current_ai_risk": 38,
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 45,
+      "2026": 57,
+      "2027": 68,
+      "2028": 80
+    },
+    "regional_summary_snippet": "In Latin America, Taxi Driver currently faces Low AI replacement risk at 38%. No autonomous vehicle ..."
+  },
+  {
+    "job_id": "004-2025",
+    "batch_id": "transportation",
+    "job_title": "Taxi Driver",
+    "job_description_snippet": "Transports passengers to destinations using personal knowledge of routes and traffic patterns...",
+    "industry": "Transportation",
+    "region": "Sub-Saharan Africa",
+    "current_ai_risk": 36,
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 43,
+      "2026": 53,
+      "2027": 64,
+      "2028": 75
+    },
+    "regional_summary_snippet": "In Sub-Saharan Africa, Taxi Driver currently faces Low AI replacement risk at 36%. No autonomous veh..."
+  },
+  {
+    "job_id": "005-2025",
+    "batch_id": "administrative-services",
+    "job_title": "Receptionist",
+    "job_description_snippet": "Manages front desk operations, greets visitors, answers phones, schedules appointments, and handles ...",
+    "industry": "Administrative Services",
+    "region": "North America",
+    "current_ai_risk": "75.71",
+    "risk_category": "Very High",
+    "projections": {
+      "2025": 91,
+      "2026": 114,
+      "2027": 136,
+      "2028": 159
+    },
+    "regional_summary_snippet": "In North America, Receptionist roles currently face High AI replacement risk at 75.71%. The region l..."
+  },
+  {
+    "job_id": "005-2025",
+    "batch_id": "administrative-services",
+    "job_title": "Receptionist",
+    "job_description_snippet": "Manages front desk operations, greets visitors, answers phones, schedules appointments, and handles ...",
+    "industry": "Administrative Services",
+    "region": "Europe",
+    "current_ai_risk": "69.01",
+    "risk_category": "Very High",
+    "projections": {
+      "2025": 83,
+      "2026": 104,
+      "2027": 124,
+      "2028": 145
+    },
+    "regional_summary_snippet": "In Europe, Receptionist roles currently face High AI replacement risk at 69.01%. GDPR regulations pr..."
+  },
+  {
+    "job_id": "005-2025",
+    "batch_id": "administrative-services",
+    "job_title": "Receptionist",
+    "job_description_snippet": "Manages front desk operations, greets visitors, answers phones, schedules appointments, and handles ...",
+    "industry": "Administrative Services",
+    "region": "East Asia",
+    "current_ai_risk": "72.33",
+    "risk_category": "Very High",
+    "projections": {
+      "2025": 87,
+      "2026": 107,
+      "2027": 130,
+      "2028": 152
+    },
+    "regional_summary_snippet": "In East Asia, Receptionist roles currently face High AI replacement risk at 72.33%. Japan and South ..."
+  },
+  {
+    "job_id": "005-2025",
+    "batch_id": "administrative-services",
+    "job_title": "Receptionist",
+    "job_description_snippet": "Manages front desk operations, greets visitors, answers phones, schedules appointments, and handles ...",
+    "industry": "Administrative Services",
+    "region": "Southeast Asia",
+    "current_ai_risk": "59.18",
+    "risk_category": "Very High",
+    "projections": {
+      "2025": 71,
+      "2026": 89,
+      "2027": 107,
+      "2028": 124
+    },
+    "regional_summary_snippet": "In Southeast Asia, Receptionist roles currently face Moderate AI replacement risk at 59.18%. Singapo..."
+  },
+  {
+    "job_id": "005-2025",
+    "batch_id": "administrative-services",
+    "job_title": "Receptionist",
+    "job_description_snippet": "Manages front desk operations, greets visitors, answers phones, schedules appointments, and handles ...",
+    "industry": "Administrative Services",
+    "region": "Australia & New Zealand",
+    "current_ai_risk": "62.42",
+    "risk_category": "Very High",
+    "projections": {
+      "2025": 75,
+      "2026": 94,
+      "2027": 112,
+      "2028": 131
+    },
+    "regional_summary_snippet": "In Australia & New Zealand, Receptionist roles currently face High AI replacement risk at 62.42%. Bo..."
+  },
+  {
+    "job_id": "005-2025",
+    "batch_id": "administrative-services",
+    "job_title": "Receptionist",
+    "job_description_snippet": "Manages front desk operations, greets visitors, answers phones, schedules appointments, and handles ...",
+    "industry": "Administrative Services",
+    "region": "South Asia",
+    "current_ai_risk": "55.89",
+    "risk_category": "Very High",
+    "projections": {
+      "2025": 67,
+      "2026": 84,
+      "2027": 101,
+      "2028": 117
+    },
+    "regional_summary_snippet": "In South Asia, Receptionist roles currently face Moderate AI replacement risk at 55.89%. India's IT ..."
+  },
+  {
+    "job_id": "005-2025",
+    "batch_id": "administrative-services",
+    "job_title": "Receptionist",
+    "job_description_snippet": "Manages front desk operations, greets visitors, answers phones, schedules appointments, and handles ...",
+    "industry": "Administrative Services",
+    "region": "Middle East & North Africa",
+    "current_ai_risk": "59.18",
+    "risk_category": "Very High",
+    "projections": {
+      "2025": 71,
+      "2026": 89,
+      "2027": 107,
+      "2028": 124
+    },
+    "regional_summary_snippet": "In Middle East & North Africa, Receptionist roles currently face Moderate AI replacement risk at 59...."
+  },
+  {
+    "job_id": "005-2025",
+    "batch_id": "administrative-services",
+    "job_title": "Receptionist",
+    "job_description_snippet": "Manages front desk operations, greets visitors, answers phones, schedules appointments, and handles ...",
+    "industry": "Administrative Services",
+    "region": "Latin America",
+    "current_ai_risk": "55.89",
+    "risk_category": "Very High",
+    "projections": {
+      "2025": 67,
+      "2026": 84,
+      "2027": 101,
+      "2028": 117
+    },
+    "regional_summary_snippet": "In Latin America, Receptionist roles currently face Moderate AI replacement risk at 55.89%. Brazil a..."
+  },
+  {
+    "job_id": "005-2025",
+    "batch_id": "administrative-services",
+    "job_title": "Receptionist",
+    "job_description_snippet": "Manages front desk operations, greets visitors, answers phones, schedules appointments, and handles ...",
+    "industry": "Administrative Services",
+    "region": "Sub-Saharan Africa",
+    "current_ai_risk": "52.60",
+    "risk_category": "High",
+    "projections": {
+      "2025": 63,
+      "2026": 79,
+      "2027": 95,
+      "2028": 110
+    },
+    "regional_summary_snippet": "In Sub-Saharan Africa, Receptionist roles currently face Moderate AI replacement risk at 52.60%. Sou..."
+  },
+  {
+    "job_id": "006-2025",
+    "batch_id": "entertainment",
+    "job_title": "Film Actor",
+    "job_description_snippet": "Performs in films, TV shows, and digital media through physical and emotional portrayal of character...",
+    "industry": "Entertainment",
+    "region": "North America",
+    "current_ai_risk": "28.31",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 34,
+      "2026": 42,
+      "2027": 51,
+      "2028": 60
+    },
+    "regional_summary_snippet": "In North America, Film Actor currently faces Low AI replacement risk at 28.31%. The region benefits ..."
+  },
+  {
+    "job_id": "006-2025",
+    "batch_id": "entertainment",
+    "job_title": "Film Actor",
+    "job_description_snippet": "Performs in films, TV shows, and digital media through physical and emotional portrayal of character...",
+    "industry": "Entertainment",
+    "region": "Europe",
+    "current_ai_risk": "25.69",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 31,
+      "2026": 39,
+      "2027": 46,
+      "2028": 55
+    },
+    "regional_summary_snippet": "In Europe, Film Actor currently faces Low AI replacement risk at 25.69%. The region has strong labor..."
+  },
+  {
+    "job_id": "006-2025",
+    "batch_id": "entertainment",
+    "job_title": "Film Actor",
+    "job_description_snippet": "Performs in films, TV shows, and digital media through physical and emotional portrayal of character...",
+    "industry": "Entertainment",
+    "region": "East Asia",
+    "current_ai_risk": "26.84",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 32,
+      "2026": 40,
+      "2027": 48,
+      "2028": 57
+    },
+    "regional_summary_snippet": "In East Asia, Film Actor currently faces Low AI replacement risk at 26.84%. The region shows high ad..."
+  },
+  {
+    "job_id": "006-2025",
+    "batch_id": "entertainment",
+    "job_title": "Film Actor",
+    "job_description_snippet": "Performs in films, TV shows, and digital media through physical and emotional portrayal of character...",
+    "industry": "Entertainment",
+    "region": "Southeast Asia",
+    "current_ai_risk": "21.94",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 26,
+      "2026": 33,
+      "2027": 39,
+      "2028": 47
+    },
+    "regional_summary_snippet": "In Southeast Asia, Film Actor currently faces Low AI replacement risk at 21.94%. The region's film i..."
+  },
+  {
+    "job_id": "006-2025",
+    "batch_id": "entertainment",
+    "job_title": "Film Actor",
+    "job_description_snippet": "Performs in films, TV shows, and digital media through physical and emotional portrayal of character...",
+    "industry": "Entertainment",
+    "region": "Australia & New Zealand",
+    "current_ai_risk": "23.21",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 28,
+      "2026": 35,
+      "2027": 42,
+      "2028": 49
+    },
+    "regional_summary_snippet": "In Australia & New Zealand, Film Actor currently faces Low AI replacement risk at 23.21%. The region..."
+  },
+  {
+    "job_id": "006-2025",
+    "batch_id": "entertainment",
+    "job_title": "Film Actor",
+    "job_description_snippet": "Performs in films, TV shows, and digital media through physical and emotional portrayal of character...",
+    "industry": "Entertainment",
+    "region": "South Asia",
+    "current_ai_risk": "20.74",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 25,
+      "2026": 31,
+      "2027": 37,
+      "2028": 44
+    },
+    "regional_summary_snippet": "In South Asia, Film Actor currently faces Low AI replacement risk at 20.74%. Bollywood and other reg..."
+  },
+  {
+    "job_id": "006-2025",
+    "batch_id": "entertainment",
+    "job_title": "Film Actor",
+    "job_description_snippet": "Performs in films, TV shows, and digital media through physical and emotional portrayal of character...",
+    "industry": "Entertainment",
+    "region": "Middle East & North Africa",
+    "current_ai_risk": "21.94",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 26,
+      "2026": 33,
+      "2027": 39,
+      "2028": 47
+    },
+    "regional_summary_snippet": "In Middle East & North Africa, Film Actor currently faces Low AI replacement risk at 21.94%. The reg..."
+  },
+  {
+    "job_id": "006-2025",
+    "batch_id": "entertainment",
+    "job_title": "Film Actor",
+    "job_description_snippet": "Performs in films, TV shows, and digital media through physical and emotional portrayal of character...",
+    "industry": "Entertainment",
+    "region": "Latin America",
+    "current_ai_risk": "20.74",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 25,
+      "2026": 31,
+      "2027": 37,
+      "2028": 44
+    },
+    "regional_summary_snippet": "In Latin America, Film Actor currently faces Low AI replacement risk at 20.74%. The region's strong ..."
+  },
+  {
+    "job_id": "006-2025",
+    "batch_id": "entertainment",
+    "job_title": "Film Actor",
+    "job_description_snippet": "Performs in movies/TV shows portraying characters through acting...",
+    "industry": "Entertainment",
+    "region": "Sub-Saharan Africa",
+    "current_ai_risk": "2025-06-05T00:00:00.000Z",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 6,
+      "2026": 8,
+      "2027": 8,
+      "2028": 11
+    },
+    "regional_summary_snippet": "In Sub-Saharan Africa, Film Actors face the lowest AI replacement risk at 5.06%. Nollywood and other..."
+  },
+  {
+    "job_id": "007-2025",
+    "batch_id": "digital-marketing",
+    "job_title": "Community Manager",
+    "job_description_snippet": "Builds and nurtures online communities for brands through engagement and relationship management...",
+    "industry": "Digital Marketing",
+    "region": "North America",
+    "current_ai_risk": "2025-08-23T00:00:00.000Z",
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 29,
+      "2026": 36,
+      "2027": 43,
+      "2028": 50
+    },
+    "regional_summary_snippet": "In North America, Community Manager currently faces Low AI replacement risk at 23.8%. The region's a..."
+  },
+  {
+    "job_id": "007-2025",
+    "batch_id": "digital-marketing",
+    "job_title": "Community Manager",
+    "job_description_snippet": "Builds and nurtures online communities for brands through engagement and relationship management...",
+    "industry": "Digital Marketing",
+    "region": "Europe",
+    "current_ai_risk": "2025-07-21T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 26,
+      "2026": 33,
+      "2027": 39,
+      "2028": 46
+    },
+    "regional_summary_snippet": "In Europe, Community Manager currently faces Low AI replacement risk at 21.7%. Strong regulatory fra..."
+  },
+  {
+    "job_id": "007-2025",
+    "batch_id": "digital-marketing",
+    "job_title": "Community Manager",
+    "job_description_snippet": "Builds and nurtures online communities for brands through engagement and relationship management...",
+    "industry": "Digital Marketing",
+    "region": "East Asia",
+    "current_ai_risk": "2025-08-22T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 27,
+      "2026": 34,
+      "2027": 41,
+      "2028": 48
+    },
+    "regional_summary_snippet": "In East Asia, Community Manager currently faces Low AI replacement risk at 22.8%. The region's high ..."
+  },
+  {
+    "job_id": "007-2025",
+    "batch_id": "digital-marketing",
+    "job_title": "Community Manager",
+    "job_description_snippet": "Builds and nurtures online communities for brands through engagement and relationship management...",
+    "industry": "Digital Marketing",
+    "region": "Southeast Asia",
+    "current_ai_risk": "2025-06-18T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 22,
+      "2026": 28,
+      "2027": 34,
+      "2028": 39
+    },
+    "regional_summary_snippet": "In Southeast Asia, Community Manager currently faces Very Low AI replacement risk at 18.6%. The regi..."
+  },
+  {
+    "job_id": "007-2025",
+    "batch_id": "digital-marketing",
+    "job_title": "Community Manager",
+    "job_description_snippet": "Builds and nurtures online communities for brands through engagement and relationship management...",
+    "industry": "Digital Marketing",
+    "region": "Australia & New Zealand",
+    "current_ai_risk": "2025-07-19T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 24,
+      "2026": 30,
+      "2027": 36,
+      "2028": 41
+    },
+    "regional_summary_snippet": "In Australia & New Zealand, Community Manager currently faces Very Low AI replacement risk at 19.7%...."
+  },
+  {
+    "job_id": "007-2025",
+    "batch_id": "digital-marketing",
+    "job_title": "Community Manager",
+    "job_description_snippet": "Builds and nurtures online communities for brands through engagement and relationship management...",
+    "industry": "Digital Marketing",
+    "region": "South Asia",
+    "current_ai_risk": "2025-06-17T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 21,
+      "2026": 26,
+      "2027": 35,
+      "2028": 37
+    },
+    "regional_summary_snippet": "In South Asia, Community Manager currently faces Very Low AI replacement risk at 17.6%. The region's..."
+  },
+  {
+    "job_id": "007-2025",
+    "batch_id": "digital-marketing",
+    "job_title": "Community Manager",
+    "job_description_snippet": "Builds and nurtures online communities for brands through engagement and relationship management...",
+    "industry": "Digital Marketing",
+    "region": "Middle East & North Africa",
+    "current_ai_risk": "2025-06-18T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 22,
+      "2026": 28,
+      "2027": 34,
+      "2028": 39
+    },
+    "regional_summary_snippet": "In Middle East & North Africa, Community Manager currently faces Very Low AI replacement risk at 18...."
+  },
+  {
+    "job_id": "007-2025",
+    "batch_id": "digital-marketing",
+    "job_title": "Community Manager",
+    "job_description_snippet": "Builds and nurtures online communities for brands through engagement and relationship management...",
+    "industry": "Digital Marketing",
+    "region": "Latin America",
+    "current_ai_risk": "2025-06-17T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 21,
+      "2026": 26,
+      "2027": 35,
+      "2028": 37
+    },
+    "regional_summary_snippet": "In Latin America, Community Manager currently faces Very Low AI replacement risk at 17.6%. The regio..."
+  },
+  {
+    "job_id": "007-2025",
+    "batch_id": "digital-marketing",
+    "job_title": "Community Manager",
+    "job_description_snippet": "Builds and nurtures online communities for brands through engagement and relationship management...",
+    "industry": "Digital Marketing",
+    "region": "Sub-Saharan Africa",
+    "current_ai_risk": "2025-06-16T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 20,
+      "2026": 25,
+      "2027": 33,
+      "2028": 35
+    },
+    "regional_summary_snippet": "In Sub-Saharan Africa, Community Manager currently faces Very Low AI replacement risk at 16.6%. The ..."
+  },
+  {
+    "job_id": "008-2025",
+    "batch_id": "media",
+    "job_title": "News Editor",
+    "job_description_snippet": "Oversees editorial content, manages newsroom operations, ensures journalistic standards and coordina...",
+    "industry": "Media",
+    "region": "North America",
+    "current_ai_risk": 17,
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 20,
+      "2026": 26,
+      "2027": 31,
+      "2028": 36
+    },
+    "regional_summary_snippet": "In North America, News Editor currently faces Very Low AI replacement risk at 17%. The region leads ..."
+  },
+  {
+    "job_id": "008-2025",
+    "batch_id": "media",
+    "job_title": "News Editor",
+    "job_description_snippet": "Oversees editorial content, manages newsroom operations, ensures journalistic standards and coordina...",
+    "industry": "Media",
+    "region": "Europe",
+    "current_ai_risk": 16,
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 19,
+      "2026": 24,
+      "2027": 29,
+      "2028": 34
+    },
+    "regional_summary_snippet": "In Europe, News Editor currently faces Very Low AI replacement risk at 16%. Strong regulatory framew..."
+  },
+  {
+    "job_id": "008-2025",
+    "batch_id": "media",
+    "job_title": "News Editor",
+    "job_description_snippet": "Oversees editorial content, manages newsroom operations, ensures journalistic standards and coordina...",
+    "industry": "Media",
+    "region": "East Asia",
+    "current_ai_risk": 17,
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 20,
+      "2026": 26,
+      "2027": 31,
+      "2028": 36
+    },
+    "regional_summary_snippet": "In East Asia, News Editor currently faces Very Low AI replacement risk at 17%. The region's rapid AI..."
+  },
+  {
+    "job_id": "008-2025",
+    "batch_id": "media",
+    "job_title": "News Editor",
+    "job_description_snippet": "Oversees editorial content, manages newsroom operations, ensures journalistic standards and coordina...",
+    "industry": "Media",
+    "region": "Southeast Asia",
+    "current_ai_risk": 14,
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 17,
+      "2026": 21,
+      "2027": 25,
+      "2028": 29
+    },
+    "regional_summary_snippet": "In Southeast Asia, News Editor currently faces Very Low AI replacement risk at 14%. Diverse linguist..."
+  },
+  {
+    "job_id": "008-2025",
+    "batch_id": "media",
+    "job_title": "News Editor",
+    "job_description_snippet": "Oversees editorial content, manages newsroom operations, ensures journalistic standards and coordina...",
+    "industry": "Media",
+    "region": "Australia & New Zealand",
+    "current_ai_risk": 14,
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 17,
+      "2026": 21,
+      "2027": 25,
+      "2028": 29
+    },
+    "regional_summary_snippet": "In Australia & New Zealand, News Editor currently faces Very Low AI replacement risk at 14%. Strong ..."
+  },
+  {
+    "job_id": "008-2025",
+    "batch_id": "media",
+    "job_title": "News Editor",
+    "job_description_snippet": "Oversees editorial content, manages newsroom operations, ensures journalistic standards and coordina...",
+    "industry": "Media",
+    "region": "South Asia",
+    "current_ai_risk": 13,
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 16,
+      "2026": 20,
+      "2027": 23,
+      "2028": 27
+    },
+    "regional_summary_snippet": "In South Asia, News Editor currently faces Very Low AI replacement risk at 13%. Vast linguistic dive..."
+  },
+  {
+    "job_id": "008-2025",
+    "batch_id": "media",
+    "job_title": "News Editor",
+    "job_description_snippet": "Oversees editorial content, manages newsroom operations, ensures journalistic standards and coordina...",
+    "industry": "Media",
+    "region": "Middle East & North Africa",
+    "current_ai_risk": 14,
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 17,
+      "2026": 21,
+      "2027": 25,
+      "2028": 29
+    },
+    "regional_summary_snippet": "In Middle East & North Africa, News Editor currently faces Very Low AI replacement risk at 14%. Poli..."
+  },
+  {
+    "job_id": "008-2025",
+    "batch_id": "media",
+    "job_title": "News Editor",
+    "job_description_snippet": "Oversees editorial content, manages newsroom operations, ensures journalistic standards and coordina...",
+    "industry": "Media",
+    "region": "Latin America",
+    "current_ai_risk": 13,
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 16,
+      "2026": 20,
+      "2027": 23,
+      "2028": 27
+    },
+    "regional_summary_snippet": "In Latin America, News Editor currently faces Very Low AI replacement risk at 13%. Emerging digital ..."
+  },
+  {
+    "job_id": "008-2025",
+    "batch_id": "media",
+    "job_title": "News Editor",
+    "job_description_snippet": "Oversees editorial content, manages newsroom operations, ensures journalistic standards and coordina...",
+    "industry": "Media",
+    "region": "Sub-Saharan Africa",
+    "current_ai_risk": 12,
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 14,
+      "2026": 18,
+      "2027": 22,
+      "2028": 25
+    },
+    "regional_summary_snippet": "In Sub-Saharan Africa, News Editor currently faces Very Low AI replacement risk at 12%. Mobile-first..."
+  },
+  {
+    "job_id": "009-2025",
+    "batch_id": "creative-arts",
+    "job_title": "Photographer",
+    "job_description_snippet": "Captures images using cameras, plans shoots, directs subjects, edits photos, maintains portfolio...",
+    "industry": "Creative Arts",
+    "region": "North America",
+    "current_ai_risk": 25,
+    "risk_category": "Low",
+    "projections": {
+      "2025": 30,
+      "2026": 38,
+      "2027": 45,
+      "2028": 53
+    },
+    "regional_summary_snippet": "In North America, Photographer currently faces Low AI replacement risk at 25%. The region leads in A..."
+  },
+  {
+    "job_id": "009-2025",
+    "batch_id": "creative-arts",
+    "job_title": "Photographer",
+    "job_description_snippet": "Captures images using cameras, plans shoots, directs subjects, edits photos, maintains portfolio...",
+    "industry": "Creative Arts",
+    "region": "Europe",
+    "current_ai_risk": 23,
+    "risk_category": "Low",
+    "projections": {
+      "2025": 28,
+      "2026": 35,
+      "2027": 41,
+      "2028": 48
+    },
+    "regional_summary_snippet": "In Europe, Photographer currently faces Low AI replacement risk at 23%. Strong artistic traditions a..."
+  },
+  {
+    "job_id": "009-2025",
+    "batch_id": "creative-arts",
+    "job_title": "Photographer",
+    "job_description_snippet": "Captures images using cameras, plans shoots, directs subjects, edits photos, maintains portfolio...",
+    "industry": "Creative Arts",
+    "region": "East Asia",
+    "current_ai_risk": 24,
+    "risk_category": "Low",
+    "projections": {
+      "2025": 29,
+      "2026": 36,
+      "2027": 43,
+      "2028": 50
+    },
+    "regional_summary_snippet": "In East Asia, Photographer currently faces Low AI replacement risk at 24%. High technology adoption ..."
+  },
+  {
+    "job_id": "009-2025",
+    "batch_id": "creative-arts",
+    "job_title": "Photographer",
+    "job_description_snippet": "Captures images using cameras, plans shoots, directs subjects, edits photos, maintains portfolio...",
+    "industry": "Creative Arts",
+    "region": "Southeast Asia",
+    "current_ai_risk": 20,
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 24,
+      "2026": 30,
+      "2027": 36,
+      "2028": 42
+    },
+    "regional_summary_snippet": "In Southeast Asia, Photographer currently faces Very Low AI replacement risk at 20%. Growing creativ..."
+  },
+  {
+    "job_id": "009-2025",
+    "batch_id": "creative-arts",
+    "job_title": "Photographer",
+    "job_description_snippet": "Captures images using cameras, plans shoots, directs subjects, edits photos, maintains portfolio...",
+    "industry": "Creative Arts",
+    "region": "Australia & New Zealand",
+    "current_ai_risk": 21,
+    "risk_category": "Low",
+    "projections": {
+      "2025": 25,
+      "2026": 32,
+      "2027": 38,
+      "2028": 44
+    },
+    "regional_summary_snippet": "In Australia & New Zealand, Photographer currently faces Low AI replacement risk at 21%. Strong outd..."
+  },
+  {
+    "job_id": "009-2025",
+    "batch_id": "creative-arts",
+    "job_title": "Photographer",
+    "job_description_snippet": "Captures images using cameras, plans shoots, directs subjects, edits photos, maintains portfolio...",
+    "industry": "Creative Arts",
+    "region": "South Asia",
+    "current_ai_risk": 19,
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 23,
+      "2026": 29,
+      "2027": 34,
+      "2028": 40
+    },
+    "regional_summary_snippet": "In South Asia, Photographer currently faces Very Low AI replacement risk at 19%. Large market for we..."
+  },
+  {
+    "job_id": "009-2025",
+    "batch_id": "creative-arts",
+    "job_title": "Photographer",
+    "job_description_snippet": "Captures images using cameras, plans shoots, directs subjects, edits photos, maintains portfolio...",
+    "industry": "Creative Arts",
+    "region": "Middle East & North Africa",
+    "current_ai_risk": 20,
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 24,
+      "2026": 30,
+      "2027": 36,
+      "2028": 42
+    },
+    "regional_summary_snippet": "In Middle East & North Africa, Photographer currently faces Very Low AI replacement risk at 20%. Cul..."
+  },
+  {
+    "job_id": "009-2025",
+    "batch_id": "creative-arts",
+    "job_title": "Photographer",
+    "job_description_snippet": "Captures images using cameras, plans shoots, directs subjects, edits photos, maintains portfolio...",
+    "industry": "Creative Arts",
+    "region": "Latin America",
+    "current_ai_risk": 19,
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 23,
+      "2026": 29,
+      "2027": 34,
+      "2028": 40
+    },
+    "regional_summary_snippet": "In Latin America, Photographer currently faces Very Low AI replacement risk at 19%. Vibrant creative..."
+  },
+  {
+    "job_id": "009-2025",
+    "batch_id": "creative-arts",
+    "job_title": "Photographer",
+    "job_description_snippet": "Captures images using cameras, plans shoots, directs subjects, edits photos, maintains portfolio...",
+    "industry": "Creative Arts",
+    "region": "Sub-Saharan Africa",
+    "current_ai_risk": 18,
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 22,
+      "2026": 27,
+      "2027": 32,
+      "2028": 38
+    },
+    "regional_summary_snippet": "In Sub-Saharan Africa, Photographer currently faces Very Low AI replacement risk at 18%. Growing cre..."
+  },
+  {
+    "job_id": "010-2025",
+    "batch_id": "agriculture",
+    "job_title": "Farm Worker",
+    "job_description_snippet": "Performs physical labor tasks including planting, harvesting, equipment maintenance, and general far...",
+    "industry": "Agriculture",
+    "region": "North America",
+    "current_ai_risk": "2025-03-09T00:00:00.000Z",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 11,
+      "2026": 14,
+      "2027": 17,
+      "2028": 20
+    },
+    "regional_summary_snippet": "In North America, Farm Worker currently faces Very Low AI replacement risk at 9.3%. The region leads..."
+  },
+  {
+    "job_id": "010-2025",
+    "batch_id": "agriculture",
+    "job_title": "Farm Worker",
+    "job_description_snippet": "Performs physical labor tasks including planting, harvesting, equipment maintenance, and general far...",
+    "industry": "Agriculture",
+    "region": "Western Europe",
+    "current_ai_risk": "2025-05-08T00:00:00.000Z",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 10,
+      "2026": 13,
+      "2027": 15,
+      "2028": 18
+    },
+    "regional_summary_snippet": "In Europe, Farm Worker currently faces Very Low AI replacement risk at 8.5%. Strong agricultural tra..."
+  },
+  {
+    "job_id": "010-2025",
+    "batch_id": "agriculture",
+    "job_title": "Farm Worker",
+    "job_description_snippet": "Performs physical labor tasks including planting, harvesting, equipment maintenance, and general far...",
+    "industry": "Agriculture",
+    "region": "East Asia",
+    "current_ai_risk": "2025-09-08T00:00:00.000Z",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 10,
+      "2026": 13,
+      "2027": 16,
+      "2028": 19
+    },
+    "regional_summary_snippet": "In East Asia, Farm Worker currently faces Very Low AI replacement risk at 8.9%. The region shows hig..."
+  },
+  {
+    "job_id": "010-2025",
+    "batch_id": "agriculture",
+    "job_title": "Farm Worker",
+    "job_description_snippet": "Performs physical labor tasks including planting, harvesting, equipment maintenance, and general far...",
+    "industry": "Agriculture",
+    "region": "Southeast Asia",
+    "current_ai_risk": "2025-03-07T00:00:00.000Z",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 9,
+      "2026": 11,
+      "2027": 13,
+      "2028": 15
+    },
+    "regional_summary_snippet": "In Southeast Asia, Farm Worker currently faces Very Low AI replacement risk at 7.3%. The region's tr..."
+  },
+  {
+    "job_id": "010-2025",
+    "batch_id": "agriculture",
+    "job_title": "Farm Worker",
+    "job_description_snippet": "Performs physical labor tasks including planting, harvesting, equipment maintenance, and general far...",
+    "industry": "Agriculture",
+    "region": "Australia & New Zealand",
+    "current_ai_risk": "2025-07-07T00:00:00.000Z",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 9,
+      "2026": 12,
+      "2027": 13,
+      "2028": 16
+    },
+    "regional_summary_snippet": "In Australia & New Zealand, Farm Worker currently faces Very Low AI replacement risk at 7.7%. Large-..."
+  },
+  {
+    "job_id": "010-2025",
+    "batch_id": "agriculture",
+    "job_title": "Farm Worker",
+    "job_description_snippet": "Performs physical labor tasks including planting, harvesting, equipment maintenance, and general far...",
+    "industry": "Agriculture",
+    "region": "South Asia",
+    "current_ai_risk": "2025-09-06T00:00:00.000Z",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 8,
+      "2026": 10,
+      "2027": 12,
+      "2028": 15
+    },
+    "regional_summary_snippet": "In South Asia, Farm Worker currently faces Very Low AI replacement risk at 6.9%. The region's small ..."
+  },
+  {
+    "job_id": "010-2025",
+    "batch_id": "agriculture",
+    "job_title": "Farm Worker",
+    "job_description_snippet": "Performs physical labor tasks including planting, harvesting, equipment maintenance, and general far...",
+    "industry": "Agriculture",
+    "region": "Middle East & North Africa",
+    "current_ai_risk": "2025-03-07T00:00:00.000Z",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 9,
+      "2026": 11,
+      "2027": 13,
+      "2028": 15
+    },
+    "regional_summary_snippet": "In Middle East & North Africa, Farm Worker currently faces Very Low AI replacement risk at 7.3%. Wat..."
+  },
+  {
+    "job_id": "010-2025",
+    "batch_id": "agriculture",
+    "job_title": "Farm Worker",
+    "job_description_snippet": "Performs physical labor tasks including planting, harvesting, equipment maintenance, and general far...",
+    "industry": "Agriculture",
+    "region": "Latin America",
+    "current_ai_risk": "2025-09-06T00:00:00.000Z",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 8,
+      "2026": 10,
+      "2027": 13,
+      "2028": 15
+    },
+    "regional_summary_snippet": "In Latin America, Farm Worker currently faces Very Low AI replacement risk at 6.9%. The region's div..."
+  },
+  {
+    "job_id": "011-2025",
+    "batch_id": "agriculture",
+    "job_title": "Farm Worker",
+    "job_description_snippet": "Performs physical labor tasks including planting, harvesting, equipment maintenance, and general far...",
+    "industry": "Agriculture",
+    "region": "Sub-Saharan Africa",
+    "current_ai_risk": "2025-05-06T00:00:00.000Z",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 8,
+      "2026": 10,
+      "2027": 12,
+      "2028": 14
+    },
+    "regional_summary_snippet": "In Sub-Saharan Africa, Farm Worker currently faces Very Low AI replacement risk at 6.5%. Smallholder..."
+  },
+  {
+    "job_id": "011-2025",
+    "batch_id": "agriculture",
+    "job_title": "Farm Manager",
+    "job_description_snippet": "Oversees daily farm operations including planting decisions, labor management, budgeting, and compli...",
+    "industry": "Agriculture",
+    "region": "North America",
+    "current_ai_risk": "2025-04-30T00:00:00.000Z",
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 36,
+      "2026": 46,
+      "2027": 55,
+      "2028": 64
+    },
+    "regional_summary_snippet": "In North America, Farm Manager currently faces Low AI replacement risk at 30.4%. Advanced precision ..."
+  },
+  {
+    "job_id": "011-2025",
+    "batch_id": "agriculture",
+    "job_title": "Farm Manager",
+    "job_description_snippet": "Oversees daily farm operations including planting decisions, labor management, budgeting, and compli...",
+    "industry": "Agriculture",
+    "region": "Western Europe",
+    "current_ai_risk": "2025-07-27T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 33,
+      "2026": 42,
+      "2027": 50,
+      "2028": 58
+    },
+    "regional_summary_snippet": "In Europe, Farm Manager currently faces Low AI replacement risk at 27.7%. EU agricultural policies e..."
+  },
+  {
+    "job_id": "011-2025",
+    "batch_id": "agriculture",
+    "job_title": "Farm Manager",
+    "job_description_snippet": "Oversees daily farm operations including planting decisions, labor management, budgeting, and compli...",
+    "industry": "Agriculture",
+    "region": "East Asia",
+    "current_ai_risk": "29.0",
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 35,
+      "2026": 44,
+      "2027": 52,
+      "2028": 61
+    },
+    "regional_summary_snippet": "In East Asia, Farm Manager currently faces Low AI replacement risk at 29.0%. The region's small farm..."
+  },
+  {
+    "job_id": "011-2025",
+    "batch_id": "agriculture",
+    "job_title": "Farm Manager",
+    "job_description_snippet": "Oversees daily farm operations including planting decisions, labor management, budgeting, and compli...",
+    "industry": "Agriculture",
+    "region": "Southeast Asia",
+    "current_ai_risk": "2025-08-23T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 28,
+      "2026": 36,
+      "2027": 43,
+      "2028": 50
+    },
+    "regional_summary_snippet": "In Southeast Asia, Farm Manager currently faces Low AI replacement risk at 23.8%. The diverse tropic..."
+  },
+  {
+    "job_id": "011-2025",
+    "batch_id": "agriculture",
+    "job_title": "Farm Manager",
+    "job_description_snippet": "Oversees daily farm operations including planting decisions, labor management, budgeting, and compli...",
+    "industry": "Agriculture",
+    "region": "Australia & New Zealand",
+    "current_ai_risk": "2025-01-25T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 39,
+      "2026": 38,
+      "2027": 45,
+      "2028": 53
+    },
+    "regional_summary_snippet": "In Australia & New Zealand, Farm Manager currently faces Low AI replacement risk at 25.1%. Large-sca..."
+  },
+  {
+    "job_id": "011-2025",
+    "batch_id": "agriculture",
+    "job_title": "Farm Manager",
+    "job_description_snippet": "Oversees daily farm operations including planting decisions, labor management, budgeting, and compli...",
+    "industry": "Agriculture",
+    "region": "South Asia",
+    "current_ai_risk": "2025-04-22T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 27,
+      "2026": 34,
+      "2027": 40,
+      "2028": 47
+    },
+    "regional_summary_snippet": "In South Asia, Farm Manager currently faces Low AI replacement risk at 22.4%. Small landholdings and..."
+  },
+  {
+    "job_id": "011-2025",
+    "batch_id": "agriculture",
+    "job_title": "Farm Manager",
+    "job_description_snippet": "Oversees daily farm operations including planting decisions, labor management, budgeting, and compli...",
+    "industry": "Agriculture",
+    "region": "Middle East & North Africa",
+    "current_ai_risk": "2025-08-23T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 29,
+      "2026": 36,
+      "2027": 43,
+      "2028": 50
+    },
+    "regional_summary_snippet": "In Middle East & North Africa, Farm Manager currently faces Low AI replacement risk at 23.8%. Water ..."
+  },
+  {
+    "job_id": "011-2025",
+    "batch_id": "agriculture",
+    "job_title": "Farm Manager",
+    "job_description_snippet": "Oversees daily farm operations including planting decisions, labor management, budgeting, and compli...",
+    "industry": "Agriculture",
+    "region": "Latin America",
+    "current_ai_risk": "2025-04-22T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 27,
+      "2026": 34,
+      "2027": 40,
+      "2028": 47
+    },
+    "regional_summary_snippet": "In Latin America, Farm Manager currently faces Low AI replacement risk at 22.4%. The region's divers..."
+  },
+  {
+    "job_id": "011-2025",
+    "batch_id": "agriculture",
+    "job_title": "Farm Manager",
+    "job_description_snippet": "Oversees daily farm operations including planting decisions, labor management, budgeting, and compli...",
+    "industry": "Agriculture",
+    "region": "Sub-Saharan Africa",
+    "current_ai_risk": "2025-01-21T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 25,
+      "2026": 32,
+      "2027": 38,
+      "2028": 44
+    },
+    "regional_summary_snippet": "In Sub-Saharan Africa, Farm Manager currently faces Low AI replacement risk at 21.1%. The predominan..."
+  },
+  {
+    "job_id": "012-2025",
+    "batch_id": "agriculture",
+    "job_title": "Animal Breeder",
+    "job_description_snippet": "Selects animals for breeding to improve genetic traits like milk production and disease resistance...",
+    "industry": "Agriculture",
+    "region": "North America",
+    "current_ai_risk": "15.88",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 19,
+      "2026": 24,
+      "2027": 29,
+      "2028": 33
+    },
+    "regional_summary_snippet": "In North America, Animal Breeder currently faces Very Low AI replacement risk at 15.88%. The region'..."
+  },
+  {
+    "job_id": "012-2025",
+    "batch_id": "agriculture",
+    "job_title": "Animal Breeder",
+    "job_description_snippet": "Selects animals for breeding to improve genetic traits like milk production and disease resistance...",
+    "industry": "Agriculture",
+    "region": "Europe",
+    "current_ai_risk": "14.50",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 17,
+      "2026": 22,
+      "2027": 25,
+      "2028": 30
+    },
+    "regional_summary_snippet": "In Europe, Animal Breeder currently faces Very Low AI replacement risk at 14.50%. Strict EU animal w..."
+  },
+  {
+    "job_id": "012-2025",
+    "batch_id": "agriculture",
+    "job_title": "Animal Breeder",
+    "job_description_snippet": "Selects animals for breeding to improve genetic traits like milk production and disease resistance...",
+    "industry": "Agriculture",
+    "region": "East Asia",
+    "current_ai_risk": "15.19",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 18,
+      "2026": 23,
+      "2027": 27,
+      "2028": 32
+    },
+    "regional_summary_snippet": "In East Asia, Animal Breeder currently faces Very Low AI replacement risk at 15.19%. The region's ra..."
+  },
+  {
+    "job_id": "012-2025",
+    "batch_id": "agriculture",
+    "job_title": "Animal Breeder",
+    "job_description_snippet": "Selects animals for breeding to improve genetic traits like milk production and disease resistance...",
+    "industry": "Agriculture",
+    "region": "Southeast Asia",
+    "current_ai_risk": "12.43",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 15,
+      "2026": 19,
+      "2027": 22,
+      "2028": 26
+    },
+    "regional_summary_snippet": "In Southeast Asia, Animal Breeder currently faces Very Low AI replacement risk at 12.43%. The region..."
+  },
+  {
+    "job_id": "012-2025",
+    "batch_id": "agriculture",
+    "job_title": "Animal Breeder",
+    "job_description_snippet": "Selects animals for breeding to improve genetic traits like milk production and disease resistance...",
+    "industry": "Agriculture",
+    "region": "Australia & New Zealand",
+    "current_ai_risk": "2025-12-13T00:00:00.000Z",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 16,
+      "2026": 20,
+      "2027": 24,
+      "2028": 28
+    },
+    "regional_summary_snippet": "In Australia & New Zealand, Animal Breeder currently faces Very Low AI replacement risk at 13.12%. T..."
+  },
+  {
+    "job_id": "012-2025",
+    "batch_id": "agriculture",
+    "job_title": "Animal Breeder",
+    "job_description_snippet": "Selects animals for breeding to improve genetic traits like milk production and disease resistance...",
+    "industry": "Agriculture",
+    "region": "South Asia",
+    "current_ai_risk": "11.74",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 14,
+      "2026": 18,
+      "2027": 21,
+      "2028": 25
+    },
+    "regional_summary_snippet": "In South Asia, Animal Breeder currently faces Very Low AI replacement risk at 11.74%. The region's l..."
+  },
+  {
+    "job_id": "012-2025",
+    "batch_id": "agriculture",
+    "job_title": "Animal Breeder",
+    "job_description_snippet": "Selects animals for breeding to improve genetic traits like milk production and disease resistance...",
+    "industry": "Agriculture",
+    "region": "Middle East & North Africa",
+    "current_ai_risk": "12.43",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 15,
+      "2026": 19,
+      "2027": 22,
+      "2028": 26
+    },
+    "regional_summary_snippet": "In Middle East & North Africa, Animal Breeder currently faces Very Low AI replacement risk at 12.43%..."
+  },
+  {
+    "job_id": "012-2025",
+    "batch_id": "agriculture",
+    "job_title": "Animal Breeder",
+    "job_description_snippet": "Selects animals for breeding to improve genetic traits like milk production and disease resistance...",
+    "industry": "Agriculture",
+    "region": "Latin America",
+    "current_ai_risk": "11.74",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 14,
+      "2026": 18,
+      "2027": 21,
+      "2028": 25
+    },
+    "regional_summary_snippet": "In Latin America, Animal Breeder currently faces Very Low AI replacement risk at 11.74%. The region'..."
+  },
+  {
+    "job_id": "012-2025",
+    "batch_id": "agriculture",
+    "job_title": "Animal Breeder",
+    "job_description_snippet": "Selects animals for breeding to improve genetic traits like milk production and disease resistance...",
+    "industry": "Agriculture",
+    "region": "Sub-Saharan Africa",
+    "current_ai_risk": "2025-05-11T00:00:00.000Z",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 13,
+      "2026": 17,
+      "2027": 20,
+      "2028": 23
+    },
+    "regional_summary_snippet": "In Sub-Saharan Africa, Animal Breeder currently faces Very Low AI replacement risk at 11.05%. The re..."
+  },
+  {
+    "job_id": "013-2025",
+    "batch_id": "construction",
+    "job_title": "Construction Manager",
+    "job_description_snippet": "Oversees construction projects coordinating architects engineers workers budgets schedules and compl...",
+    "industry": "Construction",
+    "region": "North America",
+    "current_ai_risk": "12.16",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 15,
+      "2026": 18,
+      "2027": 22,
+      "2028": 26
+    },
+    "regional_summary_snippet": "In North America, Construction Manager currently faces Very Low AI replacement risk at 12.16%. The r..."
+  },
+  {
+    "job_id": "013-2025",
+    "batch_id": "construction",
+    "job_title": "Construction Manager",
+    "job_description_snippet": "Oversees construction projects coordinating architects engineers workers budgets schedules and compl...",
+    "industry": "Construction",
+    "region": "Europe",
+    "current_ai_risk": "2025-11-11T00:00:00.000Z",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 13,
+      "2026": 17,
+      "2027": 20,
+      "2028": 23
+    },
+    "regional_summary_snippet": "In Europe, Construction Manager currently faces Very Low AI replacement risk at 11.11%. Strict EU co..."
+  },
+  {
+    "job_id": "013-2025",
+    "batch_id": "construction",
+    "job_title": "Construction Manager",
+    "job_description_snippet": "Oversees construction projects coordinating architects engineers workers budgets schedules and compl...",
+    "industry": "Construction",
+    "region": "East Asia",
+    "current_ai_risk": "11.66",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 14,
+      "2026": 17,
+      "2027": 21,
+      "2028": 24
+    },
+    "regional_summary_snippet": "In East Asia, Construction Manager currently faces Very Low AI replacement risk at 11.66%. The regio..."
+  },
+  {
+    "job_id": "013-2025",
+    "batch_id": "construction",
+    "job_title": "Construction Manager",
+    "job_description_snippet": "Oversees construction projects coordinating architects engineers workers budgets schedules and compl...",
+    "industry": "Construction",
+    "region": "Southeast Asia",
+    "current_ai_risk": "9.53",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 11,
+      "2026": 14,
+      "2027": 17,
+      "2028": 20
+    },
+    "regional_summary_snippet": "In Southeast Asia, Construction Manager currently faces Very Low AI replacement risk at 9.53%. The r..."
+  },
+  {
+    "job_id": "013-2025",
+    "batch_id": "construction",
+    "job_title": "Construction Manager",
+    "job_description_snippet": "Oversees construction projects coordinating architects engineers workers budgets schedules and compl...",
+    "industry": "Construction",
+    "region": "Australia & New Zealand",
+    "current_ai_risk": "2025-06-10T00:00:00.000Z",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 12,
+      "2026": 15,
+      "2027": 19,
+      "2028": 21
+    },
+    "regional_summary_snippet": "In Australia & New Zealand, Construction Manager currently faces Very Low AI replacement risk at 10...."
+  },
+  {
+    "job_id": "013-2025",
+    "batch_id": "construction",
+    "job_title": "Construction Manager",
+    "job_description_snippet": "Oversees construction projects coordinating architects engineers workers budgets schedules and compl...",
+    "industry": "Construction",
+    "region": "South Asia",
+    "current_ai_risk": "9.00",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 11,
+      "2026": 13,
+      "2027": 16,
+      "2028": 19
+    },
+    "regional_summary_snippet": "In South Asia, Construction Manager currently faces Very Low AI replacement risk at 9.00%. The regio..."
+  },
+  {
+    "job_id": "013-2025",
+    "batch_id": "construction",
+    "job_title": "Construction Manager",
+    "job_description_snippet": "Oversees construction projects coordinating architects engineers workers budgets schedules and compl...",
+    "industry": "Construction",
+    "region": "Middle East & North Africa",
+    "current_ai_risk": "9.53",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 11,
+      "2026": 14,
+      "2027": 17,
+      "2028": 20
+    },
+    "regional_summary_snippet": "In Middle East & North Africa, Construction Manager currently faces Very Low AI replacement risk at ..."
+  },
+  {
+    "job_id": "013-2025",
+    "batch_id": "construction",
+    "job_title": "Construction Manager",
+    "job_description_snippet": "Oversees construction projects coordinating architects engineers workers budgets schedules and compl...",
+    "industry": "Construction",
+    "region": "Latin America",
+    "current_ai_risk": "9.00",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 11,
+      "2026": 14,
+      "2027": 16,
+      "2028": 19
+    },
+    "regional_summary_snippet": "In Latin America, Construction Manager currently faces Very Low AI replacement risk at 9.00%. The re..."
+  },
+  {
+    "job_id": "013-2025",
+    "batch_id": "construction",
+    "job_title": "Construction Manager",
+    "job_description_snippet": "Oversees construction projects coordinating architects engineers workers budgets schedules and compl...",
+    "industry": "Construction",
+    "region": "Sub-Saharan Africa",
+    "current_ai_risk": "8.47",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 10,
+      "2026": 12,
+      "2027": 15,
+      "2028": 18
+    },
+    "regional_summary_snippet": "In Sub-Saharan Africa, Construction Manager currently faces Very Low AI replacement risk at 8.47%. T..."
+  },
+  {
+    "job_id": "014-2025",
+    "batch_id": "construction",
+    "job_title": "General Contractor",
+    "job_description_snippet": "Manages construction projects coordinates subcontractors obtains permits ensures code compliance...",
+    "industry": "Construction",
+    "region": "North America",
+    "current_ai_risk": "9.71",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 12,
+      "2026": 15,
+      "2027": 17,
+      "2028": 20
+    },
+    "regional_summary_snippet": "In North America, General Contractor currently faces Very Low AI replacement risk at 9.71%. The regi..."
+  },
+  {
+    "job_id": "014-2025",
+    "batch_id": "construction",
+    "job_title": "General Contractor",
+    "job_description_snippet": "Manages construction projects coordinates subcontractors obtains permits ensures code compliance...",
+    "industry": "Construction",
+    "region": "Europe",
+    "current_ai_risk": "8.87",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 11,
+      "2026": 13,
+      "2027": 16,
+      "2028": 19
+    },
+    "regional_summary_snippet": "In Europe, General Contractor currently faces Very Low AI replacement risk at 8.87%. Strict EU const..."
+  },
+  {
+    "job_id": "014-2025",
+    "batch_id": "construction",
+    "job_title": "General Contractor",
+    "job_description_snippet": "Manages construction projects coordinates subcontractors obtains permits ensures code compliance...",
+    "industry": "Construction",
+    "region": "East Asia",
+    "current_ai_risk": "9.30",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 11,
+      "2026": 14,
+      "2027": 17,
+      "2028": 20
+    },
+    "regional_summary_snippet": "In East Asia, General Contractor currently faces Very Low AI replacement risk at 9.30%. The region's..."
+  },
+  {
+    "job_id": "014-2025",
+    "batch_id": "construction",
+    "job_title": "General Contractor",
+    "job_description_snippet": "Manages construction projects coordinates subcontractors obtains permits ensures code compliance...",
+    "industry": "Construction",
+    "region": "Southeast Asia",
+    "current_ai_risk": "7.61",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 9,
+      "2026": 11,
+      "2027": 14,
+      "2028": 16
+    },
+    "regional_summary_snippet": "In Southeast Asia, General Contractor currently faces Very Low AI replacement risk at 7.61%. The reg..."
+  },
+  {
+    "job_id": "014-2025",
+    "batch_id": "construction",
+    "job_title": "General Contractor",
+    "job_description_snippet": "Manages construction projects coordinates subcontractors obtains permits ensures code compliance...",
+    "industry": "Construction",
+    "region": "Australia & New Zealand",
+    "current_ai_risk": "2025-03-08T00:00:00.000Z",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 10,
+      "2026": 12,
+      "2027": 14,
+      "2028": 17
+    },
+    "regional_summary_snippet": "In Australia & New Zealand, General Contractor currently faces Very Low AI replacement risk at 8.03%..."
+  },
+  {
+    "job_id": "014-2025",
+    "batch_id": "construction",
+    "job_title": "General Contractor",
+    "job_description_snippet": "Manages construction projects coordinates subcontractors obtains permits ensures code compliance...",
+    "industry": "Construction",
+    "region": "South Asia",
+    "current_ai_risk": "7.18",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 9,
+      "2026": 11,
+      "2027": 13,
+      "2028": 15
+    },
+    "regional_summary_snippet": "In South Asia, General Contractor currently faces Very Low AI replacement risk at 7.18%. The region'..."
+  },
+  {
+    "job_id": "014-2025",
+    "batch_id": "construction",
+    "job_title": "General Contractor",
+    "job_description_snippet": "Manages construction projects coordinates subcontractors obtains permits ensures code compliance...",
+    "industry": "Construction",
+    "region": "Middle East & North Africa",
+    "current_ai_risk": "7.61",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 9,
+      "2026": 11,
+      "2027": 14,
+      "2028": 16
+    },
+    "regional_summary_snippet": "In Middle East & North Africa, General Contractor currently faces Very Low AI replacement risk at 7...."
+  },
+  {
+    "job_id": "014-2025",
+    "batch_id": "construction",
+    "job_title": "General Contractor",
+    "job_description_snippet": "Manages construction projects coordinates subcontractors obtains permits ensures code compliance...",
+    "industry": "Construction",
+    "region": "Latin America",
+    "current_ai_risk": "7.18",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 9,
+      "2026": 11,
+      "2027": 13,
+      "2028": 15
+    },
+    "regional_summary_snippet": "In Latin America, General Contractor currently faces Very Low AI replacement risk at 7.18%. The regi..."
+  },
+  {
+    "job_id": "014-2025",
+    "batch_id": "construction",
+    "job_title": "General Contractor",
+    "job_description_snippet": "Manages construction projects coordinates subcontractors obtains permits ensures code compliance...",
+    "industry": "Construction",
+    "region": "Sub-Saharan Africa",
+    "current_ai_risk": "6.75",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 8,
+      "2026": 10,
+      "2027": 12,
+      "2028": 14
+    },
+    "regional_summary_snippet": "In Sub-Saharan Africa, General Contractor currently faces Very Low AI replacement risk at 6.75%. The..."
+  },
+  {
+    "job_id": "015-2025",
+    "batch_id": "construction",
+    "job_title": "Project Engineer",
+    "job_description_snippet": "Manages technical construction projects, coordinates design teams, handles documentation, conducts q...",
+    "industry": "Construction",
+    "region": "North America",
+    "current_ai_risk": 45679,
+    "risk_category": "Low",
+    "projections": {
+      "2025": 27,
+      "2026": 33,
+      "2027": 40,
+      "2028": 46
+    },
+    "regional_summary_snippet": "In North America, Project Engineer currently faces Low AI replacement risk at 22.1%. The region's ad..."
+  },
+  {
+    "job_id": "015-2025",
+    "batch_id": "construction",
+    "job_title": "Project Engineer",
+    "job_description_snippet": "Manages technical construction projects, coordinates design teams, handles documentation, conducts q...",
+    "industry": "Construction",
+    "region": "Europe",
+    "current_ai_risk": 45708,
+    "risk_category": "Low",
+    "projections": {
+      "2025": 24,
+      "2026": 32,
+      "2027": 36,
+      "2028": 42
+    },
+    "regional_summary_snippet": "In Europe, Project Engineer currently faces Low AI replacement risk at 20.2%. Strong regulatory fram..."
+  },
+  {
+    "job_id": "015-2025",
+    "batch_id": "construction",
+    "job_title": "Project Engineer",
+    "job_description_snippet": "Manages technical construction projects, coordinates design teams, handles documentation, conducts q...",
+    "industry": "Construction",
+    "region": "East Asia",
+    "current_ai_risk": 45709,
+    "risk_category": "Low",
+    "projections": {
+      "2025": 25,
+      "2026": 33,
+      "2027": 38,
+      "2028": 45
+    },
+    "regional_summary_snippet": "In East Asia, Project Engineer currently faces Low AI replacement risk at 21.2%. The region's rapid ..."
+  },
+  {
+    "job_id": "015-2025",
+    "batch_id": "construction",
+    "job_title": "Project Engineer",
+    "job_description_snippet": "Manages technical construction projects, coordinates design teams, handles documentation, conducts q...",
+    "industry": "Construction",
+    "region": "Southeast Asia",
+    "current_ai_risk": 45733,
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 21,
+      "2026": 26,
+      "2027": 31,
+      "2028": 36
+    },
+    "regional_summary_snippet": "In Southeast Asia, Project Engineer currently faces Very Low AI replacement risk at 17.3%. Rapid inf..."
+  },
+  {
+    "job_id": "015-2025",
+    "batch_id": "construction",
+    "job_title": "Project Engineer",
+    "job_description_snippet": "Manages technical construction projects, coordinates design teams, handles documentation, conducts q...",
+    "industry": "Construction",
+    "region": "Australia & New Zealand",
+    "current_ai_risk": 45734,
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 22,
+      "2026": 28,
+      "2027": 33,
+      "2028": 38
+    },
+    "regional_summary_snippet": "In Australia & New Zealand, Project Engineer currently faces Very Low AI replacement risk at 18.3%. ..."
+  },
+  {
+    "job_id": "015-2025",
+    "batch_id": "construction",
+    "job_title": "Project Engineer",
+    "job_description_snippet": "Manages technical construction projects, coordinates design teams, handles documentation, conducts q...",
+    "industry": "Construction",
+    "region": "South Asia",
+    "current_ai_risk": 45763,
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 20,
+      "2026": 26,
+      "2027": 30,
+      "2028": 34
+    },
+    "regional_summary_snippet": "In South Asia, Project Engineer currently faces Very Low AI replacement risk at 16.4%. Massive infra..."
+  },
+  {
+    "job_id": "015-2025",
+    "batch_id": "construction",
+    "job_title": "Project Engineer",
+    "job_description_snippet": "Manages technical construction projects, coordinates design teams, handles documentation, conducts q...",
+    "industry": "Construction",
+    "region": "Middle East & North Africa",
+    "current_ai_risk": 45733,
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 21,
+      "2026": 26,
+      "2027": 31,
+      "2028": 36
+    },
+    "regional_summary_snippet": "In Middle East & North Africa, Project Engineer currently faces Very Low AI replacement risk at 17.3..."
+  },
+  {
+    "job_id": "015-2025",
+    "batch_id": "construction",
+    "job_title": "Project Engineer",
+    "job_description_snippet": "Manages technical construction projects, coordinates design teams, handles documentation, conducts q...",
+    "industry": "Construction",
+    "region": "Latin America",
+    "current_ai_risk": 45763,
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 20,
+      "2026": 24,
+      "2027": 30,
+      "2028": 34
+    },
+    "regional_summary_snippet": "In Latin America, Project Engineer currently faces Very Low AI replacement risk at 16.4%. Growing in..."
+  },
+  {
+    "job_id": "015-2025",
+    "batch_id": "construction",
+    "job_title": "Project Engineer",
+    "job_description_snippet": "Manages technical construction projects, coordinates design teams, handles documentation, conducts q...",
+    "industry": "Construction",
+    "region": "Sub-Saharan Africa",
+    "current_ai_risk": 45762,
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 19,
+      "2026": 23,
+      "2027": 28,
+      "2028": 32
+    },
+    "regional_summary_snippet": "In Sub-Saharan Africa, Project Engineer currently faces Very Low AI replacement risk at 15.4%. Rapid..."
+  },
+  {
+    "job_id": "016-2025",
+    "batch_id": "creative",
+    "job_title": "Graphic Designer",
+    "job_description_snippet": "Creates visual concepts using digital tools to communicate ideas that inspire, inform, or captivate ...",
+    "industry": "Creative",
+    "region": "North America",
+    "current_ai_risk": "41.31",
+    "risk_category": "High",
+    "projections": {
+      "2025": 50,
+      "2026": 62,
+      "2027": 74,
+      "2028": 87
+    },
+    "regional_summary_snippet": "In North America, Graphic Designer currently faces Moderate AI replacement risk at 41.31%. The regio..."
+  },
+  {
+    "job_id": "016-2025",
+    "batch_id": "creative",
+    "job_title": "Graphic Designer",
+    "job_description_snippet": "Creates visual concepts using digital tools to communicate ideas that inspire, inform, or captivate ...",
+    "industry": "Creative",
+    "region": "Europe",
+    "current_ai_risk": "37.66",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 45,
+      "2026": 56,
+      "2027": 68,
+      "2028": 79
+    },
+    "regional_summary_snippet": "In Europe, Graphic Designer currently faces Low AI replacement risk at 37.66%. The region has strong..."
+  },
+  {
+    "job_id": "016-2025",
+    "batch_id": "creative",
+    "job_title": "Graphic Designer",
+    "job_description_snippet": "Creates visual concepts using digital tools to communicate ideas that inspire, inform, or captivate ...",
+    "industry": "Creative",
+    "region": "East Asia",
+    "current_ai_risk": "39.49",
+    "risk_category": "High",
+    "projections": {
+      "2025": 47,
+      "2026": 59,
+      "2027": 72,
+      "2028": 83
+    },
+    "regional_summary_snippet": "In East Asia, Graphic Designer currently faces Low AI replacement risk at 39.49%. The region shows h..."
+  },
+  {
+    "job_id": "016-2025",
+    "batch_id": "creative",
+    "job_title": "Graphic Designer",
+    "job_description_snippet": "Creates visual concepts using digital tools to communicate ideas that inspire, inform, or captivate ...",
+    "industry": "Creative",
+    "region": "Southeast Asia",
+    "current_ai_risk": "32.34",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 39,
+      "2026": 49,
+      "2027": 59,
+      "2028": 68
+    },
+    "regional_summary_snippet": "In Southeast Asia, Graphic Designer currently faces Low AI replacement risk at 32.34%. The region's ..."
+  },
+  {
+    "job_id": "016-2025",
+    "batch_id": "creative",
+    "job_title": "Graphic Designer",
+    "job_description_snippet": "Creates visual concepts using digital tools to communicate ideas that inspire, inform, or captivate ...",
+    "industry": "Creative",
+    "region": "Australia & New Zealand",
+    "current_ai_risk": "34.14",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 41,
+      "2026": 51,
+      "2027": 62,
+      "2028": 72
+    },
+    "regional_summary_snippet": "In Australia & New Zealand, Graphic Designer currently faces Low AI replacement risk at 34.14%. The ..."
+  },
+  {
+    "job_id": "016-2025",
+    "batch_id": "creative",
+    "job_title": "Graphic Designer",
+    "job_description_snippet": "Creates visual concepts using digital tools to communicate ideas that inspire, inform, or captivate ...",
+    "industry": "Creative",
+    "region": "South Asia",
+    "current_ai_risk": "30.54",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 37,
+      "2026": 46,
+      "2027": 55,
+      "2028": 64
+    },
+    "regional_summary_snippet": "In South Asia, Graphic Designer currently faces Low AI replacement risk at 30.54%. The region benefi..."
+  },
+  {
+    "job_id": "016-2025",
+    "batch_id": "creative",
+    "job_title": "Graphic Designer",
+    "job_description_snippet": "Creates visual concepts using digital tools to communicate ideas that inspire, inform, or captivate ...",
+    "industry": "Creative",
+    "region": "Middle East & North Africa",
+    "current_ai_risk": "32.34",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 39,
+      "2026": 49,
+      "2027": 59,
+      "2028": 68
+    },
+    "regional_summary_snippet": "In Middle East & North Africa, Graphic Designer currently faces Low AI replacement risk at 32.34%. T..."
+  },
+  {
+    "job_id": "016-2025",
+    "batch_id": "creative",
+    "job_title": "Graphic Designer",
+    "job_description_snippet": "Creates visual concepts using digital tools to communicate ideas that inspire, inform, or captivate ...",
+    "industry": "Creative",
+    "region": "Latin America",
+    "current_ai_risk": "30.54",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 37,
+      "2026": 46,
+      "2027": 55,
+      "2028": 64
+    },
+    "regional_summary_snippet": "In Latin America, Graphic Designer currently faces Low AI replacement risk at 30.54%. The region's v..."
+  },
+  {
+    "job_id": "016-2025",
+    "batch_id": "creative",
+    "job_title": "Graphic Designer",
+    "job_description_snippet": "Creates visual concepts using digital tools to communicate ideas that inspire, inform, or captivate ...",
+    "industry": "Creative",
+    "region": "Sub-Saharan Africa",
+    "current_ai_risk": "28.75",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 35,
+      "2026": 43,
+      "2027": 52,
+      "2028": 60
+    },
+    "regional_summary_snippet": "In Sub-Saharan Africa, Graphic Designer currently faces Low AI replacement risk at 28.75%. The regio..."
+  },
+  {
+    "job_id": "017-2025",
+    "batch_id": "creative",
+    "job_title": "Social Media Manager",
+    "job_description_snippet": "Develops and implements social media strategies for brands and organizations...",
+    "industry": "Creative",
+    "region": "North America",
+    "current_ai_risk": "45.12",
+    "risk_category": "High",
+    "projections": {
+      "2025": 54,
+      "2026": 68,
+      "2027": 81,
+      "2028": 95
+    },
+    "regional_summary_snippet": "In North America, Social Media Manager currently faces Moderate AI replacement risk at 45.12%. The r..."
+  },
+  {
+    "job_id": "017-2025",
+    "batch_id": "creative",
+    "job_title": "Social Media Manager",
+    "job_description_snippet": "Develops and implements social media strategies for brands and organizations...",
+    "industry": "Creative",
+    "region": "Europe",
+    "current_ai_risk": "41.14",
+    "risk_category": "High",
+    "projections": {
+      "2025": 49,
+      "2026": 62,
+      "2027": 74,
+      "2028": 86
+    },
+    "regional_summary_snippet": "In Europe, Social Media Manager currently faces Moderate AI replacement risk at 41.14%. GDPR and pri..."
+  },
+  {
+    "job_id": "017-2025",
+    "batch_id": "creative",
+    "job_title": "Social Media Manager",
+    "job_description_snippet": "Develops and implements social media strategies for brands and organizations...",
+    "industry": "Creative",
+    "region": "East Asia",
+    "current_ai_risk": "43.11",
+    "risk_category": "High",
+    "projections": {
+      "2025": 52,
+      "2026": 65,
+      "2027": 78,
+      "2028": 91
+    },
+    "regional_summary_snippet": "In East Asia, Social Media Manager currently faces Moderate AI replacement risk at 43.11%. The regio..."
+  },
+  {
+    "job_id": "017-2025",
+    "batch_id": "creative",
+    "job_title": "Social Media Manager",
+    "job_description_snippet": "Develops and implements social media strategies for brands and organizations...",
+    "industry": "Creative",
+    "region": "Southeast Asia",
+    "current_ai_risk": "35.27",
+    "risk_category": "High",
+    "projections": {
+      "2025": 42,
+      "2026": 53,
+      "2027": 63,
+      "2028": 74
+    },
+    "regional_summary_snippet": "In Southeast Asia, Social Media Manager currently faces Low AI replacement risk at 35.27%. High soci..."
+  },
+  {
+    "job_id": "017-2025",
+    "batch_id": "creative",
+    "job_title": "Social Media Manager",
+    "job_description_snippet": "Develops and implements social media strategies for brands and organizations...",
+    "industry": "Creative",
+    "region": "Australia & New Zealand",
+    "current_ai_risk": "37.23",
+    "risk_category": "High",
+    "projections": {
+      "2025": 45,
+      "2026": 56,
+      "2027": 67,
+      "2028": 79
+    },
+    "regional_summary_snippet": "In Australia & New Zealand, Social Media Manager currently faces Low AI replacement risk at 37.23%. ..."
+  },
+  {
+    "job_id": "017-2025",
+    "batch_id": "creative",
+    "job_title": "Social Media Manager",
+    "job_description_snippet": "Develops and implements social media strategies for brands and organizations...",
+    "industry": "Creative",
+    "region": "South Asia",
+    "current_ai_risk": "33.31",
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 40,
+      "2026": 50,
+      "2027": 60,
+      "2028": 69
+    },
+    "regional_summary_snippet": "In South Asia, Social Media Manager currently faces Low AI replacement risk at 33.31%. Large young p..."
+  },
+  {
+    "job_id": "017-2025",
+    "batch_id": "creative",
+    "job_title": "Social Media Manager",
+    "job_description_snippet": "Develops and implements social media strategies for brands and organizations...",
+    "industry": "Creative",
+    "region": "Middle East & North Africa",
+    "current_ai_risk": "35.27",
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 42,
+      "2026": 53,
+      "2027": 63,
+      "2028": 74
+    },
+    "regional_summary_snippet": "In Middle East & North Africa, Social Media Manager currently faces Low AI replacement risk at 35.27..."
+  },
+  {
+    "job_id": "017-2025",
+    "batch_id": "creative",
+    "job_title": "Social Media Manager",
+    "job_description_snippet": "Develops and implements social media strategies for brands and organizations...",
+    "industry": "Creative",
+    "region": "Latin America",
+    "current_ai_risk": "33.31",
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 40,
+      "2026": 50,
+      "2027": 60,
+      "2028": 70
+    },
+    "regional_summary_snippet": "In Latin America, Social Media Manager currently faces Low AI replacement risk at 33.31%. High socia..."
+  },
+  {
+    "job_id": "017-2025",
+    "batch_id": "creative",
+    "job_title": "Social Media Manager",
+    "job_description_snippet": "Develops and implements social media strategies for brands and organizations...",
+    "industry": "Creative",
+    "region": "Sub-Saharan Africa",
+    "current_ai_risk": "31.35",
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 38,
+      "2026": 47,
+      "2027": 56,
+      "2028": 66
+    },
+    "regional_summary_snippet": "In Sub-Saharan Africa, Social Media Manager currently faces Low AI replacement risk at 31.35%. Rapid..."
+  },
+  {
+    "job_id": "018-2025",
+    "batch_id": "creative",
+    "job_title": "Art Director",
+    "job_description_snippet": "Oversees visual style of media projects, leads creative teams, determines design vision...",
+    "industry": "Creative",
+    "region": "North America",
+    "current_ai_risk": 45674,
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 21,
+      "2026": 25,
+      "2027": 31,
+      "2028": 36
+    },
+    "regional_summary_snippet": "In North America, Art Director currently faces Very Low AI replacement risk at 17.1%. The region's a..."
+  },
+  {
+    "job_id": "018-2025",
+    "batch_id": "creative",
+    "job_title": "Art Director",
+    "job_description_snippet": "Oversees visual style of media projects, leads creative teams, determines design vision...",
+    "industry": "Creative",
+    "region": "Europe",
+    "current_ai_risk": "2025-06-15T00:00:00.000Z",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 19,
+      "2026": 24,
+      "2027": 28,
+      "2028": 33
+    },
+    "regional_summary_snippet": "In Europe, Art Director currently faces Very Low AI replacement risk at 15.6%. Strong creative indus..."
+  },
+  {
+    "job_id": "018-2025",
+    "batch_id": "creative",
+    "job_title": "Art Director",
+    "job_description_snippet": "Oversees visual style of media projects, leads creative teams, determines design vision...",
+    "industry": "Creative",
+    "region": "East Asia",
+    "current_ai_risk": "2025-03-16T00:00:00.000Z",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 20,
+      "2026": 25,
+      "2027": 29,
+      "2028": 34
+    },
+    "regional_summary_snippet": "In East Asia, Art Director currently faces Very Low AI replacement risk at 16.3%. The region's rapid..."
+  },
+  {
+    "job_id": "018-2025",
+    "batch_id": "creative",
+    "job_title": "Art Director",
+    "job_description_snippet": "Oversees visual style of media projects, leads creative teams, determines design vision...",
+    "industry": "Creative",
+    "region": "Southeast Asia",
+    "current_ai_risk": "2025-04-13T00:00:00.000Z",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 16,
+      "2026": 22,
+      "2027": 24,
+      "2028": 28
+    },
+    "regional_summary_snippet": "In Southeast Asia, Art Director currently faces Very Low AI replacement risk at 13.4%. The region's ..."
+  },
+  {
+    "job_id": "018-2025",
+    "batch_id": "creative",
+    "job_title": "Art Director",
+    "job_description_snippet": "Oversees visual style of media projects, leads creative teams, determines design vision...",
+    "industry": "Creative",
+    "region": "Australia & New Zealand",
+    "current_ai_risk": "2025-01-14T00:00:00.000Z",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 17,
+      "2026": 19,
+      "2027": 25,
+      "2028": 30
+    },
+    "regional_summary_snippet": "In Australia & New Zealand, Art Director currently faces Very Low AI replacement risk at 14.1%. The ..."
+  },
+  {
+    "job_id": "018-2025",
+    "batch_id": "creative",
+    "job_title": "Art Director",
+    "job_description_snippet": "Oversees visual style of media projects, leads creative teams, determines design vision...",
+    "industry": "Creative",
+    "region": "South Asia",
+    "current_ai_risk": "2025-06-12T00:00:00.000Z",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 15,
+      "2026": 17,
+      "2027": 23,
+      "2028": 27
+    },
+    "regional_summary_snippet": "In South Asia, Art Director currently faces Very Low AI replacement risk at 12.6%. The region's larg..."
+  },
+  {
+    "job_id": "018-2025",
+    "batch_id": "creative",
+    "job_title": "Art Director",
+    "job_description_snippet": "Oversees visual style of media projects, leads creative teams, determines design vision...",
+    "industry": "Creative",
+    "region": "Middle East & North Africa",
+    "current_ai_risk": "2025-04-13T00:00:00.000Z",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 16,
+      "2026": 20,
+      "2027": 24,
+      "2028": 28
+    },
+    "regional_summary_snippet": "In Middle East & North Africa, Art Director currently faces Very Low AI replacement risk at 13.4%. T..."
+  },
+  {
+    "job_id": "018-2025",
+    "batch_id": "creative",
+    "job_title": "Art Director",
+    "job_description_snippet": "Oversees visual style of media projects, leads creative teams, determines design vision...",
+    "industry": "Creative",
+    "region": "Latin America",
+    "current_ai_risk": "2025-06-12T00:00:00.000Z",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 15,
+      "2026": 19,
+      "2027": 23,
+      "2028": 26
+    },
+    "regional_summary_snippet": "In Latin America, Art Director currently faces Very Low AI replacement risk at 12.6%. The region's v..."
+  },
+  {
+    "job_id": "018-2025",
+    "batch_id": "creative",
+    "job_title": "Art Director",
+    "job_description_snippet": "Oversees visual style of media projects, leads creative teams, determines design vision...",
+    "industry": "Creative",
+    "region": "Sub-Saharan Africa",
+    "current_ai_risk": "2025-09-11T00:00:00.000Z",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 14,
+      "2026": 18,
+      "2027": 24,
+      "2028": 25
+    },
+    "regional_summary_snippet": "In Sub-Saharan Africa, Art Director currently faces Very Low AI replacement risk at 11.9%. The regio..."
+  },
+  {
+    "job_id": "019-2025",
+    "batch_id": "creative-media-design",
+    "job_title": "3D Designer",
+    "job_description_snippet": "3D Designers use artistic and technical skills to create 3D models and animations for various media....",
+    "industry": "Creative/Media/Design",
+    "region": "North America",
+    "current_ai_risk": "2025-04-24T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 28,
+      "2026": 32,
+      "2027": 37,
+      "2028": 43
+    },
+    "regional_summary_snippet": "In North America, 3D designers face moderate risk due to advanced AI tools and high adoption rates, ..."
+  },
+  {
+    "job_id": "019-2025",
+    "batch_id": "creative-media-design",
+    "job_title": "3D Designer",
+    "job_description_snippet": "3D Designers use artistic and technical skills to create 3D models and animations for various media....",
+    "industry": "Creative/Media/Design",
+    "region": "Europe",
+    "current_ai_risk": "2025-03-22T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 26,
+      "2026": 30,
+      "2027": 35,
+      "2028": 40
+    },
+    "regional_summary_snippet": "European 3D designers benefit from established creative traditions and strong regulatory frameworks,..."
+  },
+  {
+    "job_id": "019-2025",
+    "batch_id": "creative-media-design",
+    "job_title": "3D Designer",
+    "job_description_snippet": "3D Designers use artistic and technical skills to create 3D models and animations for various media....",
+    "industry": "Creative/Media/Design",
+    "region": "East Asia",
+    "current_ai_risk": "2025-04-23T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 27,
+      "2026": 31,
+      "2027": 36,
+      "2028": 42
+    },
+    "regional_summary_snippet": "East Asian 3D designers operate in high-tech environments with rapid AI adoption, navigating opportu..."
+  },
+  {
+    "job_id": "019-2025",
+    "batch_id": "creative-media-design",
+    "job_title": "3D Designer",
+    "job_description_snippet": "3D Designers use artistic and technical skills to create 3D models and animations for various media....",
+    "industry": "Creative/Media/Design",
+    "region": "Southeast Asia",
+    "current_ai_risk": "2025-01-19T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 22,
+      "2026": 26,
+      "2027": 30,
+      "2028": 35
+    },
+    "regional_summary_snippet": "Southeast Asian 3D designers benefit from low AI adoption rates and emerging digital economies. Sign..."
+  },
+  {
+    "job_id": "019-2025",
+    "batch_id": "creative-media-design",
+    "job_title": "3D Designer",
+    "job_description_snippet": "3D Designers use artistic and technical skills to create 3D models and animations for various media....",
+    "industry": "Creative/Media/Design",
+    "region": "Australia & NZ",
+    "current_ai_risk": "2025-02-20T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 23,
+      "2026": 27,
+      "2027": 32,
+      "2028": 37
+    },
+    "regional_summary_snippet": "Australian and New Zealand 3D designers maintain moderate protection via service traditions and qual..."
+  },
+  {
+    "job_id": "019-2025",
+    "batch_id": "creative-media-design",
+    "job_title": "3D Designer",
+    "job_description_snippet": "3D Designers use artistic and technical skills to create 3D models and animations for various media....",
+    "industry": "Creative/Media/Design",
+    "region": "South Asia",
+    "current_ai_risk": "2025-01-18T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 21,
+      "2026": 24,
+      "2027": 28,
+      "2028": 33
+    },
+    "regional_summary_snippet": "South Asian 3D designers benefit from cost advantages and an extensive talent pool, though emerging ..."
+  },
+  {
+    "job_id": "019-2025",
+    "batch_id": "creative-media-design",
+    "job_title": "3D Designer",
+    "job_description_snippet": "3D Designers use artistic and technical skills to create 3D models and animations for various media....",
+    "industry": "Creative/Media/Design",
+    "region": "MENA",
+    "current_ai_risk": "2025-01-19T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 22,
+      "2026": 25,
+      "2027": 29,
+      "2028": 34
+    },
+    "regional_summary_snippet": "MENA 3D designers work in regions with selective AI adoption, allowing adaptation to cultural sensit..."
+  },
+  {
+    "job_id": "019-2025",
+    "batch_id": "creative-media-design",
+    "job_title": "3D Designer",
+    "job_description_snippet": "3D Designers use artistic and technical skills to create 3D models and animations for various media....",
+    "industry": "Creative/Media/Design",
+    "region": "Latin America",
+    "current_ai_risk": "2025-01-18T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 21,
+      "2026": 24,
+      "2027": 28,
+      "2028": 33
+    },
+    "regional_summary_snippet": "Latin American 3D designers leverage emerging digital markets and cultural insights, though infrastr..."
+  },
+  {
+    "job_id": "019-2025",
+    "batch_id": "creative-media-design",
+    "job_title": "3D Designer",
+    "job_description_snippet": "3D Designers use artistic and technical skills to create 3D models and animations for various media....",
+    "industry": "Creative/Media/Design",
+    "region": "Sub-Saharan Africa",
+    "current_ai_risk": "17.0",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 19,
+      "2026": 22,
+      "2027": 25,
+      "2028": 29
+    },
+    "regional_summary_snippet": "Sub-Saharan African 3D designers face the lowest AI risk as technology infrastructure develops. Mobi..."
+  },
+  {
+    "job_id": "020-2025",
+    "batch_id": "technology-design",
+    "job_title": "UI/UX Designer",
+    "job_description_snippet": "Designs user interfaces and experiences for websites and mobile apps...",
+    "industry": "Technology/Design",
+    "region": "North America",
+    "current_ai_risk": "36.4",
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 44,
+      "2026": 55,
+      "2027": 66,
+      "2028": 76
+    },
+    "regional_summary_snippet": "In North America, UI/UX Designer currently faces Low AI replacement risk at 36.4%. The region's matu..."
+  },
+  {
+    "job_id": "020-2025",
+    "batch_id": "technology-design",
+    "job_title": "UI/UX Designer",
+    "job_description_snippet": "Designs user interfaces and experiences for websites and mobile apps...",
+    "industry": "Technology/Design",
+    "region": "Europe",
+    "current_ai_risk": "33.2",
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 40,
+      "2026": 50,
+      "2027": 60,
+      "2028": 70
+    },
+    "regional_summary_snippet": "In Europe, UI/UX Designer currently faces Low AI replacement risk at 33.2%. Strong privacy regulatio..."
+  },
+  {
+    "job_id": "020-2025",
+    "batch_id": "technology-design",
+    "job_title": "UI/UX Designer",
+    "job_description_snippet": "Designs user interfaces and experiences for websites and mobile apps...",
+    "industry": "Technology/Design",
+    "region": "East Asia",
+    "current_ai_risk": "34.7",
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 42,
+      "2026": 52,
+      "2027": 63,
+      "2028": 73
+    },
+    "regional_summary_snippet": "In East Asia, UI/UX Designer currently faces Low AI replacement risk at 34.7%. The region's advanced..."
+  },
+  {
+    "job_id": "020-2025",
+    "batch_id": "technology-design",
+    "job_title": "UI/UX Designer",
+    "job_description_snippet": "Designs user interfaces and experiences for websites and mobile apps...",
+    "industry": "Technology/Design",
+    "region": "Southeast Asia",
+    "current_ai_risk": "2025-04-28T00:00:00.000Z",
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 34,
+      "2026": 43,
+      "2027": 51,
+      "2028": 60
+    },
+    "regional_summary_snippet": "In Southeast Asia, UI/UX Designer currently faces Low AI replacement risk at 28.4%. The region's rap..."
+  },
+  {
+    "job_id": "020-2025",
+    "batch_id": "technology-design",
+    "job_title": "UI/UX Designer",
+    "job_description_snippet": "Designs user interfaces and experiences for websites and mobile apps...",
+    "industry": "Technology/Design",
+    "region": "Australia & New Zealand",
+    "current_ai_risk": "30.0",
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 36,
+      "2026": 45,
+      "2027": 54,
+      "2028": 63
+    },
+    "regional_summary_snippet": "In Australia & New Zealand, UI/UX Designer currently faces Low AI replacement risk at 30.0%. The reg..."
+  },
+  {
+    "job_id": "020-2025",
+    "batch_id": "technology-design",
+    "job_title": "UI/UX Designer",
+    "job_description_snippet": "Designs user interfaces and experiences for websites and mobile apps...",
+    "industry": "Technology/Design",
+    "region": "South Asia",
+    "current_ai_risk": "2025-08-26T00:00:00.000Z",
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 32,
+      "2026": 40,
+      "2027": 48,
+      "2028": 56
+    },
+    "regional_summary_snippet": "In South Asia, UI/UX Designer currently faces Low AI replacement risk at 26.8%. India's large IT sec..."
+  },
+  {
+    "job_id": "020-2025",
+    "batch_id": "technology-design",
+    "job_title": "UI/UX Designer",
+    "job_description_snippet": "Designs user interfaces and experiences for websites and mobile apps...",
+    "industry": "Technology/Design",
+    "region": "Middle East & North Africa",
+    "current_ai_risk": "2025-04-28T00:00:00.000Z",
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 34,
+      "2026": 43,
+      "2027": 51,
+      "2028": 60
+    },
+    "regional_summary_snippet": "In Middle East & North Africa, UI/UX Designer currently faces Low AI replacement risk at 28.4%. Grow..."
+  },
+  {
+    "job_id": "020-2025",
+    "batch_id": "technology-design",
+    "job_title": "UI/UX Designer",
+    "job_description_snippet": "Designs user interfaces and experiences for websites and mobile apps...",
+    "industry": "Technology/Design",
+    "region": "Latin America",
+    "current_ai_risk": "2025-08-26T00:00:00.000Z",
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 32,
+      "2026": 40,
+      "2027": 48,
+      "2028": 56
+    },
+    "regional_summary_snippet": "In Latin America, UI/UX Designer currently faces Low AI replacement risk at 26.8%. Growing tech ecos..."
+  },
+  {
+    "job_id": "020-2025",
+    "batch_id": "technology-design",
+    "job_title": "UI/UX Designer",
+    "job_description_snippet": "Designs user interfaces and experiences for websites and mobile apps...",
+    "industry": "Technology/Design",
+    "region": "Sub-Saharan Africa",
+    "current_ai_risk": "2025-03-25T00:00:00.000Z",
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 30,
+      "2026": 38,
+      "2027": 46,
+      "2028": 53
+    },
+    "regional_summary_snippet": "In Sub-Saharan Africa, UI/UX Designer currently faces Low AI replacement risk at 25.3%. Mobile-first..."
+  },
+  {
+    "job_id": "021-2025",
+    "batch_id": "healthcare-creative",
+    "job_title": "Medical Illustrator",
+    "job_description_snippet": "Creates accurate visual representations of medical and scientific information...",
+    "industry": "Healthcare/Creative",
+    "region": "North America",
+    "current_ai_risk": "2025-03-10T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 12,
+      "2026": 15,
+      "2027": 19,
+      "2028": 22
+    },
+    "regional_summary_snippet": "In North America, Medical Illustrator currently faces Very Low AI replacement risk at 10.3%. The reg..."
+  },
+  {
+    "job_id": "021-2025",
+    "batch_id": "healthcare-creative",
+    "job_title": "Medical Illustrator",
+    "job_description_snippet": "Creates accurate visual representations of medical and scientific information...",
+    "industry": "Healthcare/Creative",
+    "region": "Europe",
+    "current_ai_risk": "2025-04-09T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 11,
+      "2026": 14,
+      "2027": 17,
+      "2028": 20
+    },
+    "regional_summary_snippet": "In Europe, Medical Illustrator currently faces Very Low AI replacement risk at 9.4%. Strong medical ..."
+  },
+  {
+    "job_id": "021-2025",
+    "batch_id": "healthcare-creative",
+    "job_title": "Medical Illustrator",
+    "job_description_snippet": "Creates accurate visual representations of medical and scientific information...",
+    "industry": "Healthcare/Creative",
+    "region": "East Asia",
+    "current_ai_risk": "2025-08-09T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 12,
+      "2026": 15,
+      "2027": 18,
+      "2028": 21
+    },
+    "regional_summary_snippet": "In East Asia, Medical Illustrator currently faces Very Low AI replacement risk at 9.8%. Advanced hea..."
+  },
+  {
+    "job_id": "021-2025",
+    "batch_id": "healthcare-creative",
+    "job_title": "Medical Illustrator",
+    "job_description_snippet": "Creates accurate visual representations of medical and scientific information...",
+    "industry": "Healthcare/Creative",
+    "region": "Southeast Asia",
+    "current_ai_risk": "8.0",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 10,
+      "2026": 12,
+      "2027": 14,
+      "2028": 17
+    },
+    "regional_summary_snippet": "In Southeast Asia, Medical Illustrator currently faces Very Low AI replacement risk at 8.0%. Growing..."
+  },
+  {
+    "job_id": "021-2025",
+    "batch_id": "healthcare-creative",
+    "job_title": "Medical Illustrator",
+    "job_description_snippet": "Creates accurate visual representations of medical and scientific information...",
+    "industry": "Healthcare/Creative",
+    "region": "Australia & New Zealand",
+    "current_ai_risk": "2025-05-08T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 10,
+      "2026": 13,
+      "2027": 15,
+      "2028": 18
+    },
+    "regional_summary_snippet": "In Australia & New Zealand, Medical Illustrator currently faces Very Low AI replacement risk at 8.5%..."
+  },
+  {
+    "job_id": "021-2025",
+    "batch_id": "healthcare-creative",
+    "job_title": "Medical Illustrator",
+    "job_description_snippet": "Creates accurate visual representations of medical and scientific information...",
+    "industry": "Healthcare/Creative",
+    "region": "South Asia",
+    "current_ai_risk": "2025-06-07T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 9,
+      "2026": 11,
+      "2027": 14,
+      "2028": 16
+    },
+    "regional_summary_snippet": "In South Asia, Medical Illustrator currently faces Very Low AI replacement risk at 7.6%. Large medic..."
+  },
+  {
+    "job_id": "021-2025",
+    "batch_id": "healthcare-creative",
+    "job_title": "Medical Illustrator",
+    "job_description_snippet": "Creates accurate visual representations of medical and scientific information...",
+    "industry": "Healthcare/Creative",
+    "region": "Middle East & North Africa",
+    "current_ai_risk": "8.0",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 10,
+      "2026": 12,
+      "2027": 14,
+      "2028": 17
+    },
+    "regional_summary_snippet": "In Middle East & North Africa, Medical Illustrator currently faces Very Low AI replacement risk at 8..."
+  },
+  {
+    "job_id": "021-2025",
+    "batch_id": "healthcare-creative",
+    "job_title": "Medical Illustrator",
+    "job_description_snippet": "Creates accurate visual representations of medical and scientific information...",
+    "industry": "Healthcare/Creative",
+    "region": "Latin America",
+    "current_ai_risk": "2025-06-07T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 9,
+      "2026": 11,
+      "2027": 14,
+      "2028": 16
+    },
+    "regional_summary_snippet": "In Latin America, Medical Illustrator currently faces Very Low AI replacement risk at 7.6%. Expandin..."
+  },
+  {
+    "job_id": "021-2025",
+    "batch_id": "healthcare-creative",
+    "job_title": "Medical Illustrator",
+    "job_description_snippet": "Creates accurate visual representations of medical and scientific information...",
+    "industry": "Healthcare/Creative",
+    "region": "Sub-Saharan Africa",
+    "current_ai_risk": "2025-01-07T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 9,
+      "2026": 11,
+      "2027": 13,
+      "2028": 15
+    },
+    "regional_summary_snippet": "In Sub-Saharan Africa, Medical Illustrator currently faces Very Low AI replacement risk at 7.1%. Gro..."
+  },
+  {
+    "job_id": "022-2025",
+    "batch_id": "personal-services-creative",
+    "job_title": "Tattoo Artist",
+    "job_description_snippet": "Designs and applies permanent decorative designs on clients' bodies...",
+    "industry": "Personal Services/Creative",
+    "region": "North America",
+    "current_ai_risk": "2025-08-17T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 21,
+      "2026": 27,
+      "2027": 32,
+      "2028": 37
+    },
+    "regional_summary_snippet": "In North America, Tattoo Artist currently faces Very Low AI replacement risk at 17.8%. Emerging robo..."
+  },
+  {
+    "job_id": "022-2025",
+    "batch_id": "personal-services-creative",
+    "job_title": "Tattoo Artist",
+    "job_description_snippet": "Designs and applies permanent decorative designs on clients' bodies...",
+    "industry": "Personal Services/Creative",
+    "region": "Europe",
+    "current_ai_risk": "2025-03-16T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 20,
+      "2026": 26,
+      "2027": 29,
+      "2028": 34
+    },
+    "regional_summary_snippet": "In Europe, Tattoo Artist currently faces Very Low AI replacement risk at 16.3%. European regulations..."
+  },
+  {
+    "job_id": "022-2025",
+    "batch_id": "personal-services-creative",
+    "job_title": "Tattoo Artist",
+    "job_description_snippet": "Designs and applies permanent decorative designs on clients' bodies...",
+    "industry": "Personal Services/Creative",
+    "region": "East Asia",
+    "current_ai_risk": "17.0",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 20,
+      "2026": 26,
+      "2027": 31,
+      "2028": 36
+    },
+    "regional_summary_snippet": "In East Asia, Tattoo Artist currently faces Very Low AI replacement risk at 17.0%. Japan and Korea's..."
+  },
+  {
+    "job_id": "022-2025",
+    "batch_id": "personal-services-creative",
+    "job_title": "Tattoo Artist",
+    "job_description_snippet": "Designs and applies permanent decorative designs on clients' bodies...",
+    "industry": "Personal Services/Creative",
+    "region": "Southeast Asia",
+    "current_ai_risk": "2025-09-13T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 17,
+      "2026": 21,
+      "2027": 25,
+      "2028": 29
+    },
+    "regional_summary_snippet": "In Southeast Asia, Tattoo Artist currently faces Very Low AI replacement risk at 13.9%. Traditional ..."
+  },
+  {
+    "job_id": "022-2025",
+    "batch_id": "personal-services-creative",
+    "job_title": "Tattoo Artist",
+    "job_description_snippet": "Designs and applies permanent decorative designs on clients' bodies...",
+    "industry": "Personal Services/Creative",
+    "region": "Australia & New Zealand",
+    "current_ai_risk": "2025-07-14T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 18,
+      "2026": 22,
+      "2027": 27,
+      "2028": 31
+    },
+    "regional_summary_snippet": "In Australia & New Zealand, Tattoo Artist currently faces Very Low AI replacement risk at 14.7%. Str..."
+  },
+  {
+    "job_id": "022-2025",
+    "batch_id": "personal-services-creative",
+    "job_title": "Tattoo Artist",
+    "job_description_snippet": "Designs and applies permanent decorative designs on clients' bodies...",
+    "industry": "Personal Services/Creative",
+    "region": "South Asia",
+    "current_ai_risk": "2025-01-13T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 16,
+      "2026": 20,
+      "2027": 24,
+      "2028": 28
+    },
+    "regional_summary_snippet": "In South Asia, Tattoo Artist currently faces Very Low AI replacement risk at 13.1%. Limited access t..."
+  },
+  {
+    "job_id": "022-2025",
+    "batch_id": "personal-services-creative",
+    "job_title": "Tattoo Artist",
+    "job_description_snippet": "Designs and applies permanent decorative designs on clients' bodies...",
+    "industry": "Personal Services/Creative",
+    "region": "Middle East & North Africa",
+    "current_ai_risk": "2025-09-13T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 17,
+      "2026": 21,
+      "2027": 25,
+      "2028": 29
+    },
+    "regional_summary_snippet": "In Middle East & North Africa, Tattoo Artist currently faces Very Low AI replacement risk at 13.9%. ..."
+  },
+  {
+    "job_id": "022-2025",
+    "batch_id": "personal-services-creative",
+    "job_title": "Tattoo Artist",
+    "job_description_snippet": "Designs and applies permanent decorative designs on clients' bodies...",
+    "industry": "Personal Services/Creative",
+    "region": "Latin America",
+    "current_ai_risk": "2025-01-13T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 16,
+      "2026": 20,
+      "2027": 24,
+      "2028": 28
+    },
+    "regional_summary_snippet": "In Latin America, Tattoo Artist currently faces Very Low AI replacement risk at 13.1%. Vibrant tatto..."
+  },
+  {
+    "job_id": "022-2025",
+    "batch_id": "personal-services-creative",
+    "job_title": "Tattoo Artist",
+    "job_description_snippet": "Designs and applies permanent decorative designs on clients' bodies...",
+    "industry": "Personal Services/Creative",
+    "region": "Sub-Saharan Africa",
+    "current_ai_risk": "2025-04-12T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 15,
+      "2026": 19,
+      "2027": 22,
+      "2028": 26
+    },
+    "regional_summary_snippet": "In Sub-Saharan Africa, Tattoo Artist currently faces Very Low AI replacement risk at 12.4%. Traditio..."
+  },
+  {
+    "job_id": "023-2025",
+    "batch_id": "creative-arts",
+    "job_title": "Fashion Designer",
+    "job_description_snippet": "Creates clothing, accessories, and footwear designs through sketching, fabric selection, and collect...",
+    "industry": "Creative Arts",
+    "region": "North America",
+    "current_ai_risk": "2025-03-13T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 16,
+      "2026": 20,
+      "2027": 24,
+      "2028": 28
+    },
+    "regional_summary_snippet": "In North America, Fashion Designer currently faces Very Low AI replacement risk at 13.3%. The region..."
+  },
+  {
+    "job_id": "023-2025",
+    "batch_id": "creative-arts",
+    "job_title": "Fashion Designer",
+    "job_description_snippet": "Creates clothing, accessories, and footwear designs through sketching, fabric selection, and collect...",
+    "industry": "Creative Arts",
+    "region": "Europe",
+    "current_ai_risk": "2025-02-12T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 15,
+      "2026": 18,
+      "2027": 22,
+      "2028": 26
+    },
+    "regional_summary_snippet": "In Europe, Fashion Designer currently faces Very Low AI replacement risk at 12.2%. Europe's strong f..."
+  },
+  {
+    "job_id": "023-2025",
+    "batch_id": "creative-arts",
+    "job_title": "Fashion Designer",
+    "job_description_snippet": "Creates clothing, accessories, and footwear designs through sketching, fabric selection, and collect...",
+    "industry": "Creative Arts",
+    "region": "East Asia",
+    "current_ai_risk": "2025-07-12T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 15,
+      "2026": 19,
+      "2027": 23,
+      "2028": 27
+    },
+    "regional_summary_snippet": "In East Asia, Fashion Designer currently faces Very Low AI replacement risk at 12.7%. The region com..."
+  },
+  {
+    "job_id": "023-2025",
+    "batch_id": "creative-arts",
+    "job_title": "Fashion Designer",
+    "job_description_snippet": "Creates clothing, accessories, and footwear designs through sketching, fabric selection, and collect...",
+    "industry": "Creative Arts",
+    "region": "Southeast Asia",
+    "current_ai_risk": "2025-04-10T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 13,
+      "2026": 16,
+      "2027": 19,
+      "2028": 22
+    },
+    "regional_summary_snippet": "In Southeast Asia, Fashion Designer currently faces Very Low AI replacement risk at 10.4%. The regio..."
+  },
+  {
+    "job_id": "023-2025",
+    "batch_id": "creative-arts",
+    "job_title": "Fashion Designer",
+    "job_description_snippet": "Creates clothing, accessories, and footwear designs through sketching, fabric selection, and collect...",
+    "industry": "Creative Arts",
+    "region": "Australia & New Zealand",
+    "current_ai_risk": "11.0",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 13,
+      "2026": 17,
+      "2027": 20,
+      "2028": 23
+    },
+    "regional_summary_snippet": "In Australia & New Zealand, Fashion Designer currently faces Very Low AI replacement risk at 11.0%. ..."
+  },
+  {
+    "job_id": "023-2025",
+    "batch_id": "creative-arts",
+    "job_title": "Fashion Designer",
+    "job_description_snippet": "Creates clothing, accessories, and footwear designs through sketching, fabric selection, and collect...",
+    "industry": "Creative Arts",
+    "region": "South Asia",
+    "current_ai_risk": "2025-08-09T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 12,
+      "2026": 15,
+      "2027": 18,
+      "2028": 21
+    },
+    "regional_summary_snippet": "In South Asia, Fashion Designer currently faces Very Low AI replacement risk at 9.8%. The region's r..."
+  },
+  {
+    "job_id": "023-2025",
+    "batch_id": "creative-arts",
+    "job_title": "Fashion Designer",
+    "job_description_snippet": "Creates clothing, accessories, and footwear designs through sketching, fabric selection, and collect...",
+    "industry": "Creative Arts",
+    "region": "Middle East & North Africa",
+    "current_ai_risk": "2025-04-10T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 13,
+      "2026": 16,
+      "2027": 19,
+      "2028": 22
+    },
+    "regional_summary_snippet": "In Middle East & North Africa, Fashion Designer currently faces Very Low AI replacement risk at 10.4..."
+  },
+  {
+    "job_id": "023-2025",
+    "batch_id": "creative-arts",
+    "job_title": "Fashion Designer",
+    "job_description_snippet": "Creates clothing, accessories, and footwear designs through sketching, fabric selection, and collect...",
+    "industry": "Creative Arts",
+    "region": "Latin America",
+    "current_ai_risk": "2025-08-09T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 12,
+      "2026": 15,
+      "2027": 18,
+      "2028": 21
+    },
+    "regional_summary_snippet": "In Latin America, Fashion Designer currently faces Very Low AI replacement risk at 9.8%. The region'..."
+  },
+  {
+    "job_id": "023-2025",
+    "batch_id": "creative-arts",
+    "job_title": "Fashion Designer",
+    "job_description_snippet": "Creates clothing, accessories, and footwear designs through sketching, fabric selection, and collect...",
+    "industry": "Creative Arts",
+    "region": "Sub-Saharan Africa",
+    "current_ai_risk": "2025-03-09T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 11,
+      "2026": 14,
+      "2027": 17,
+      "2028": 20
+    },
+    "regional_summary_snippet": "In Sub-Saharan Africa, Fashion Designer currently faces Very Low AI replacement risk at 9.3%. The re..."
+  },
+  {
+    "job_id": "024-2025",
+    "batch_id": "creative-arts",
+    "job_title": "Visual Artist",
+    "job_description_snippet": "Creates original visual artwork in various mediums including painting, drawing, sculpture, and digit...",
+    "industry": "Creative Arts",
+    "region": "North America",
+    "current_ai_risk": "6.0",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 7,
+      "2026": 9,
+      "2027": 11,
+      "2028": 13
+    },
+    "regional_summary_snippet": "In North America, Visual Artist currently faces Very Low AI replacement risk at 6.0%. The region's r..."
+  },
+  {
+    "job_id": "024-2025",
+    "batch_id": "creative-arts",
+    "job_title": "Visual Artist",
+    "job_description_snippet": "Creates original visual artwork in various mediums including painting, drawing, sculpture, and digit...",
+    "industry": "Creative Arts",
+    "region": "Europe",
+    "current_ai_risk": "2025-05-05T00:00:00.000Z",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 7,
+      "2026": 8,
+      "2027": 10,
+      "2028": 12
+    },
+    "regional_summary_snippet": "In Europe, Visual Artist currently faces Very Low AI replacement risk at 5.5%. Europe's deep artisti..."
+  },
+  {
+    "job_id": "024-2025",
+    "batch_id": "creative-arts",
+    "job_title": "Visual Artist",
+    "job_description_snippet": "Creates original visual artwork in various mediums including painting, drawing, sculpture, and digit...",
+    "industry": "Creative Arts",
+    "region": "East Asia",
+    "current_ai_risk": "2025-07-05T00:00:00.000Z",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 7,
+      "2026": 9,
+      "2027": 10,
+      "2028": 12
+    },
+    "regional_summary_snippet": "In East Asia, Visual Artist currently faces Very Low AI replacement risk at 5.7%. The region balance..."
+  },
+  {
+    "job_id": "024-2025",
+    "batch_id": "creative-arts",
+    "job_title": "Visual Artist",
+    "job_description_snippet": "Creates original visual artwork in various mediums including painting, drawing, sculpture, and digit...",
+    "industry": "Creative Arts",
+    "region": "Southeast Asia",
+    "current_ai_risk": "2025-07-04T00:00:00.000Z",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 6,
+      "2026": 7,
+      "2027": 8,
+      "2028": 10
+    },
+    "regional_summary_snippet": "In Southeast Asia, Visual Artist currently faces Very Low AI replacement risk at 4.7%. The region's ..."
+  },
+  {
+    "job_id": "024-2025",
+    "batch_id": "creative-arts",
+    "job_title": "Visual Artist",
+    "job_description_snippet": "Creates original visual artwork in various mediums including painting, drawing, sculpture, and digit...",
+    "industry": "Creative Arts",
+    "region": "Australia & New Zealand",
+    "current_ai_risk": "2025-09-04T00:00:00.000Z",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 6,
+      "2026": 7,
+      "2027": 9,
+      "2028": 10
+    },
+    "regional_summary_snippet": "In Australia & New Zealand, Visual Artist currently faces Very Low AI replacement risk at 4.9%. The ..."
+  },
+  {
+    "job_id": "024-2025",
+    "batch_id": "creative-arts",
+    "job_title": "Visual Artist",
+    "job_description_snippet": "Creates original visual artwork in various mediums including painting, drawing, sculpture, and digit...",
+    "industry": "Creative Arts",
+    "region": "South Asia",
+    "current_ai_risk": "2025-04-04T00:00:00.000Z",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 5,
+      "2026": 7,
+      "2027": 8,
+      "2028": 9
+    },
+    "regional_summary_snippet": "In South Asia, Visual Artist currently faces Very Low AI replacement risk at 4.4%. The region's anci..."
+  },
+  {
+    "job_id": "024-2025",
+    "batch_id": "creative-arts",
+    "job_title": "Visual Artist",
+    "job_description_snippet": "Creates original visual artwork in various mediums including painting, drawing, sculpture, and digit...",
+    "industry": "Creative Arts",
+    "region": "Middle East & North Africa",
+    "current_ai_risk": "2025-07-04T00:00:00.000Z",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 6,
+      "2026": 7,
+      "2027": 8,
+      "2028": 10
+    },
+    "regional_summary_snippet": "In Middle East & North Africa, Visual Artist currently faces Very Low AI replacement risk at 4.7%. T..."
+  },
+  {
+    "job_id": "024-2025",
+    "batch_id": "creative-arts",
+    "job_title": "Visual Artist",
+    "job_description_snippet": "Creates original visual artwork in various mediums including painting, drawing, sculpture, and digit...",
+    "industry": "Creative Arts",
+    "region": "Latin America",
+    "current_ai_risk": "2025-04-04T00:00:00.000Z",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 5,
+      "2026": 7,
+      "2027": 8,
+      "2028": 9
+    },
+    "regional_summary_snippet": "In Latin America, Visual Artist currently faces Very Low AI replacement risk at 4.4%. The region's s..."
+  },
+  {
+    "job_id": "024-2025",
+    "batch_id": "creative-arts",
+    "job_title": "Visual Artist",
+    "job_description_snippet": "Creates original visual artwork in various mediums including painting, drawing, sculpture, and digit...",
+    "industry": "Creative Arts",
+    "region": "Sub-Saharan Africa",
+    "current_ai_risk": "2025-02-04T00:00:00.000Z",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 5,
+      "2026": 6,
+      "2027": 8,
+      "2028": 9
+    },
+    "regional_summary_snippet": "In Sub-Saharan Africa, Visual Artist currently faces Very Low AI replacement risk at 4.2%. The regio..."
+  },
+  {
+    "job_id": "025-2025",
+    "batch_id": "creative-arts-technology",
+    "job_title": "3D Modeler",
+    "job_description_snippet": "Designs and creates three-dimensional digital models using specialized software for video games, fil...",
+    "industry": "Creative Arts/Technology",
+    "region": "North America",
+    "current_ai_risk": "38.9",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 47,
+      "2026": 58,
+      "2027": 70,
+      "2028": 82
+    },
+    "regional_summary_snippet": "In North America, 3D Modeler currently faces Low AI replacement risk at 38.9%. The region's advanced..."
+  },
+  {
+    "job_id": "025-2025",
+    "batch_id": "creative-arts-technology",
+    "job_title": "3D Modeler",
+    "job_description_snippet": "Designs and creates three-dimensional digital models using specialized software for video games, fil...",
+    "industry": "Creative Arts/Technology",
+    "region": "Europe",
+    "current_ai_risk": "35.5",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 43,
+      "2026": 53,
+      "2027": 64,
+      "2028": 75
+    },
+    "regional_summary_snippet": "In Europe, 3D Modeler currently faces Low AI replacement risk at 35.5%. Europe's strong creative ind..."
+  },
+  {
+    "job_id": "025-2025",
+    "batch_id": "creative-arts-technology",
+    "job_title": "3D Modeler",
+    "job_description_snippet": "Designs and creates three-dimensional digital models using specialized software for video games, fil...",
+    "industry": "Creative Arts/Technology",
+    "region": "East Asia",
+    "current_ai_risk": "37.2",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 45,
+      "2026": 56,
+      "2027": 67,
+      "2028": 78
+    },
+    "regional_summary_snippet": "In East Asia, 3D Modeler currently faces Low AI replacement risk at 37.2%. The region's massive game..."
+  },
+  {
+    "job_id": "025-2025",
+    "batch_id": "creative-arts-technology",
+    "job_title": "3D Modeler",
+    "job_description_snippet": "Designs and creates three-dimensional digital models using specialized software for video games, fil...",
+    "industry": "Creative Arts/Technology",
+    "region": "Southeast Asia",
+    "current_ai_risk": "2025-05-30T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 37,
+      "2026": 46,
+      "2027": 55,
+      "2028": 64
+    },
+    "regional_summary_snippet": "In Southeast Asia, 3D Modeler currently faces Low AI replacement risk at 30.5%. The region serves as..."
+  },
+  {
+    "job_id": "025-2025",
+    "batch_id": "creative-arts-technology",
+    "job_title": "3D Modeler",
+    "job_description_snippet": "Designs and creates three-dimensional digital models using specialized software for video games, fil...",
+    "industry": "Creative Arts/Technology",
+    "region": "Australia & New Zealand",
+    "current_ai_risk": "32.2",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 39,
+      "2026": 48,
+      "2027": 58,
+      "2028": 68
+    },
+    "regional_summary_snippet": "In Australia & New Zealand, 3D Modeler currently faces Low AI replacement risk at 32.2%. The region'..."
+  },
+  {
+    "job_id": "025-2025",
+    "batch_id": "creative-arts-technology",
+    "job_title": "3D Modeler",
+    "job_description_snippet": "Designs and creates three-dimensional digital models using specialized software for video games, fil...",
+    "industry": "Creative Arts/Technology",
+    "region": "South Asia",
+    "current_ai_risk": "2025-08-28T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 35,
+      "2026": 43,
+      "2027": 52,
+      "2028": 61
+    },
+    "regional_summary_snippet": "In South Asia, 3D Modeler currently faces Low AI replacement risk at 28.8%. The region's large outso..."
+  },
+  {
+    "job_id": "025-2025",
+    "batch_id": "creative-arts-technology",
+    "job_title": "3D Modeler",
+    "job_description_snippet": "Designs and creates three-dimensional digital models using specialized software for video games, fil...",
+    "industry": "Creative Arts/Technology",
+    "region": "Middle East & North Africa",
+    "current_ai_risk": "2025-05-30T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 37,
+      "2026": 46,
+      "2027": 55,
+      "2028": 64
+    },
+    "regional_summary_snippet": "In Middle East & North Africa, 3D Modeler currently faces Low AI replacement risk at 30.5%. The regi..."
+  },
+  {
+    "job_id": "025-2025",
+    "batch_id": "creative-arts-technology",
+    "job_title": "3D Modeler",
+    "job_description_snippet": "Designs and creates three-dimensional digital models using specialized software for video games, fil...",
+    "industry": "Creative Arts/Technology",
+    "region": "Latin America",
+    "current_ai_risk": "2025-08-28T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 35,
+      "2026": 43,
+      "2027": 52,
+      "2028": 61
+    },
+    "regional_summary_snippet": "In Latin America, 3D Modeler currently faces Low AI replacement risk at 28.8%. The region's growing ..."
+  },
+  {
+    "job_id": "025-2025",
+    "batch_id": "creative-arts-technology",
+    "job_title": "3D Modeler",
+    "job_description_snippet": "Designs and creates three-dimensional digital models using specialized software for video games, fil...",
+    "industry": "Creative Arts/Technology",
+    "region": "Sub-Saharan Africa",
+    "current_ai_risk": "2025-01-27T00:00:00.000Z",
+    "risk_category": "Low",
+    "projections": {
+      "2025": 33,
+      "2026": 41,
+      "2027": 49,
+      "2028": 57
+    },
+    "regional_summary_snippet": "In Sub-Saharan Africa, 3D Modeler currently faces Low AI replacement risk at 27.1%. The region's eme..."
+  },
+  {
+    "job_id": "026-2025",
+    "batch_id": "film-tv",
+    "job_title": "Video Editor",
+    "job_description_snippet": "Assembles raw footage into cohesive narratives, selecting shots and creating sequences through editi...",
+    "industry": "Film & TV",
+    "region": "North America",
+    "current_ai_risk": 37,
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 44,
+      "2026": 56,
+      "2027": 67,
+      "2028": 78
+    },
+    "regional_summary_snippet": "In North America, Video Editor currently faces Low AI replacement risk at 37%. The region leads in A..."
+  },
+  {
+    "job_id": "026-2025",
+    "batch_id": "film-tv",
+    "job_title": "Video Editor",
+    "job_description_snippet": "Assembles raw footage into cohesive narratives, selecting shots and creating sequences through editi...",
+    "industry": "Film & TV",
+    "region": "Europe",
+    "current_ai_risk": 34,
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 41,
+      "2026": 51,
+      "2027": 61,
+      "2028": 71
+    },
+    "regional_summary_snippet": "In Europe, Video Editor currently faces Low AI replacement risk at 34%. Strong regulatory frameworks..."
+  },
+  {
+    "job_id": "026-2025",
+    "batch_id": "film-tv",
+    "job_title": "Video Editor",
+    "job_description_snippet": "Assembles raw footage into cohesive narratives, selecting shots and creating sequences through editi...",
+    "industry": "Film & TV",
+    "region": "East Asia",
+    "current_ai_risk": 36,
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 43,
+      "2026": 54,
+      "2027": 65,
+      "2028": 76
+    },
+    "regional_summary_snippet": "In East Asia, Video Editor currently faces Low AI replacement risk at 36%. Japan, South Korea, and C..."
+  },
+  {
+    "job_id": "026-2025",
+    "batch_id": "film-tv",
+    "job_title": "Video Editor",
+    "job_description_snippet": "Assembles raw footage into cohesive narratives, selecting shots and creating sequences through editi...",
+    "industry": "Film & TV",
+    "region": "Southeast Asia",
+    "current_ai_risk": 29,
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 35,
+      "2026": 44,
+      "2027": 52,
+      "2028": 61
+    },
+    "regional_summary_snippet": "In Southeast Asia, Video Editor currently faces Low AI replacement risk at 29%. The region's growing..."
+  },
+  {
+    "job_id": "026-2025",
+    "batch_id": "film-tv",
+    "job_title": "Video Editor",
+    "job_description_snippet": "Assembles raw footage into cohesive narratives, selecting shots and creating sequences through editi...",
+    "industry": "Film & TV",
+    "region": "Australia & New Zealand",
+    "current_ai_risk": 31,
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 37,
+      "2026": 46,
+      "2027": 56,
+      "2028": 65
+    },
+    "regional_summary_snippet": "In Australia & New Zealand, Video Editor currently faces Low AI replacement risk at 31%. The region'..."
+  },
+  {
+    "job_id": "026-2025",
+    "batch_id": "film-tv",
+    "job_title": "Video Editor",
+    "job_description_snippet": "Assembles raw footage into cohesive narratives, selecting shots and creating sequences through editi...",
+    "industry": "Film & TV",
+    "region": "South Asia",
+    "current_ai_risk": 28,
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 33,
+      "2026": 42,
+      "2027": 50,
+      "2028": 58
+    },
+    "regional_summary_snippet": "In South Asia, Video Editor currently faces Low AI replacement risk at 28%. India's massive film and..."
+  },
+  {
+    "job_id": "026-2025",
+    "batch_id": "film-tv",
+    "job_title": "Video Editor",
+    "job_description_snippet": "Assembles raw footage into cohesive narratives, selecting shots and creating sequences through editi...",
+    "industry": "Film & TV",
+    "region": "Middle East & North Africa",
+    "current_ai_risk": 29,
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 35,
+      "2026": 44,
+      "2027": 52,
+      "2028": 61
+    },
+    "regional_summary_snippet": "In Middle East & North Africa, Video Editor currently faces Low AI replacement risk at 29%. Countrie..."
+  },
+  {
+    "job_id": "026-2025",
+    "batch_id": "film-tv",
+    "job_title": "Video Editor",
+    "job_description_snippet": "Assembles raw footage into cohesive narratives, selecting shots and creating sequences through editi...",
+    "industry": "Film & TV",
+    "region": "Latin America",
+    "current_ai_risk": 28,
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 33,
+      "2026": 42,
+      "2027": 50,
+      "2028": 58
+    },
+    "regional_summary_snippet": "In Latin America, Video Editor currently faces Low AI replacement risk at 28%. The region's vibrant ..."
+  },
+  {
+    "job_id": "026-2025",
+    "batch_id": "film-tv",
+    "job_title": "Video Editor",
+    "job_description_snippet": "Assembles raw footage into cohesive narratives, selecting shots and creating sequences through editi...",
+    "industry": "Film & TV",
+    "region": "Sub-Saharan Africa",
+    "current_ai_risk": 26,
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 31,
+      "2026": 39,
+      "2027": 47,
+      "2028": 55
+    },
+    "regional_summary_snippet": "In Sub-Saharan Africa, Video Editor currently faces Low AI replacement risk at 26%. The region's eme..."
+  },
+  {
+    "job_id": "027-2025",
+    "batch_id": "finance",
+    "job_title": "Fund Manager",
+    "job_description_snippet": "Directs investment strategies for pooled vehicles, making allocation decisions while leveraging AI a...",
+    "industry": "Finance",
+    "region": "North America",
+    "current_ai_risk": 43,
+    "risk_category": "High",
+    "projections": {
+      "2025": 52,
+      "2026": 65,
+      "2027": 77,
+      "2028": 90
+    },
+    "regional_summary_snippet": "In North America, Fund Manager currently faces Moderate AI replacement risk at 43%. The region leads..."
+  },
+  {
+    "job_id": "027-2025",
+    "batch_id": "finance",
+    "job_title": "Fund Manager",
+    "job_description_snippet": "Directs investment strategies for pooled vehicles, making allocation decisions while leveraging AI a...",
+    "industry": "Finance",
+    "region": "Europe",
+    "current_ai_risk": 39,
+    "risk_category": "High",
+    "projections": {
+      "2025": 47,
+      "2026": 59,
+      "2027": 70,
+      "2028": 82
+    },
+    "regional_summary_snippet": "In Europe, Fund Manager currently faces Low AI replacement risk at 39%. Strong regulatory frameworks..."
+  },
+  {
+    "job_id": "027-2025",
+    "batch_id": "finance",
+    "job_title": "Fund Manager",
+    "job_description_snippet": "Directs investment strategies for pooled vehicles, making allocation decisions while leveraging AI a...",
+    "industry": "Finance",
+    "region": "East Asia",
+    "current_ai_risk": 41,
+    "risk_category": "High",
+    "projections": {
+      "2025": 49,
+      "2026": 62,
+      "2027": 74,
+      "2028": 86
+    },
+    "regional_summary_snippet": "In East Asia, Fund Manager currently faces Moderate AI replacement risk at 41%. Countries like Singa..."
+  },
+  {
+    "job_id": "027-2025",
+    "batch_id": "finance",
+    "job_title": "Fund Manager",
+    "job_description_snippet": "Directs investment strategies for pooled vehicles, making allocation decisions while leveraging AI a...",
+    "industry": "Finance",
+    "region": "Southeast Asia",
+    "current_ai_risk": 33,
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 40,
+      "2026": 50,
+      "2027": 59,
+      "2028": 69
+    },
+    "regional_summary_snippet": "In Southeast Asia, Fund Manager currently faces Low AI replacement risk at 33%. The region's develop..."
+  },
+  {
+    "job_id": "027-2025",
+    "batch_id": "finance",
+    "job_title": "Fund Manager",
+    "job_description_snippet": "Directs investment strategies for pooled vehicles, making allocation decisions while leveraging AI a...",
+    "industry": "Finance",
+    "region": "Australia & New Zealand",
+    "current_ai_risk": 35,
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 42,
+      "2026": 53,
+      "2027": 63,
+      "2028": 74
+    },
+    "regional_summary_snippet": "In Australia & New Zealand, Fund Manager currently faces Low AI replacement risk at 35%. Strong supe..."
+  },
+  {
+    "job_id": "027-2025",
+    "batch_id": "finance",
+    "job_title": "Fund Manager",
+    "job_description_snippet": "Directs investment strategies for pooled vehicles, making allocation decisions while leveraging AI a...",
+    "industry": "Finance",
+    "region": "South Asia",
+    "current_ai_risk": 31,
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 37,
+      "2026": 47,
+      "2027": 56,
+      "2028": 65
+    },
+    "regional_summary_snippet": "In South Asia, Fund Manager currently faces Low AI replacement risk at 31%. India's large asset mana..."
+  },
+  {
+    "job_id": "027-2025",
+    "batch_id": "finance",
+    "job_title": "Fund Manager",
+    "job_description_snippet": "Directs investment strategies for pooled vehicles, making allocation decisions while leveraging AI a...",
+    "industry": "Finance",
+    "region": "Middle East & North Africa",
+    "current_ai_risk": 33,
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 40,
+      "2026": 50,
+      "2027": 59,
+      "2028": 69
+    },
+    "regional_summary_snippet": "In Middle East & North Africa, Fund Manager currently faces Low AI replacement risk at 33%. Gulf cou..."
+  },
+  {
+    "job_id": "027-2025",
+    "batch_id": "finance",
+    "job_title": "Fund Manager",
+    "job_description_snippet": "Directs investment strategies for pooled vehicles, making allocation decisions while leveraging AI a...",
+    "industry": "Finance",
+    "region": "Latin America",
+    "current_ai_risk": 31,
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 37,
+      "2026": 47,
+      "2027": 56,
+      "2028": 65
+    },
+    "regional_summary_snippet": "In Latin America, Fund Manager currently faces Low AI replacement risk at 31%. The region's developi..."
+  },
+  {
+    "job_id": "027-2025",
+    "batch_id": "finance",
+    "job_title": "Fund Manager",
+    "job_description_snippet": "Directs investment strategies for pooled vehicles, making allocation decisions while leveraging AI a...",
+    "industry": "Finance",
+    "region": "Sub-Saharan Africa",
+    "current_ai_risk": 30,
+    "risk_category": "Moderate",
+    "projections": {
+      "2025": 36,
+      "2026": 45,
+      "2027": 54,
+      "2028": 63
+    },
+    "regional_summary_snippet": "In Sub-Saharan Africa, Fund Manager currently faces Low AI replacement risk at 30%. The region's eme..."
+  },
+  {
+    "job_id": "028-2025",
+    "batch_id": "finance",
+    "job_title": "Bookkeeper",
+    "job_description_snippet": "Maintains financial records, processes transactions, reconciles accounts, and prepares basic financi...",
+    "industry": "Finance",
+    "region": "North America",
+    "current_ai_risk": "62.49",
+    "risk_category": "High",
+    "projections": {
+      "2025": 76,
+      "2026": 94,
+      "2027": 112,
+      "2028": 131
+    },
+    "regional_summary_snippet": "In North America, Bookkeeper currently faces High AI replacement risk at 62.49%. The region's advanc..."
+  },
+  {
+    "job_id": "028-2025",
+    "batch_id": "finance",
+    "job_title": "Bookkeeper",
+    "job_description_snippet": "Maintains financial records, processes transactions, reconciles accounts, and prepares basic financi...",
+    "industry": "Finance",
+    "region": "Europe",
+    "current_ai_risk": "57.04",
+    "risk_category": "High",
+    "projections": {
+      "2025": 68,
+      "2026": 86,
+      "2027": 103,
+      "2028": 120
+    },
+    "regional_summary_snippet": "In Europe, Bookkeeper currently faces Moderate AI replacement risk at 57.04%. GDPR and strict financ..."
+  },
+  {
+    "job_id": "028-2025",
+    "batch_id": "finance",
+    "job_title": "Bookkeeper",
+    "job_description_snippet": "Maintains financial records, processes transactions, reconciles accounts, and prepares basic financi...",
+    "industry": "Finance",
+    "region": "East Asia",
+    "current_ai_risk": "59.75",
+    "risk_category": "High",
+    "projections": {
+      "2025": 71,
+      "2026": 89,
+      "2027": 107,
+      "2028": 126
+    },
+    "regional_summary_snippet": "In East Asia, Bookkeeper currently faces Moderate AI replacement risk at 59.75%. The region's rapid ..."
+  },
+  {
+    "job_id": "028-2025",
+    "batch_id": "finance",
+    "job_title": "Bookkeeper",
+    "job_description_snippet": "Maintains financial records, processes transactions, reconciles accounts, and prepares basic financi...",
+    "industry": "Finance",
+    "region": "Southeast Asia",
+    "current_ai_risk": "48.89",
+    "risk_category": "High",
+    "projections": {
+      "2025": 58,
+      "2026": 73,
+      "2027": 88,
+      "2028": 103
+    },
+    "regional_summary_snippet": "In Southeast Asia, Bookkeeper currently faces Moderate AI replacement risk at 48.89%. Variable digit..."
+  },
+  {
+    "job_id": "028-2025",
+    "batch_id": "finance",
+    "job_title": "Bookkeeper",
+    "job_description_snippet": "Maintains financial records, processes transactions, reconciles accounts, and prepares basic financi...",
+    "industry": "Finance",
+    "region": "Australia & New Zealand",
+    "current_ai_risk": "51.6",
+    "risk_category": "High",
+    "projections": {
+      "2025": 62,
+      "2026": 77,
+      "2027": 93,
+      "2028": 108
+    },
+    "regional_summary_snippet": "In Australia & New Zealand, Bookkeeper currently faces Moderate AI replacement risk at 51.60%. Stron..."
+  },
+  {
+    "job_id": "028-2025",
+    "batch_id": "finance",
+    "job_title": "Bookkeeper",
+    "job_description_snippet": "Maintains financial records, processes transactions, reconciles accounts, and prepares basic financi...",
+    "industry": "Finance",
+    "region": "South Asia",
+    "current_ai_risk": "46.18",
+    "risk_category": "High",
+    "projections": {
+      "2025": 55,
+      "2026": 69,
+      "2027": 83,
+      "2028": 97
+    },
+    "regional_summary_snippet": "In South Asia, Bookkeeper currently faces Moderate AI replacement risk at 46.18%. India's large acco..."
+  },
+  {
+    "job_id": "028-2025",
+    "batch_id": "finance",
+    "job_title": "Bookkeeper",
+    "job_description_snippet": "Maintains financial records, processes transactions, reconciles accounts, and prepares basic financi...",
+    "industry": "Finance",
+    "region": "Middle East & North Africa",
+    "current_ai_risk": "48.89",
+    "risk_category": "High",
+    "projections": {
+      "2025": 59,
+      "2026": 73,
+      "2027": 88,
+      "2028": 103
+    },
+    "regional_summary_snippet": "In Middle East & North Africa, Bookkeeper currently faces Moderate AI replacement risk at 48.89%. Gu..."
+  },
+  {
+    "job_id": "028-2025",
+    "batch_id": "finance",
+    "job_title": "Bookkeeper",
+    "job_description_snippet": "Maintains financial records, processes transactions, reconciles accounts, and prepares basic financi...",
+    "industry": "Finance",
+    "region": "Latin America",
+    "current_ai_risk": "46.18",
+    "risk_category": "High",
+    "projections": {
+      "2025": 55,
+      "2026": 69,
+      "2027": 83,
+      "2028": 97
+    },
+    "regional_summary_snippet": "In Latin America, Bookkeeper currently faces Moderate AI replacement risk at 46.18%. Complex tax sys..."
+  },
+  {
+    "job_id": "028-2025",
+    "batch_id": "finance",
+    "job_title": "Bookkeeper",
+    "job_description_snippet": "Maintains financial records, processes transactions, reconciles accounts, and prepares basic financi...",
+    "industry": "Finance",
+    "region": "Sub-Saharan Africa",
+    "current_ai_risk": "43.45",
+    "risk_category": "High",
+    "projections": {
+      "2025": 52,
+      "2026": 65,
+      "2027": 78,
+      "2028": 91
+    },
+    "regional_summary_snippet": "In Sub-Saharan Africa, Bookkeeper currently faces Moderate AI replacement risk at 43.45%. Mobile mon..."
+  },
+  {
+    "job_id": "029-2025",
+    "batch_id": "legal-services",
+    "job_title": "Immigration Lawyer",
+    "job_description_snippet": "Assists clients with immigration law including visas, green cards, citizenship, deportation defense,...",
+    "industry": "Legal Services",
+    "region": "North America",
+    "current_ai_risk": "2025-02-08T00:00:00.000Z",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 10,
+      "2026": 12,
+      "2027": 14,
+      "2028": 17
+    },
+    "regional_summary_snippet": "In North America, Immigration Lawyer currently faces Very Low AI replacement risk at 8.02%. Immigrat..."
+  },
+  {
+    "job_id": "029-2025",
+    "batch_id": "legal-services",
+    "job_title": "Immigration Lawyer",
+    "job_description_snippet": "Assists clients with immigration law including visas, green cards, citizenship, deportation defense,...",
+    "industry": "Legal Services",
+    "region": "Europe",
+    "current_ai_risk": "7.33",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 9,
+      "2026": 11,
+      "2027": 13,
+      "2028": 15
+    },
+    "regional_summary_snippet": "In Europe, Immigration Lawyer currently faces Very Low AI replacement risk at 7.33%. European immigr..."
+  },
+  {
+    "job_id": "029-2025",
+    "batch_id": "legal-services",
+    "job_title": "Immigration Lawyer",
+    "job_description_snippet": "Assists clients with immigration law including visas, green cards, citizenship, deportation defense,...",
+    "industry": "Legal Services",
+    "region": "East Asia",
+    "current_ai_risk": "7.67",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 9,
+      "2026": 12,
+      "2027": 14,
+      "2028": 16
+    },
+    "regional_summary_snippet": "In East Asia, Immigration Lawyer currently faces Very Low AI replacement risk at 7.67%. Immigration ..."
+  },
+  {
+    "job_id": "029-2025",
+    "batch_id": "legal-services",
+    "job_title": "Immigration Lawyer",
+    "job_description_snippet": "Assists clients with immigration law including visas, green cards, citizenship, deportation defense,...",
+    "industry": "Legal Services",
+    "region": "Southeast Asia",
+    "current_ai_risk": "6.28",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 8,
+      "2026": 9,
+      "2027": 11,
+      "2028": 13
+    },
+    "regional_summary_snippet": "In Southeast Asia, Immigration Lawyer currently faces Very Low AI replacement risk at 6.28%. Immigra..."
+  },
+  {
+    "job_id": "029-2025",
+    "batch_id": "legal-services",
+    "job_title": "Immigration Lawyer",
+    "job_description_snippet": "Assists clients with immigration law including visas, green cards, citizenship, deportation defense,...",
+    "industry": "Legal Services",
+    "region": "Australia & New Zealand",
+    "current_ai_risk": "6.63",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 8,
+      "2026": 10,
+      "2027": 12,
+      "2028": 14
+    },
+    "regional_summary_snippet": "In Australia & New Zealand, Immigration Lawyer currently faces Very Low AI replacement risk at 6.63%..."
+  },
+  {
+    "job_id": "029-2025",
+    "batch_id": "legal-services",
+    "job_title": "Immigration Lawyer",
+    "job_description_snippet": "Assists clients with immigration law including visas, green cards, citizenship, deportation defense,...",
+    "industry": "Legal Services",
+    "region": "South Asia",
+    "current_ai_risk": "5.93",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 7,
+      "2026": 9,
+      "2027": 11,
+      "2028": 12
+    },
+    "regional_summary_snippet": "In South Asia, Immigration Lawyer currently faces Very Low AI replacement risk at 5.93%. Immigration..."
+  },
+  {
+    "job_id": "029-2025",
+    "batch_id": "legal-services",
+    "job_title": "Immigration Lawyer",
+    "job_description_snippet": "Assists clients with immigration law including visas, green cards, citizenship, deportation defense,...",
+    "industry": "Legal Services",
+    "region": "Middle East & North Africa",
+    "current_ai_risk": "6.28",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 8,
+      "2026": 9,
+      "2027": 11,
+      "2028": 13
+    },
+    "regional_summary_snippet": "In Middle East & North Africa, Immigration Lawyer currently faces Very Low AI replacement risk at 6...."
+  },
+  {
+    "job_id": "029-2025",
+    "batch_id": "legal-services",
+    "job_title": "Immigration Lawyer",
+    "job_description_snippet": "Assists clients with immigration law including visas, green cards, citizenship, deportation defense,...",
+    "industry": "Legal Services",
+    "region": "Latin America",
+    "current_ai_risk": "5.93",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 7,
+      "2026": 9,
+      "2027": 11,
+      "2028": 12
+    },
+    "regional_summary_snippet": "In Latin America, Immigration Lawyer currently faces Very Low AI replacement risk at 5.93%. Immigrat..."
+  },
+  {
+    "job_id": "029-2025",
+    "batch_id": "legal-services",
+    "job_title": "Immigration Lawyer",
+    "job_description_snippet": "Assists clients with immigration law including visas, green cards, citizenship, deportation defense,...",
+    "industry": "Legal Services",
+    "region": "Sub-Saharan Africa",
+    "current_ai_risk": "5.58",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 7,
+      "2026": 8,
+      "2027": 10,
+      "2028": 12
+    },
+    "regional_summary_snippet": "In Sub-Saharan Africa, Immigration Lawyer currently faces Very Low AI replacement risk at 5.58%. Imm..."
+  },
+  {
+    "job_id": "030-2025",
+    "batch_id": "legal-services",
+    "job_title": "Criminal Lawyer",
+    "job_description_snippet": "Represents defendants in criminal cases, conducting investigations, negotiating plea deals, presenti...",
+    "industry": "Legal Services",
+    "region": "North America",
+    "current_ai_risk": "7.98",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 10,
+      "2026": 12,
+      "2027": 14,
+      "2028": 17
+    },
+    "regional_summary_snippet": "In North America Criminal Lawyer currently faces Very Low AI replacement risk at 7.98%. The region l..."
+  },
+  {
+    "job_id": "030-2025",
+    "batch_id": "legal-services",
+    "job_title": "Criminal Lawyer",
+    "job_description_snippet": "Represents defendants in criminal cases, conducting investigations, negotiating plea deals, presenti...",
+    "industry": "Legal Services",
+    "region": "Europe",
+    "current_ai_risk": "7.28",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 9,
+      "2026": 11,
+      "2027": 13,
+      "2028": 15
+    },
+    "regional_summary_snippet": "In Europe Criminal Lawyer currently faces Very Low AI replacement risk at 7.28%. Strong regulatory f..."
+  },
+  {
+    "job_id": "030-2025",
+    "batch_id": "legal-services",
+    "job_title": "Criminal Lawyer",
+    "job_description_snippet": "Represents defendants in criminal cases, conducting investigations, negotiating plea deals, presenti...",
+    "industry": "Legal Services",
+    "region": "East Asia",
+    "current_ai_risk": "7.64",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 9,
+      "2026": 11,
+      "2027": 14,
+      "2028": 16
+    },
+    "regional_summary_snippet": "In East Asia Criminal Lawyer currently faces Very Low AI replacement risk at 7.64%. High technology ..."
+  },
+  {
+    "job_id": "030-2025",
+    "batch_id": "legal-services",
+    "job_title": "Criminal Lawyer",
+    "job_description_snippet": "Represents defendants in criminal cases, conducting investigations, negotiating plea deals, presenti...",
+    "industry": "Legal Services",
+    "region": "Southeast Asia",
+    "current_ai_risk": "6.24",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 7,
+      "2026": 9,
+      "2027": 11,
+      "2028": 13
+    },
+    "regional_summary_snippet": "In Southeast Asia Criminal Lawyer currently faces Very Low AI replacement risk at 6.24%. Growing dig..."
+  },
+  {
+    "job_id": "030-2025",
+    "batch_id": "legal-services",
+    "job_title": "Criminal Lawyer",
+    "job_description_snippet": "Represents defendants in criminal cases, conducting investigations, negotiating plea deals, presenti...",
+    "industry": "Legal Services",
+    "region": "Australia & New Zealand",
+    "current_ai_risk": "6.59",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 8,
+      "2026": 10,
+      "2027": 12,
+      "2028": 14
+    },
+    "regional_summary_snippet": "In Australia & New Zealand Criminal Lawyer currently faces Very Low AI replacement risk at 6.59%. Mo..."
+  },
+  {
+    "job_id": "030-2025",
+    "batch_id": "legal-services",
+    "job_title": "Criminal Lawyer",
+    "job_description_snippet": "Represents defendants in criminal cases, conducting investigations, negotiating plea deals, presenti...",
+    "industry": "Legal Services",
+    "region": "South Asia",
+    "current_ai_risk": "2025-09-05T00:00:00.000Z",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 7,
+      "2026": 9,
+      "2027": 11,
+      "2028": 12
+    },
+    "regional_summary_snippet": "In South Asia Criminal Lawyer currently faces Very Low AI replacement risk at 5.90%. Large talent po..."
+  },
+  {
+    "job_id": "030-2025",
+    "batch_id": "legal-services",
+    "job_title": "Criminal Lawyer",
+    "job_description_snippet": "Represents defendants in criminal cases, conducting investigations, negotiating plea deals, presenti...",
+    "industry": "Legal Services",
+    "region": "Middle East & North Africa",
+    "current_ai_risk": "6.24",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 7,
+      "2026": 9,
+      "2027": 11,
+      "2028": 13
+    },
+    "regional_summary_snippet": "In Middle East & North Africa Criminal Lawyer currently faces Very Low AI replacement risk at 6.24%...."
+  },
+  {
+    "job_id": "030-2025",
+    "batch_id": "legal-services",
+    "job_title": "Criminal Lawyer",
+    "job_description_snippet": "Represents defendants in criminal cases, conducting investigations, negotiating plea deals, presenti...",
+    "industry": "Legal Services",
+    "region": "Latin America",
+    "current_ai_risk": "2025-09-05T00:00:00.000Z",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 7,
+      "2026": 8,
+      "2027": 11,
+      "2028": 12
+    },
+    "regional_summary_snippet": "In Latin America Criminal Lawyer currently faces Very Low AI replacement risk at 5.90%. Emerging dig..."
+  },
+  {
+    "job_id": "030-2025",
+    "batch_id": "legal-services",
+    "job_title": "Criminal Lawyer",
+    "job_description_snippet": "Represents defendants in criminal cases, conducting investigations, negotiating plea deals, presenti...",
+    "industry": "Legal Services",
+    "region": "Sub-Saharan Africa",
+    "current_ai_risk": "5.55",
+    "risk_category": "Very Low",
+    "projections": {
+      "2025": 7,
+      "2026": 8,
+      "2027": 10,
+      "2028": 12
+    },
+    "regional_summary_snippet": "In Sub-Saharan Africa Criminal Lawyer currently faces Very Low AI replacement risk at 5.55%. Develop..."
+  }
+]
