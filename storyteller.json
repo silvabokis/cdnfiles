@@ -406,5 +406,11 @@
     "timestamp": "2025-12-01T15:35:20.000Z",
     "text": "Or get your mum to do the ironing.",
     "name": "Lazy Susan"
+  },
+  {
+    "type": "user",
+    "timestamp": "2025-12-01T15:41:49.000Z",
+    "text": "Why not just wear the crinkled clothes and let your body heat get rid of the creases?",
+    "name": "Lazy Susan"
   }
 ]
